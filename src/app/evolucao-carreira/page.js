@@ -12,17 +12,17 @@ export default function EvolucaoCarreira() {
         <div className="card">
           <h3>Progressão por Títulos</h3>
           <p style={{ marginBottom: '1rem' }}>Como usar sua pós-graduação ou mestrado para subir de nível na tabela salarial.</p>
-          <Link href="/evolucao-carreira/progressao-por-titulos" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
-        </div>
-        <div className="card">
-          <h3>Avaliação de Desempenho</h3>
-          <p style={{ marginBottom: '1rem' }}>Passo a passo para recorrer de notas injustas e garantir sua promoção.</p>
-          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
+          <Link href="/artigos/progressao-por-titulos" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
         <div className="card">
           <h3>Estágio Probatório</h3>
           <p style={{ marginBottom: '1rem' }}>Direitos, deveres e como funciona a estabilidade constitucional na prática.</p>
-          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
+          <Link href="/artigos/estagio-probatorio" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
+        </div>
+        <div className="card">
+          <h3>Servidor e MEI</h3>
+          <p style={{ marginBottom: '1rem' }}>Entenda os mitos e verdades sobre a abertura de CNPJ por servidores públicos.</p>
+          <Link href="/artigos/servidor-pode-ter-mei" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
       </div>
     </div>

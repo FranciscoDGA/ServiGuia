@@ -12,17 +12,17 @@ export default function Previdencia() {
         <div className="card">
           <h3>Abono de Permanência</h3>
           <p style={{ marginBottom: '1rem' }}>Vale a pena continuar trabalhando após o tempo de aposentadoria? Calcule aqui.</p>
-          <Link href="/previdencia/abono-permanencia" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
+          <Link href="/artigos/abono-permanencia" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
         <div className="card">
-          <h3>Aposentadoria Especial</h3>
-          <p style={{ marginBottom: '1rem' }}>Requisitos para guardas municipais, enfermeiros e cargos com insalubridade.</p>
-          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
+          <h3>Aposentadoria Especial (RPPS)</h3>
+          <p style={{ marginBottom: '1rem' }}>Saiba como ficou a aposentadoria especial pós-reforma e a regra de transição.</p>
+          <Link href="/artigos/aposentadoria-especial-rpps" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
         <div className="card">
-          <h3>Regras de Transição (RPPS)</h3>
-          <p style={{ marginBottom: '1rem' }}>O que mudou com a Reforma da Previdência e qual regra é a melhor para você.</p>
-          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
+          <h3>Insalubridade e Periculosidade</h3>
+          <p style={{ marginBottom: '1rem' }}>Saiba como requerer laudos técnicos e garantir seus direitos previdenciários e adicionais.</p>
+          <Link href="/artigos/insalubridade-periculosidade" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
       </div>
     </div>
