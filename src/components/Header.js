@@ -5,7 +5,7 @@ import Link from 'next/link'
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   
-  const whatsappUrl = "https://wa.me/5594984478168?text=Olá, venho pelo ServGuia e preciso de assessoria jurídica administrativa."
+  const whatsappUrl = "https://wa.me/5594984478168?text=[SERVGUIA-ADV]%20Ol%C3%A1!%20Vim%20pelo%20site%20ServGuia%20e%20preciso%20falar%20com%20um%20advogado%20administrativista."
 
   return (
     <header className="header">
