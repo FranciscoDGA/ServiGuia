@@ -16,9 +16,11 @@ export default function RootLayout({ children }) {
               ServGuia
             </Link>
             <nav className="nav-links">
-              <Link href="/evolucao-carreira" className="nav-link">Evolução & Carreira</Link>
-              <Link href="/direitos-licencas" className="nav-link">Direitos & Licenças</Link>
-              <Link href="/previdencia" className="nav-link">Previdência & Saída</Link>
+              <Link href="/evolucao-carreira" className="nav-link">Carreira</Link>
+              <Link href="/direitos-licencas" className="nav-link">Direitos</Link>
+              <Link href="/previdencia" className="nav-link">Previdência</Link>
+              <Link href="/ferramentas/calculadora-aposentadoria" className="nav-link" style={{color: 'var(--secondary-color)'}}>Ferramentas</Link>
+              <Link href="/produtos/kit-requerimentos" className="nav-link" style={{color: 'var(--accent-color)'}}>Produtos</Link>
             </nav>
           </div>
         </header>
@@ -35,19 +37,16 @@ export default function RootLayout({ children }) {
                 </p>
               </div>
               <div className="footer-column">
-                <h4>Conteúdo</h4>
+                <h4>Ferramentas</h4>
                 <ul>
-                  <li><Link href="/evolucao-carreira">Evolução & Carreira</Link></li>
-                  <li><Link href="/direitos-licencas">Direitos & Licenças</Link></li>
-                  <li><Link href="/previdencia">Previdência & Saída</Link></li>
+                  <li><Link href="/ferramentas/gerador-requerimento">Gerador de Requerimentos (PDF)</Link></li>
+                  <li><Link href="/ferramentas/calculadora-aposentadoria">Calculadora de Aposentadoria</Link></li>
                 </ul>
               </div>
               <div className="footer-column">
-                <h4>Recursos</h4>
+                <h4>Produtos</h4>
                 <ul>
-                  <li><a href="#">Modelos de Requerimento</a></li>
-                  <li><a href="#">Simulador de Aposentadoria</a></li>
-                  <li><a href="#">Calculadora de Triênios</a></li>
+                  <li><Link href="/produtos/kit-requerimentos">Kit Premium de Requerimentos (Word)</Link></li>
                 </ul>
               </div>
             </div>
