@@ -16,11 +16,13 @@ export default function RootLayout({ children }) {
               ServGuia
             </Link>
             <nav className="nav-links">
+              <Link href="/sobre" className="nav-link">Sobre</Link>
               <Link href="/evolucao-carreira" className="nav-link">Carreira</Link>
               <Link href="/direitos-licencas" className="nav-link">Direitos</Link>
               <Link href="/previdencia" className="nav-link">Previdência</Link>
               <Link href="/ferramentas/calculadora-aposentadoria" className="nav-link" style={{color: 'var(--secondary-color)'}}>Ferramentas</Link>
               <Link href="/produtos/kit-requerimentos" className="nav-link" style={{color: 'var(--accent-color)'}}>Produtos</Link>
+              <Link href="/contato" className="nav-link">Contato</Link>
             </nav>
           </div>
         </header>
@@ -35,6 +37,10 @@ export default function RootLayout({ children }) {
                 <p style={{ color: 'rgba(255,255,255,0.8)' }}>
                   Democratizando o conhecimento jurídico e administrativo para servidores de todo o Brasil.
                 </p>
+                <div style={{ marginTop: '1rem' }}>
+                  <Link href="/sobre" style={{ marginRight: '1rem' }}>Sobre</Link>
+                  <Link href="/contato">Contato</Link>
+                </div>
               </div>
               <div className="footer-column">
                 <h4>Ferramentas</h4>
@@ -46,7 +52,7 @@ export default function RootLayout({ children }) {
               <div className="footer-column">
                 <h4>Produtos</h4>
                 <ul>
-                  <li><Link href="/produtos/kit-requerimentos">Kit Premium de Requerimentos (Word)</Link></li>
+                  <li><Link href="/produtos/kit-requerimentos">Kit Premium de Requerimentos</Link></li>
                 </ul>
               </div>
             </div>
