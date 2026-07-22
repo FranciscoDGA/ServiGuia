@@ -9,7 +9,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const articleData = await getArticleData(params.slug)
+  const resolvedParams = await params
+  const articleData = await getArticleData(resolvedParams.slug)
   return {
     title: `${articleData.title} | ServGuia`,
     description: articleData.description,
@@ -17,7 +18,8 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function Article({ params }) {
-  const articleData = await getArticleData(params.slug)
+  const resolvedParams = await params
+  const articleData = await getArticleData(resolvedParams.slug)
   
   return (
     <ArticleLayout 
