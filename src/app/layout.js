@@ -12,8 +12,8 @@ export default function RootLayout({ children }) {
       <body>
         <header className="header">
           <div className="container header-content">
-            <Link href="/" className="logo">
-              ServGuia
+            <Link href="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
+              <img src="/logo.png" alt="ServGuia Logo" style={{ height: '40px', width: 'auto', borderRadius: '4px' }} />
             </Link>
             <nav className="nav-links" style={{ alignItems: 'center' }}>
               <Link href="/sobre" className="nav-link">Sobre</Link>
