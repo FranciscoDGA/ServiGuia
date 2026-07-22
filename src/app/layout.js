@@ -17,6 +17,7 @@ export default function RootLayout({ children }) {
             </Link>
             <nav className="nav-links">
               <Link href="/sobre" className="nav-link">Sobre</Link>
+              <Link href="/blog" className="nav-link">Blog</Link>
               <Link href="/evolucao-carreira" className="nav-link">Carreira</Link>
               <Link href="/direitos-licencas" className="nav-link">Direitos</Link>
               <Link href="/previdencia" className="nav-link">Previdência</Link>
