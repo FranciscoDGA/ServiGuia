@@ -1,4 +1,5 @@
 import './globals.css'
+import Header from '@/components/Header'
 import Link from 'next/link'
 
 export const metadata = {
@@ -7,44 +8,12 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
+  const whatsappUrl = "https://wa.me/5594984478168?text=Olá, venho pelo ServGuia e preciso de assessoria jurídica administrativa."
+
   return (
     <html lang="pt-BR">
       <body>
-        <header className="header">
-          <div className="container header-content">
-            <Link href="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
-              <img src="/logo.png" alt="ServGuia Logo" style={{ height: '40px', width: 'auto', borderRadius: '4px' }} />
-            </Link>
-            <nav className="nav-links" style={{ alignItems: 'center' }}>
-              <Link href="/sobre" className="nav-link">Sobre</Link>
-              <Link href="/blog" className="nav-link">Blog</Link>
-              
-              <div className="dropdown">
-                <span className="nav-link" style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
-                  Guias <span style={{ fontSize: '0.8em' }}>▼</span>
-                </span>
-                <div className="dropdown-content">
-                  <Link href="/evolucao-carreira" className="dropdown-item">Carreira</Link>
-                  <Link href="/direitos-licencas" className="dropdown-item">Direitos</Link>
-                  <Link href="/previdencia" className="dropdown-item">Previdência</Link>
-                </div>
-              </div>
-
-              <div className="dropdown">
-                <span className="nav-link" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: 'var(--accent-color)' }}>
-                  Recursos <span style={{ fontSize: '0.8em' }}>▼</span>
-                </span>
-                <div className="dropdown-content">
-                  <Link href="/ferramentas" className="dropdown-item">Ferramentas Grátis</Link>
-                  <Link href="/produtos/kit-requerimentos" className="dropdown-item" style={{ color: '#d97706' }}>Kits Premium</Link>
-                  <Link href="/cursos-parceiros" className="dropdown-item" style={{ color: '#059669' }}>Cursos Parceiros</Link>
-                </div>
-              </div>
-
-              <Link href="/assessoria-juridica" className="nav-link" style={{ color: '#e53e3e', fontWeight: 'bold' }}>Advogado</Link>
-            </nav>
-          </div>
-        </header>
+        <Header />
 
         <main>{children}</main>
 
@@ -69,7 +38,7 @@ export default function RootLayout({ children }) {
                   <li><Link href="/ferramentas/gerador-requerimento">Gerador de Requerimentos (PDF)</Link></li>
                   <li><Link href="/ferramentas/calculadora-aposentadoria">Calculadora de Aposentadoria</Link></li>
                   <li><Link href="/cursos-parceiros">Cursos de Pós-Graduação (EaD)</Link></li>
-                  <li><Link href="/assessoria-juridica">Preciso de Advogado Administrativista</Link></li>
+                  <li><a href={whatsappUrl} target="_blank" rel="noopener noreferrer">Preciso de Advogado Administrativista</a></li>
                 </ul>
               </div>
               <div className="footer-column">
