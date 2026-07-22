@@ -1,6 +1,9 @@
 import './globals.css'
 import Header from '@/components/Header'
 import Link from 'next/link'
+import { Inter } from 'next/font/google'
+
+const inter = Inter({ subsets: ['latin'], display: 'swap' })
 
 export const metadata = {
   title: 'ServGuia - O Guia Definitivo do Servidor Público',
@@ -11,7 +14,7 @@ export default function RootLayout({ children }) {
   const whatsappUrl = "https://wa.me/5594984478168?text=[SERVGUIA-ADV]%20Ol%C3%A1!%20Vim%20pelo%20site%20ServGuia%20e%20preciso%20falar%20com%20um%20advogado%20administrativista."
 
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" className={inter.className}>
       <body>
         <Header />
 

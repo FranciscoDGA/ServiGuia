@@ -1,6 +1,7 @@
 "use client"
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
@@ -11,7 +12,7 @@ export default function Header() {
     <header className="header">
       <div className="container header-content">
         <Link href="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
-          <img src="/logo.png" alt="ServGuia Logo" style={{ height: '40px', width: 'auto', borderRadius: '4px' }} />
+          <Image src="/logo.png" alt="ServGuia Logo" width={180} height={40} style={{ objectFit: 'contain', borderRadius: '4px' }} priority />
         </Link>
         
         {/* Mobile Hamburger Icon */}
