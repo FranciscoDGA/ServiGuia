@@ -39,7 +39,7 @@ export default function Home() {
           </form>
 
           <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-            <Link href="/ferramentas/calculadora-aposentadoria" className="btn" style={{ backgroundColor: 'transparent', border: '1px solid rgba(255,255,255,0.4)', color: 'white' }}>
+            <Link href="/ferramentas/calculadora-aposentadoria" className="btn btn-primary">
               Calcular Aposentadoria
             </Link>
             <Link href="/ferramentas/gerador-requerimento" className="btn btn-accent">
