@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function DireitosLicencas() {
   return (
     <div className="container" style={{ padding: '4rem 2rem' }}>
@@ -9,15 +11,18 @@ export default function DireitosLicencas() {
       <div className="card-grid" style={{ padding: '0' }}>
         <div className="card">
           <h3>Licença-Prêmio</h3>
-          <p>Como requerer, quando é possível converter em dinheiro e as regras para gozo.</p>
+          <p style={{ marginBottom: '1rem' }}>Como requerer, quando é possível converter em dinheiro e as regras para gozo.</p>
+          <Link href="/direitos-licencas/guia-licenca-premio-capacitacao" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Ler Artigo</Link>
         </div>
         <div className="card">
           <h3>Defesa em PAD</h3>
-          <p>O que fazer nos primeiros 10 dias após ser notificado de um Processo Administrativo Disciplinar.</p>
+          <p style={{ marginBottom: '1rem' }}>O que fazer nos primeiros 10 dias após ser notificado de um Processo Administrativo Disciplinar.</p>
+          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
         </div>
         <div className="card">
           <h3>Remoção e Transferência</h3>
-          <p>Direitos à remoção por motivo de saúde ou união familiar.</p>
+          <p style={{ marginBottom: '1rem' }}>Direitos à remoção por motivo de saúde ou união familiar.</p>
+          <span className="btn" style={{ padding: '0.5rem 1rem', backgroundColor: '#e2e8f0', color: '#718096', cursor: 'not-allowed' }}>Em breve</span>
         </div>
       </div>
     </div>
