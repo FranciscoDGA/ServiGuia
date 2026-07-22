@@ -45,6 +45,7 @@ export default async function Article({ params }) {
         readTime={articleData.readTime}
       >
       <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
-    </ArticleLayout>
+      </ArticleLayout>
+    </>
   )
 }
