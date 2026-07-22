@@ -21,12 +21,29 @@ export default async function Article({ params }) {
   const resolvedParams = await params
   const articleData = await getArticleData(resolvedParams.slug)
   
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: articleData.title,
+    description: articleData.description,
+    datePublished: articleData.date,
+    author: {
+      '@type': 'Organization',
+      name: 'ServGuia'
+    }
+  }
+
   return (
-    <ArticleLayout 
-      title={articleData.title}
-      date={articleData.date}
-      readTime={articleData.readTime}
-    >
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <ArticleLayout 
+        title={articleData.title}
+        date={articleData.date}
+        readTime={articleData.readTime}
+      >
       <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
     </ArticleLayout>
   )

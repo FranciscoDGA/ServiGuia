@@ -39,9 +39,11 @@ export default function RootLayout({ children }) {
                 <p style={{ color: 'rgba(255,255,255,0.8)' }}>
                   Democratizando o conhecimento jurídico e administrativo para servidores de todo o Brasil.
                 </p>
-                <div style={{ marginTop: '1rem' }}>
-                  <Link href="/sobre" style={{ marginRight: '1rem' }}>Sobre</Link>
+                <div style={{ marginTop: '1rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                  <Link href="/sobre">Sobre Nós</Link>
                   <Link href="/contato">Contato</Link>
+                  <Link href="/termos-de-uso" style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.6)' }}>Termos de Uso</Link>
+                  <Link href="/politica-de-privacidade" style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.6)' }}>Política de Privacidade</Link>
                 </div>
               </div>
               <div className="footer-column">
@@ -60,7 +62,12 @@ export default function RootLayout({ children }) {
                 </ul>
               </div>
             </div>
-            <div className="footer-bottom">
+            
+            <div style={{ marginTop: '3rem', padding: '1rem', backgroundColor: 'rgba(0,0,0,0.2)', borderRadius: '8px', fontSize: '0.85rem', color: 'rgba(255,255,255,0.6)', textAlign: 'center' }}>
+              <strong>Aviso Legal (Disclaimer):</strong> O ServGuia é um portal informativo independente. Não possuímos vínculo com órgãos governamentais. Nossos conteúdos têm caráter educativo e não substituem a consulta formal ao RH do seu ente federativo ou a assessoria jurídica especializada.
+            </div>
+
+            <div className="footer-bottom" style={{ marginTop: '2rem' }}>
               <p>&copy; {new Date().getFullYear()} ServGuia. Todos os direitos reservados.</p>
             </div>
           </div>

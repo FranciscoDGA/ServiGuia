@@ -1,12 +1,24 @@
 import { getSortedArticlesData } from '@/lib/markdown'
 import Link from 'next/link'
 
-export default function Blog() {
-  const articles = getSortedArticlesData()
+export default async function Blog({ searchParams }) {
+  const resolvedParams = await searchParams
+  const q = resolvedParams?.q?.toLowerCase() || ''
+  
+  let articles = getSortedArticlesData()
+  
+  if (q) {
+    articles = articles.filter(article => 
+      article.title.toLowerCase().includes(q) || 
+      article.description.toLowerCase().includes(q)
+    )
+  }
 
   return (
     <div className="container" style={{ padding: '4rem 2rem', maxWidth: '900px' }}>
-      <h1 style={{ color: 'var(--primary-color)', marginBottom: '1rem', textAlign: 'center' }}>Todos os Artigos</h1>
+      <h1 style={{ color: 'var(--primary-color)', marginBottom: '1rem', textAlign: 'center' }}>
+        {q ? `Resultados para: "${q}"` : 'Todos os Artigos'}
+      </h1>
       <p style={{ color: 'var(--text-light)', textAlign: 'center', marginBottom: '3rem' }}>
         O acervo completo do ServGuia com todos os guias, passo a passos e dicas essenciais para a sua carreira.
       </p>
