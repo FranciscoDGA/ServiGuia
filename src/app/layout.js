@@ -8,6 +8,27 @@ const inter = Inter({ subsets: ['latin'], display: 'swap' })
 export const metadata = {
   title: 'ServGuia - O Guia Definitivo do Servidor Público',
   description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos municipais e estaduais.',
+  metadataBase: new URL('https://servguia.com.br'),
+  openGraph: {
+    title: 'ServGuia - O Guia Definitivo do Servidor Público',
+    description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.',
+    url: 'https://servguia.com.br',
+    siteName: 'ServGuia',
+    images: [
+      {
+        url: '/logo.png', // Idealmente deve ser uma imagem retangular de 1200x630px para OG
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: 'pt_BR',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ServGuia - O Guia Definitivo do Servidor Público',
+    description: 'Acesse guias definitivos sobre sindicância, PAD, licenças e aposentadoria do servidor público.',
+  },
 }
 
 export default function RootLayout({ children }) {
