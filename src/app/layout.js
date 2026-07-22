@@ -23,7 +23,8 @@ export default function RootLayout({ children }) {
               <Link href="/previdencia" className="nav-link">Previdência</Link>
               <Link href="/ferramentas/calculadora-aposentadoria" className="nav-link" style={{color: 'var(--secondary-color)'}}>Ferramentas</Link>
               <Link href="/produtos/kit-requerimentos" className="nav-link" style={{color: 'var(--accent-color)'}}>Produtos</Link>
-              <Link href="/contato" className="nav-link">Contato</Link>
+              <Link href="/cursos-parceiros" className="nav-link" style={{color: '#38a169'}}>Cursos</Link>
+              <Link href="/assessoria-juridica" className="nav-link" style={{color: '#e53e3e', fontWeight: 'bold'}}>Advogado</Link>
             </nav>
           </div>
         </header>
@@ -44,10 +45,12 @@ export default function RootLayout({ children }) {
                 </div>
               </div>
               <div className="footer-column">
-                <h4>Ferramentas</h4>
+                <h4>Ferramentas & Parceiros</h4>
                 <ul>
                   <li><Link href="/ferramentas/gerador-requerimento">Gerador de Requerimentos (PDF)</Link></li>
                   <li><Link href="/ferramentas/calculadora-aposentadoria">Calculadora de Aposentadoria</Link></li>
+                  <li><Link href="/cursos-parceiros">Cursos de Pós-Graduação (EaD)</Link></li>
+                  <li><Link href="/assessoria-juridica">Preciso de Advogado Administrativista</Link></li>
                 </ul>
               </div>
               <div className="footer-column">
