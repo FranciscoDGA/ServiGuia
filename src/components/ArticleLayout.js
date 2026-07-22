@@ -1,4 +1,4 @@
-export default function ArticleLayout({ children, title, date, readTime }) {
+export default function ArticleLayout({ children, title, date, readTime, image }) {
   return (
     <article className="container" style={{ padding: '4rem 2rem', maxWidth: '800px' }}>
       <header style={{ marginBottom: '3rem', textAlign: 'center' }}>
@@ -8,6 +8,13 @@ export default function ArticleLayout({ children, title, date, readTime }) {
           <span>⏱️ {readTime} min de leitura</span>
         </div>
       </header>
+      
+      {image && (
+        <div style={{ width: '100%', height: '400px', borderRadius: '12px', overflow: 'hidden', marginBottom: '3rem', boxShadow: '0 10px 25px rgba(0,0,0,0.1)' }}>
+          <img src={image} alt={title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+        </div>
+      )}
+
       <div className="article-content" style={{ fontSize: '1.15rem', lineHeight: '1.8', color: 'var(--text-color)', marginBottom: '4rem' }}>
         {children}
       </div>

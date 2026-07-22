@@ -3,6 +3,7 @@ title: 'Guia Definitivo: Servidor Público pode ter MEI, abrir CNPJ ou ser Sóci
 description: 'O maior mito do funcionalismo desvendado: entenda exatamente as regras da Lei 8.112/90 sobre servidores públicos, MEI, EIRELI e participação societária. Saiba como empreender sem perder seu cargo.'
 date: '2026-07-22'
 readTime: 18
+image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&w=800&q=80'
 ---
 
 ![Servidor Público e Empreendedorismo: Regras do CNPJ](https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&w=800&q=80)

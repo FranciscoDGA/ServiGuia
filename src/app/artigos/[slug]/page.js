@@ -43,6 +43,7 @@ export default async function Article({ params }) {
         title={articleData.title}
         date={articleData.date}
         readTime={articleData.readTime}
+        image={articleData.image}
       >
       <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
       </ArticleLayout>
