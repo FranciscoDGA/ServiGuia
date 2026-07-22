@@ -1,5 +1,6 @@
 import './globals.css'
 import Header from '@/components/Header'
+import CookieBanner from '@/components/CookieBanner'
 import Link from 'next/link'
 import { Inter } from 'next/font/google'
 
@@ -82,6 +83,7 @@ export default function RootLayout({ children }) {
             </div>
           </div>
         </footer>
+        <CookieBanner />
       </body>
     </html>
   )
