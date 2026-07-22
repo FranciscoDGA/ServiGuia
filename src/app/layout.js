@@ -15,16 +15,33 @@ export default function RootLayout({ children }) {
             <Link href="/" className="logo">
               ServGuia
             </Link>
-            <nav className="nav-links">
+            <nav className="nav-links" style={{ alignItems: 'center' }}>
               <Link href="/sobre" className="nav-link">Sobre</Link>
               <Link href="/blog" className="nav-link">Blog</Link>
-              <Link href="/evolucao-carreira" className="nav-link">Carreira</Link>
-              <Link href="/direitos-licencas" className="nav-link">Direitos</Link>
-              <Link href="/previdencia" className="nav-link">Previdência</Link>
-              <Link href="/ferramentas/calculadora-aposentadoria" className="nav-link" style={{color: 'var(--secondary-color)'}}>Ferramentas</Link>
-              <Link href="/produtos/kit-requerimentos" className="nav-link" style={{color: 'var(--accent-color)'}}>Produtos</Link>
-              <Link href="/cursos-parceiros" className="nav-link" style={{color: '#38a169'}}>Cursos</Link>
-              <Link href="/assessoria-juridica" className="nav-link" style={{color: '#e53e3e', fontWeight: 'bold'}}>Advogado</Link>
+              
+              <div className="dropdown">
+                <span className="nav-link" style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+                  Guias <span style={{ fontSize: '0.8em' }}>▼</span>
+                </span>
+                <div className="dropdown-content">
+                  <Link href="/evolucao-carreira" className="dropdown-item">Carreira</Link>
+                  <Link href="/direitos-licencas" className="dropdown-item">Direitos</Link>
+                  <Link href="/previdencia" className="dropdown-item">Previdência</Link>
+                </div>
+              </div>
+
+              <div className="dropdown">
+                <span className="nav-link" style={{ display: 'flex', alignItems: 'center', gap: '4px', color: 'var(--accent-color)' }}>
+                  Recursos <span style={{ fontSize: '0.8em' }}>▼</span>
+                </span>
+                <div className="dropdown-content">
+                  <Link href="/ferramentas" className="dropdown-item">Ferramentas Grátis</Link>
+                  <Link href="/produtos/kit-requerimentos" className="dropdown-item" style={{ color: '#d97706' }}>Kits Premium</Link>
+                  <Link href="/cursos-parceiros" className="dropdown-item" style={{ color: '#059669' }}>Cursos Parceiros</Link>
+                </div>
+              </div>
+
+              <Link href="/assessoria-juridica" className="nav-link" style={{ color: '#e53e3e', fontWeight: 'bold' }}>Advogado</Link>
             </nav>
           </div>
         </header>
