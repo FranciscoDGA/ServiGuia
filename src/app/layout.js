@@ -2,6 +2,7 @@ import './globals.css'
 import Header from '@/components/Header'
 import CookieBanner from '@/components/CookieBanner'
 import GoogleAnalytics from '@/components/GoogleAnalytics'
+import ExitIntentPopup from '@/components/ExitIntentPopup'
 import Link from 'next/link'
 import { Inter } from 'next/font/google'
 
@@ -113,6 +114,7 @@ export default function RootLayout({ children }) {
           </div>
         </footer>
         <CookieBanner />
+        <ExitIntentPopup />
       </body>
     </html>
   )

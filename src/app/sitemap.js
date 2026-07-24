@@ -34,5 +34,13 @@ export default function sitemap() {
     priority: 0.7,
   }))
 
-  return [...staticRoutes, ...dynamicRoutes]
+  // Rotas de Web Stories
+  const webStoriesRoutes = articles.map((article) => ({
+    url: `${baseUrl}/web-stories/${article.slug}`,
+    lastModified: new Date(article.date).toISOString(),
+    changeFrequency: 'monthly',
+    priority: 0.8,
+  }))
+
+  return [...staticRoutes, ...dynamicRoutes, ...webStoriesRoutes]
 }
