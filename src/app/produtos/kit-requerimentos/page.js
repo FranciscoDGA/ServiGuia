@@ -100,9 +100,9 @@ export default function KitRequerimentos() {
                 <Gift size={32} color="#d69e2e" />
                 <h3 style={{ color: '#d69e2e', fontSize: '1.5rem', margin: 0 }}>Super Bônus Incluso</h3>
               </div>
-              <h4 style={{ fontSize: '1.2rem', color: 'var(--primary-color)', marginBottom: '1rem' }}>Guia Prático de Preenchimento</h4>
+              <h4 style={{ fontSize: '1.2rem', color: 'var(--primary-color)', marginBottom: '1rem' }}>Portal: Guia Prático de Preenchimento</h4>
               <p style={{ color: 'var(--text-light)', marginBottom: 0 }}>
-                Não sabe qual lei citar? Com medo de preencher errado? Ao garantir o seu kit hoje, você leva de presente um <strong>Manual de Instruções Passo a Passo</strong> te ensinando a preencher, assinar e onde protocolar no RH, mesmo que você nunca tenha feito isso na vida!
+                Não sabe qual lei citar? Com medo de preencher errado? Ao garantir o seu kit hoje, você ganha acesso liberado ao nosso <strong><Link href="/guia-preenchimento" style={{ color: '#d69e2e', fontWeight: 'bold' }}>Portal de Instruções Online</Link></strong> ensinando o passo a passo de como preencher, assinar e protocolar os formulários no RH da sua prefeitura.
               </p>
             </div>
           </div>
