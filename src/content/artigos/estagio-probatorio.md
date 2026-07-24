@@ -3,7 +3,7 @@ title: 'Estágio Probatório: Regras, Avaliações e Demissão (Guia Completo)'
 description: 'Saiba quais são seus direitos e obrigações durante os 3 primeiros anos de serviço público e o que realmente pode causar reprovação.'
 date: '2026-07-26'
 readTime: 6
-image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
+image: 'https://loremflickr.com/800/400/office,business,law?lock=17'
 ---
 
 O **estágio probatório** é o período de teste pelo qual todo servidor aprovado em concurso público deve passar antes de adquirir a sonhada **estabilidade**. 

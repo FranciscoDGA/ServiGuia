@@ -3,7 +3,7 @@ title: 'Abono de Permanência: Requisitos e Como Funciona'
 description: 'Já pode se aposentar, mas quer continuar trabalhando? Entenda o Abono de Permanência e veja se você está deixando dinheiro na mesa.'
 date: '2026-07-25'
 readTime: 5
-image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
+image: 'https://loremflickr.com/800/400/office,business,law?lock=2'
 ---
 
 Se você é servidor público efetivo e já atingiu todos os requisitos para a aposentadoria voluntária, mas decidiu continuar trabalhando, a Constituição Federal criou um benefício financeiro gigantesco para você: o **Abono de Permanência**.

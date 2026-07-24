@@ -3,7 +3,7 @@ title: 'Servidor Público pode abrir MEI ou Empresa? Mitos e Verdades'
 description: 'Entenda se a legislação e o Estatuto dos Servidores permitem a abertura de CNPJ, MEI ou sociedade empresarial.'
 date: '2026-07-27'
 readTime: 7
-image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
+image: 'https://loremflickr.com/800/400/office,business,law?lock=36'
 ---
 
 Muitos servidores buscam alternativas para complementar a renda da família. A ideia de abrir um pequeno negócio, um e-commerce ou prestar consultorias via **MEI (Microempreendedor Individual)** é bastante comum.

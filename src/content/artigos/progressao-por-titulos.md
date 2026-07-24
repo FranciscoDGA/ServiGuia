@@ -3,7 +3,7 @@ title: 'Como funciona a progressão funcional por títulos e pós-graduação no
 description: 'Aprenda como usar sua pós-graduação ou mestrado para acelerar sua evolução funcional e subir na tabela salarial.'
 date: '2026-07-22'
 readTime: 6
-image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
+image: 'https://loremflickr.com/800/400/office,business,law?lock=30'
 ---
 
 A **progressão funcional por títulos** é um dos direitos mais valiosos (e muitas vezes ignorados) do servidor público. Se você é concursado, entender como converter sua qualificação educacional em aumento real no vencimento base é essencial para o planejamento da sua carreira a longo prazo.

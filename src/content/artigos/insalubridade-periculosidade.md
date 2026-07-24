@@ -3,7 +3,7 @@ title: 'Adicional de Insalubridade e Periculosidade: Como requerer no RH'
 description: 'Entenda a diferença entre insalubridade e periculosidade e saiba como solicitar os laudos técnicos necessários para receber o adicional.'
 date: '2026-07-29'
 readTime: 6
-image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
+image: 'https://loremflickr.com/800/400/office,business,law?lock=22'
 ---
 
 Servidores públicos municipais, estaduais e federais que trabalham expostos a agentes nocivos à saúde (insalubridade) ou em contato permanente com riscos de morte (periculosidade) têm direito a um adicional no vencimento. 
