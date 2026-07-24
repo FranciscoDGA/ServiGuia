@@ -180,7 +180,7 @@ export default function KitRequerimentos() {
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#38a169" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>5 Formulários de Licenças</span></li>
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#38a169" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>Guia Bônus Incluso</span></li>
               </ul>
-              <a href="#link-hotmart-basico" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#e2e8f0', color: '#4a5568', fontWeight: 'bold' }}>Quero o Básico</a>
+              <a href="https://pay.hotmart.com/Q106871524P" target="_blank" rel="noopener noreferrer" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#e2e8f0', color: '#4a5568', fontWeight: 'bold' }}>Quero o Básico</a>
             </div>
 
             {/* Plano 2 */}
@@ -194,7 +194,7 @@ export default function KitRequerimentos() {
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>7 Formulários Financeiros</span></li>
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>Guia Bônus Incluso</span></li>
               </ul>
-              <a href="#link-hotmart-financeiro" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#ebf8ff', color: '#2b6cb0', fontWeight: 'bold' }}>Quero o Financeiro</a>
+              <a href="https://pay.hotmart.com/M106871654Q" target="_blank" rel="noopener noreferrer" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#ebf8ff', color: '#2b6cb0', fontWeight: 'bold' }}>Quero o Financeiro</a>
             </div>
 
             {/* Plano 3 */}
@@ -208,7 +208,7 @@ export default function KitRequerimentos() {
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#e53e3e" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>Defesa Prévia, Recursos e Mais</span></li>
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#e53e3e" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#4a5568' }}>Guia Bônus Incluso</span></li>
               </ul>
-              <a href="#link-hotmart-pad" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#fff5f5', color: '#e53e3e', fontWeight: 'bold' }}>Quero o de Defesa</a>
+              <a href="https://pay.hotmart.com/W106871722M" target="_blank" rel="noopener noreferrer" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#fff5f5', color: '#e53e3e', fontWeight: 'bold' }}>Quero o de Defesa</a>
             </div>
 
             {/* Plano VIP */}
@@ -227,10 +227,15 @@ export default function KitRequerimentos() {
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#ecc94b" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#e2e8f0' }}>Kit Básico + Financeiro + PAD</span></li>
                 <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}><CheckCircle2 size={18} color="#ecc94b" style={{ flexShrink: 0, marginTop: '2px' }} /> <span style={{ fontSize: '0.95rem', color: '#e2e8f0' }}>Guia Bônus Incluso</span></li>
               </ul>
-              <a href="#link-hotmart-vip" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#ecc94b', color: '#1a202c', fontWeight: 'bold', fontSize: '1.2rem', padding: '1rem' }}>
+              <a href="https://pay.hotmart.com/Y106871849B" target="_blank" rel="noopener noreferrer" className="btn" style={{ width: '100%', textAlign: 'center', backgroundColor: '#ecc94b', color: '#1a202c', fontWeight: 'bold', fontSize: '1.2rem', padding: '1rem' }}>
                 COMPRAR KIT COMPLETO
               </a>
             </div>
+          </div>
+
+          <div style={{ textAlign: 'center', marginTop: '3rem', color: 'var(--text-light)', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', background: '#f7fafc', padding: '1rem', borderRadius: '12px', border: '1px solid #e2e8f0', maxWidth: '800px', margin: '3rem auto 0' }}>
+            <ShieldCheck size={24} color="#38a169" />
+            <span style={{ fontSize: '0.95rem' }}>Ao clicar em comprar, você será redirecionado com segurança para a <strong>Hotmart</strong>, a maior plataforma de produtos digitais do Brasil, que processará o seu pagamento.</span>
           </div>
         </div>
       </section>
