@@ -3,7 +3,7 @@ title: 'Licença para Mandato Eletivo: Como funciona quando o servidor é eleito
 description: 'Vai se candidatar a Vereador ou Prefeito? Entenda as regras constitucionais de afastamento, licença política e quando você pode acumular os salários.'
 date: '2026-08-18'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=24'
+image: 'https://picsum.photos/seed/licenca-mandato-eletivo-vereador-prefeito/800/400'
 ---
 
 Com a aproximação efervescente de cada período eleitoral no Brasil, é absolutamente normal observar que uma parcela significativa dos candidatos a cargos eletivos — especialmente nos municípios do interior — tem origem nas trincheiras do serviço público. Professores, agentes de saúde, fiscais de posturas, delegados, guardas civis e médicos frequentemente decidem se lançar no desafio da política partidária para levar o conhecimento técnico e as vivências reais da ponta do serviço para dentro das Câmaras de Vereadores e Prefeituras.

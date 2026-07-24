@@ -3,7 +3,7 @@ title: 'Aposentadoria Especial no RPPS após a Reforma da Previdência: Regras'
 description: 'Saiba como ficou a aposentadoria especial para servidores públicos expostos a agentes nocivos e como usar a regra de transição a seu favor.'
 date: '2026-07-30'
 readTime: 7
-image: 'https://loremflickr.com/800/400/office,business,law?lock=5'
+image: 'https://picsum.photos/seed/aposentadoria-especial-rpps/800/400'
 ---
 
 O direito à Aposentadoria Especial sempre foi a grande válvula de escape e a principal garantia de dignidade para milhares de servidores públicos que arriscam suas vidas e sua saúde em nome do Estado. Profissionais da saúde (médicos, enfermeiros, técnicos de raio-x), trabalhadores da limpeza urbana e servidores expostos a ruídos ensurdecedores ou agentes biológicos letais possuíam o justo direito de se aposentar mais cedo, retirando-se do ambiente nocivo antes que ele destruísse sua capacidade vital.

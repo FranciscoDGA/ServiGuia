@@ -3,7 +3,7 @@ title: 'Quinquênio (Adicional por Tempo de Serviço): Como calcular corretament
 description: 'Entenda como funciona o cálculo do quinquênio ou anuênio no serviço público e os principais erros que o RH comete no seu contracheque.'
 date: '2026-08-07'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=11'
+image: 'https://picsum.photos/seed/calculo-quinquenio-anuenio/800/400'
 ---
 
 O Adicional por Tempo de Serviço (ATS), mais conhecido popularmente como **Quinquênio** (ou, a depender do estatuto local, Anuênio, Triênio, ou Sexta-Parte), é um bônus salarial indispensável pago aos servidores por sua permanência, dedicação e lealdade à administração pública. Em tempos de inflação corroendo o poder de compra e falta de reajustes anuais, o quinquênio se torna um verdadeiro balão de oxigênio no orçamento do servidor.

@@ -3,7 +3,7 @@ title: 'Horário Especial para Servidor Estudante: Direito ou Favor do RH?'
 description: 'Você passou no vestibular ou na pós-graduação presencial? Saiba como a lei garante a flexibilização do seu ponto sem precisar de advogado.'
 date: '2026-08-15'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=21'
+image: 'https://picsum.photos/seed/horario-especial-servidor-estudante/800/400'
 ---
 
 É uma história triste, mas incrivelmente frequente na vida pública brasileira: servidores concursados, com grande potencial, são aprovados em vestibulares para Medicina, Direito, Engenharias ou ingressam em programas de Mestrado/Doutorado, mas acabam trancando a matrícula (ou até mesmo pedindo exoneração) por terrorismo psicológico das chefias imediatas. A frase clássica que se ouve nos corredores é: *"Você foi contratado para trabalhar no horário de expediente; se quiser estudar de dia, peça as contas."*

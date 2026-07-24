@@ -3,7 +3,7 @@ title: 'Readaptação Funcional: Seus direitos ao adoecer no serviço público'
 description: 'Sofreu acidente ou desenvolveu doença ocupacional? Descubra como a readaptação funcional garante seu emprego sem corte de salário.'
 date: '2026-08-09'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=31'
+image: 'https://picsum.photos/seed/readaptacao-funcional-saude/800/400'
 ---
 
 A aprovação em um concurso e a consequente e desejada estabilidade do servidor público estável não o blindam ou protegem unicamente de assédios infames e perseguições políticas, mas desempenham, sobretudo, um gigantesco papel social e protetivo de amparo e solidariedade nos piores momentos que afligem o trabalhador humano, especialmente diante do adoecimento físico grave ou do desgaste e degradação emocional severa gerados por anos no exercício daquela função.

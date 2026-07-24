@@ -3,7 +3,7 @@ title: 'Licença-Prêmio no Serviço Público: Regras e Congelamento na Pandemia
 description: 'Saiba o que é a licença-prêmio por assiduidade, quantas faltas anulam o seu direito e como ficou a contagem de tempo após a Pandemia.'
 date: '2026-08-26'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=26'
+image: 'https://picsum.photos/seed/licenca-premio-assiduidade-pandemia/800/400'
 ---
 
 A tão almejada Licença-Prêmio (ou Prêmio por Assiduidade) representa muito mais do que um simples "descanso". É a forma legal e concreta que o Estado encontrou de valorizar o servidor exemplar, recompensando anos a fio de extrema dedicação, disciplina e pontualidade no cumprimento de suas atribuições públicas. Se você trabalhar durante um período de 5 anos ininterruptos (o chamado quinquênio) sem registrar faltas não justificadas que ultrapassem o limite legal ou sem sofrer punições, a administração pública "premia" o seu esforço com **3 meses de descanso integralmente remunerados**.

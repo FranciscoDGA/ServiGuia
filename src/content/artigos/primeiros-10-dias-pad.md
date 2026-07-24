@@ -3,7 +3,7 @@ title: 'Guia do PAD: O que fazer nos primeiros 10 dias após ser notificado'
 description: 'Recebeu uma citação de Processo Administrativo Disciplinar? Saiba quais são os passos cruciais nos primeiros 10 dias para garantir sua defesa.'
 date: '2026-07-26'
 readTime: 7
-image: 'https://loremflickr.com/800/400/office,business,law?lock=29'
+image: 'https://picsum.photos/seed/primeiros-10-dias-pad/800/400'
 ---
 
 Ser formalmente notificado da instauração de um Processo Administrativo Disciplinar (o temido e assustador PAD) contra si mesmo é, indubitavelmente, um dos momentos mais tensos, angustiantes e solitários em toda a carreira funcional de um servidor público estável ou probatório. A pressão psicológica é dilacerante: o medo real da exoneração, da humilhação perante os colegas, de corte na aposentadoria ou do manchamento irreversível de uma reputação esculpida durante décadas e décadas de serviços prestados de forma ilibada. 

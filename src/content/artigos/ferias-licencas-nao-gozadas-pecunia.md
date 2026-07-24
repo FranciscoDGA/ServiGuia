@@ -3,7 +3,7 @@ title: 'Férias e Licenças não gozadas: Como receber em dinheiro na aposentado
 description: 'A prefeitura nunca deixou você tirar licença-prêmio e você se aposentou? Saiba como cobrar a conversão em pecúnia na Justiça e evitar a prescrição.'
 date: '2026-08-05'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=19'
+image: 'https://picsum.photos/seed/ferias-licencas-nao-gozadas-pecunia/800/400'
 ---
 
 É um roteiro dolorosamente clássico no serviço público brasileiro: o servidor dedica 30, às vezes 35 anos de sua vida trabalhando de forma assídua. Ao longo dessas décadas, acumula direitos sagrados, como meses de licenças-prêmio e períodos de férias. Porém, toda vez que solicita o gozo desses benefícios, a chefia ou a prefeitura nega o pedido, alegando invariavelmente a tal "excepcional necessidade de serviço" ou a "falta de pessoal para repor". 

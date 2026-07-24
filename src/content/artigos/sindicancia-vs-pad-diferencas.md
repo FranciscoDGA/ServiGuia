@@ -3,7 +3,7 @@ title: 'Sindicância vs PAD: Diferenças e Quando Você Pode ser Demitido'
 description: 'Entenda as principais diferenças entre uma Sindicância Investigativa, Sindicância Punitiva e o Processo Administrativo Disciplinar (PAD).'
 date: '2026-07-28'
 readTime: 8
-image: 'https://loremflickr.com/800/400/office,business,law?lock=39'
+image: 'https://picsum.photos/seed/sindicancia-vs-pad-diferencas/800/400'
 ---
 
 Para o servidor público, receber uma notificação do setor de Corregedoria ou Recursos Humanos pode ser um momento de grande estresse. As siglas mais temidas são **Sindicância** e **PAD (Processo Administrativo Disciplinar)**.

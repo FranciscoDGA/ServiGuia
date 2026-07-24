@@ -3,7 +3,7 @@ title: 'Adicional Noturno no serviço público: A partir de que horas e como cal
 description: 'Trabalha em plantões de madrugada? Entenda o acréscimo de 25% no seu salário e a regra da hora reduzida para guardas e enfermeiros.'
 date: '2026-08-14'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=4'
+image: 'https://picsum.photos/seed/adicional-noturno-hora-reduzida/800/400'
 ---
 
 Trabalhar enquanto o mundo dorme é uma missão árdua que altera profundamente o relógio biológico, o convívio familiar e a saúde do servidor. Profissionais essenciais como enfermeiros, médicos, vigias, guardas municipais e policiais frequentemente dedicam suas madrugadas à proteção e ao cuidado da sociedade. 

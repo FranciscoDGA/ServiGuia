@@ -3,7 +3,7 @@ title: 'Sexta-parte do Vencimento: O benefício estadual/municipal que poucos ex
 description: 'Saiba o que é a gratificação da sexta-parte após 20 anos de serviço público, como funciona e quem tem direito a esse salto salarial.'
 date: '2026-08-08'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=38'
+image: 'https://picsum.photos/seed/sexta-parte-vencimentos/800/400'
 ---
 
 A carreira no serviço público é, por essência, uma maratona, não uma corrida de cem metros. É um compromisso de longuíssimo prazo onde o servidor entrega as melhores décadas da sua vida profissional em prol da coletividade. Para premiar essa fidelidade, muitos entes federativos (especialmente estados e municípios mais antigos) criaram mecanismos de valorização temporal que vão muito além dos reajustes de inflação.

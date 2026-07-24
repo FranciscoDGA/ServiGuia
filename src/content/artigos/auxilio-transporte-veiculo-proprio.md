@@ -3,7 +3,7 @@ title: 'Auxílio-Transporte: Servidor que usa carro próprio tem direito?'
 description: 'Mito derrubado: O STJ decidiu que o servidor que vai trabalhar de carro tem direito ao auxílio-transporte. Saiba como requerer o seu.'
 date: '2026-08-13'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=8'
+image: 'https://picsum.photos/seed/auxilio-transporte-veiculo-proprio/800/400'
 ---
 
 No vasto universo de direitos, indenizações e vantagens garantidos aos servidores públicos, poucos temas geram tanta controvérsia diária com as chefias de Recursos Humanos quanto o pagamento do Auxílio-Transporte. Trata-se de uma verba indenizatória fundamental, destinada por lei a custear as despesas incontornáveis que o servidor possui com o deslocamento rotineiro entre a sua residência e o seu local de trabalho, bem como o trajeto de volta. 

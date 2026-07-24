@@ -3,7 +3,7 @@ title: 'Servidor Público pode fazer greve? Regras, punições e corte de ponto'
 description: 'Desmistificando o Direito de Greve no serviço público. Entenda quando o corte de salário é legal, quem não pode paralisar e como evitar o PAD.'
 date: '2026-08-10'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=16'
+image: 'https://picsum.photos/seed/direito-greve-servidor-publico/800/400'
 ---
 
 A greve no serviço público sempre gera pânico e incertezas. Servidores frequentemente têm medo de descontos no contracheque, da abertura de Processo Administrativo Disciplinar (PAD) por abandono de cargo, ou até mesmo de marcação política e retaliações por parte da chefia e de seus superiores. Mas afinal, o que o Supremo Tribunal Federal (STF) e a legislação brasileira realmente dizem sobre isso? Quais são os limites da atuação do Estado contra o servidor que decide cruzar os braços em prol de melhores condições de trabalho? Neste guia profundo e detalhado, você entenderá todos os aspectos jurídicos que envolvem a paralisação de servidores.

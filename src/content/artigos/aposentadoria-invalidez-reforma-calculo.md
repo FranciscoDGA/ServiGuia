@@ -3,7 +3,7 @@ title: 'Aposentadoria por Invalidez Pós-Reforma: O risco do cálculo proporcion
 description: 'Ficou incapacitado para o trabalho? Entenda a terrível regra do cálculo proporcional da Reforma da Previdência e saiba as doenças isentas.'
 date: '2026-08-17'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=6'
+image: 'https://picsum.photos/seed/aposentadoria-invalidez-reforma-calculo/800/400'
 ---
 
 O adoecimento grave é, indubitavelmente, o momento de maior vulnerabilidade na vida de qualquer trabalhador. Para o servidor público titular de cargo efetivo, que dedicou sua capacidade física e intelectual à máquina do Estado, a expectativa sempre foi a de que o regime previdenciário próprio (RPPS) serviria como uma rede de proteção absoluta caso uma tragédia ocorresse. 

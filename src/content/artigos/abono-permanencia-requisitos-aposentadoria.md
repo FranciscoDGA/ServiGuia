@@ -3,7 +3,7 @@ title: 'Abono de Permanência: Fique trabalhando e pare de pagar previdência'
 description: 'Já preencheu os requisitos para se aposentar mas quer continuar trabalhando? Entenda como o Abono de Permanência aumenta seu salário líquido na hora.'
 date: '2026-08-25'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=1'
+image: 'https://picsum.photos/seed/abono-permanencia-requisitos-aposentadoria/800/400'
 ---
 
 Chegar ao momento da aposentadoria é, para a maioria dos servidores públicos, o ápice de uma carreira inteira dedicada ao Estado e à coletividade. É o momento de colher os frutos de décadas de trabalho, mas a transição para a inatividade nem sempre é a escolha imediata de todos. Muitos servidores ainda se sentem plenamente produtivos, no auge de sua capacidade intelectual e técnica. Além disso, existe a dura realidade financeira: aposentar-se, muitas vezes, significa perder auxílios, gratificações e parcelas remuneratórias que só são pagas aos servidores na ativa. 

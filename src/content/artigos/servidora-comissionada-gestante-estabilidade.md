@@ -3,7 +3,7 @@ title: 'Servidora Comissionada e Contratada Gestante: Existe Estabilidade?'
 description: 'Você está grávida mas não é concursada efetiva? O STF garante a sua estabilidade desde a confirmação da gravidez. Entenda seus direitos.'
 date: '2026-08-28'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=37'
+image: 'https://picsum.photos/seed/servidora-comissionada-gestante-estabilidade/800/400'
 ---
 
 No mundo do trabalho precário e provisório – dominado pelos Cargos em Comissão de livre nomeação e exoneração, pelos Contratos Temporários de Processo Seletivo Simplificado (PSS) ou pelas trabalhadoras terceirizadas que prestam serviço para a prefeitura – a demissão é sempre um fantasma diário. Acordar sem saber se você terá emprego no dia seguinte gera uma ansiedade crônica imensa.

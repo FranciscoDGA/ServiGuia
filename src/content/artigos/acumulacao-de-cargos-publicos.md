@@ -3,7 +3,7 @@ title: 'Acumulação de Cargos Públicos: Regras, exceções e os limites da CF'
 description: 'Saiba exatamente quais cargos públicos podem ser acumulados licitamente, a regra de compatibilidade de horários e os riscos de um PAD.'
 date: '2026-08-06'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=3'
+image: 'https://picsum.photos/seed/acumulacao-de-cargos-publicos/800/400'
 ---
 
 O ingresso no serviço público é o grande sonho de estabilidade financeira de milhões de brasileiros. Contudo, após conquistar a primeira aprovação, muitos servidores brilhantes e ambiciosos decidem prestar novos concursos para complementar a renda e expandir suas carreiras. É nesse momento que surge uma das armadilhas mais letais do Direito Administrativo disciplinar: a **Acumulação Ilícita de Cargos Públicos**.

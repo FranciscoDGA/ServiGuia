@@ -3,7 +3,7 @@ title: 'Cargo em Comissão vs Função de Confiança: Direitos e diferenças'
 description: 'Descubra a diferença estrutural entre comissionados puros e funções de confiança, e se você tem direito ao décimo terceiro ou estabilidade.'
 date: '2026-08-19'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=12'
+image: 'https://picsum.photos/seed/cargo-em-comissao-funcao-de-confianca/800/400'
 ---
 
 Na engrenagem complexa da administração pública, além dos cargos efetivos (preenchidos rigorosamente por aprovação em concurso público), o mapa hierárquico é quase sempre formado pelas tão desejadas (e por vezes temidas) posições de chefia e direção. A Constituição Federal, no seu Artigo 37, inciso V, tratou de organizar essa bagunça e dividiu essas posições de liderança em duas categorias muito distintas juridicamente: O Cargo em Comissão e a Função de Confiança. 

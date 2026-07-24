@@ -3,7 +3,7 @@ title: 'Averbação de Tempo de Serviço (INSS para RPPS): Como não perder dinh
 description: 'Trabalhou na iniciativa privada antes de passar no concurso? Veja como trazer seu tempo do INSS para a Prefeitura através da Certidão de Tempo de Contribuição (CTC).'
 date: '2026-08-22'
 readTime: 6
-image: 'https://loremflickr.com/800/400/office,business,law?lock=10'
+image: 'https://picsum.photos/seed/averbacao-tempo-servico-inss-ctc/800/400'
 ---
 
 Passou num concurso aos 35, 40 ou 50 anos e deixou uma década ou mais de carteira assinada para trás? Acha que esse tempo de "ralação" no setor privado foi perdido? Fique tranquilo, esse tempo não está perdido, mas ele exige uma ação proativa da sua parte para se transformar em um benefício real no seu cargo público atual. A Constituição Federal, em seu artigo 201, garante o que chamamos de **contagem recíproca** de tempo de contribuição entre o Regime Geral (INSS) e o Regime Próprio de Previdência Social (RPPS da sua prefeitura ou estado).

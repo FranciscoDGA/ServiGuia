@@ -3,7 +3,7 @@ title: 'Licença Nojo (Luto): Regras e parentesco no serviço público'
 description: 'Perdeu um ente querido? Entenda o que é a Licença Nojo, quantos dias você tem de direito e quais graus de parentesco são aceitos.'
 date: '2026-08-03'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=25'
+image: 'https://picsum.photos/seed/licenca-nojo-luto/800/400'
 ---
 
 O falecimento de um familiar é, sem dúvida, um dos momentos de maior dor, vulnerabilidade e estresse emocional que um ser humano pode enfrentar. A perda traz consigo não apenas o impacto psicológico irreversível, mas também uma série de obrigações burocráticas urgentes, como liberação de corpo, organização de velório, sepultamento, inventário e comunicação a parentes e instituições. Para garantir que o servidor público tenha o tempo mínimo necessário para lidar com o luto profundo e com essas burocracias pesadas sem sofrer prejuízos em sua remuneração e sem ser pressionado a retornar imediatamente ao trabalho, a legislação consagra a **Licença Nojo**.

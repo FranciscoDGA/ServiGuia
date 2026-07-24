@@ -3,7 +3,7 @@ title: 'Revisão Geral Anual (Data-base): Direito à reposição da inflação'
 description: 'A prefeitura está há 3 anos sem dar aumento? Entenda a diferença entre Revisão Geral Anual e Aumento Real e o que a Justiça diz sobre a mora do Executivo.'
 date: '2026-08-29'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=35'
+image: 'https://picsum.photos/seed/revisao-geral-anual-data-base-inflacao/800/400'
 ---
 
 O silêncio nos corredores do poder Executivo em relação ao salário do servidor costuma ser ensurdecedor. Mês após mês, a ida ao supermercado fica mais cara, a conta de luz sobe, o aluguel é reajustado. O poder de compra daquele seu salário suado, aprovado no concurso anos atrás, derrete a cada instante por conta do dragão da inflação. 

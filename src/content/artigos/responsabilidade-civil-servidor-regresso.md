@@ -3,7 +3,7 @@ title: 'Responsabilidade Civil do Servidor Público (Processo de Regresso)'
 description: 'Bateu o carro da prefeitura ou cometeu erro médico? Saiba como funciona a ação de regresso e quando você terá que pagar a indenização do próprio bolso.'
 date: '2026-08-30'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=34'
+image: 'https://picsum.photos/seed/responsabilidade-civil-servidor-regresso/800/400'
 ---
 
 Trabalhar no serviço público muitas vezes envolve assumir riscos altos, lidando com equipamentos caros, veículos pesados, saúde de pacientes ou decisões de enorme impacto financeiro. Um médico do hospital municipal que comete um erro durante uma cirurgia, ou um motorista da Secretaria de Obras que, acidentalmente, fura um sinal vermelho e atropela um pedestre. A vítima, munida de provas, entra na justiça contra a Prefeitura, ganha uma polpuda indenização e o município faz o pagamento. 

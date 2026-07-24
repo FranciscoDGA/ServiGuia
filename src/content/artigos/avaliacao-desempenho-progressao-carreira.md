@@ -3,7 +3,7 @@ title: 'Avaliação de Desempenho e Progressão: Como garantir sua nota'
 description: 'Sua prefeitura usa a Avaliação de Desempenho para travar a sua progressão salarial? Entenda as regras do PCC e como recorrer de notas injustas.'
 date: '2026-08-21'
 readTime: 5
-image: 'https://loremflickr.com/800/400/office,business,law?lock=9'
+image: 'https://picsum.photos/seed/avaliacao-desempenho-progressao-carreira/800/400'
 ---
 
 O Plano de Cargos e Carreiras (PCC) é o coração da evolução salarial e profissional do servidor público. E o motor indispensável desse plano é, inegavelmente, a **Avaliação de Desempenho**. Infelizmente, muitos gestores usam essa avaliação de forma equivocada ou, pior ainda, como ferramenta de retaliação política para "travar" o aumento salarial de desafetos, ignorando as diretrizes do Direito Administrativo e os princípios constitucionais.

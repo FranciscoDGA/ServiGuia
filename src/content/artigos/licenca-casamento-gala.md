@@ -3,7 +3,7 @@ title: 'Licença Gala (Casamento): Quantos dias o servidor tem direito?'
 description: 'Vai casar? Entenda como funciona a licença casamento (gala) para o servidor público municipal e federal e saiba a partir de quando contar os dias.'
 date: '2026-08-02'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=23'
+image: 'https://picsum.photos/seed/licenca-casamento-gala/800/400'
 ---
 
 O casamento, no âmbito do Direito Civil e de Família, é tratado como um dos atos mais fundamentais na vida de um cidadão. Ciente da importância social, emocional e logística desse evento, o legislador brasileiro instituiu um período garantido de descanso, totalmente remunerado, para os recém-casados logo após o enlace matrimonial. No jargão do serviço público e do direito trabalhista, este benefício é conhecido tecnicamente como **Licença Gala** ou simplesmente **Licença Casamento**.

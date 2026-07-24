@@ -3,7 +3,7 @@ title: 'Vale-Alimentação nas Férias e Licenças: A prefeitura pode cortar?'
 description: 'Muitos RHs cortam o vale-alimentação quando o servidor sai de férias ou licença médica. Entenda o que a Justiça e o STJ dizem sobre essa prática.'
 date: '2026-08-23'
 readTime: 4
-image: 'https://loremflickr.com/800/400/office,business,law?lock=40'
+image: 'https://picsum.photos/seed/vale-alimentacao-ferias-licenca-medica/800/400'
 ---
 
 Chegou o tão sonhado mês das férias! O momento de descansar, viajar e se desligar da máquina pública. Contudo, a alegria muitas vezes vira frustração no instante em que o servidor visualiza a prévia do contracheque do mês: a prefeitura simplesmente "zerou" ou cortou drasticamente o valor do Vale-Alimentação (ou Auxílio-Alimentação e Vale-Refeição).
