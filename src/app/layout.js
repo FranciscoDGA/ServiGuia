@@ -35,6 +35,9 @@ export const metadata = {
     title: 'ServGuia - O Guia Definitivo do Servidor Público',
     description: 'Acesse guias definitivos sobre sindicância, PAD, licenças e aposentadoria do servidor público.',
   },
+  verification: {
+    google: 'qH9gltE4Lk1p5ONSBCSMwkXGR9eqixIDruwOJLPqlZQ',
+  },
 }
 
 export const viewport = {
