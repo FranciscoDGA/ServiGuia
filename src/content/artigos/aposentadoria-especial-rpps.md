@@ -3,7 +3,7 @@ title: 'Aposentadoria Especial no RPPS após a Reforma da Previdência: Regras'
 description: 'Saiba como ficou a aposentadoria especial para servidores públicos expostos a agentes nocivos e como usar a regra de transição a seu favor.'
 date: '2026-07-30'
 readTime: 7
-image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
 A Emenda Constitucional nº 103/2019 (Reforma da Previdência) alterou drasticamente as regras da aposentadoria especial para os servidores públicos. As antigas "regras de ouro" (aposentar com 25 anos de serviço independente da idade) não existem mais para quem entrou após a reforma.
@@ -31,3 +31,4 @@ Não basta apenas ter recebido o adicional de insalubridade no contracheque. Par
 - **Passo 1: Solicite seu PPP.** Todo servidor exposto a risco tem direito a solicitar anualmente ou no momento da aposentadoria o seu Perfil Profissiográfico Previdenciário preenchido pelo RH com base nos laudos técnicos do órgão.
 - **Passo 2: Peça a CTC averbada.** Se você trabalhou como celetista em atividade especial antes de assumir o concurso (ex: enfermeiro de hospital privado), traga a Certidão de Tempo de Contribuição (CTC) do INSS com o reconhecimento do tempo especial averbado.
 - **Passo 3: Protocole a simulação.** Como o cálculo pós-reforma costuma ser complexo (60% da média + 2% ao ano que exceder 20 anos), não assine a aposentadoria antes de pedir ao RPPS uma simulação exata do valor dos seus proventos.
+

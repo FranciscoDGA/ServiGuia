@@ -3,7 +3,7 @@ title: 'Revisão Geral Anual (Data-base): Direito à reposição da inflação'
 description: 'A prefeitura está há 3 anos sem dar aumento? Entenda a diferença entre Revisão Geral Anual e Aumento Real e o que a Justiça diz sobre a mora do Executivo.'
 date: '2026-08-29'
 readTime: 5
-image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
 O poder de compra do servidor derrete a cada ano de inflação. Para evitar isso, a Constituição Federal (Art. 37, X) determina a **Revisão Geral Anual (Data-Base)** das remunerações e subsídios, sempre na mesma data e sem distinção de índices.
@@ -29,3 +29,4 @@ O argumento mais forte usado pelos gestores é que a folha de pagamento bateu no
 ## 4. O Papel do Sindicato (Greve por Data-Base)
 
 Como a Justiça não dá o aumento com uma "canetada", a única ferramenta efetiva do servidor é a pressão sindical. A omissão do prefeito em conceder a Revisão Geral Anual é a causa principal e lícita para a deflagração da **Greve do Funcionalismo**. Quando ocorre greve por recusa no diálogo da data-base, o STF tende a considerar o corte de ponto ilegal.
+

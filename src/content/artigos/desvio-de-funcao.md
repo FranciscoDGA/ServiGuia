@@ -3,7 +3,7 @@ title: 'Desvio de Função no município: Como juntar provas e pedir equiparaç�
 description: 'Você está exercendo atribuições mais complexas que as do seu cargo de origem? Entenda o que é desvio de função e como buscar seus direitos.'
 date: '2026-07-28'
 readTime: 6
-image: 'https://images.unsplash.com/photo-1505664111306-651d6db048fd?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
 O desvio de função é uma das práticas mais comuns e irregulares nas prefeituras e estados: o servidor é concursado para um cargo de nível médio, mas acaba executando tarefas inerentes a um cargo de nível superior, sem receber por isso.
@@ -24,3 +24,4 @@ Se você decidir buscar a indenização por desvio de função, o ônus da prova
 - **Passo 2: Produza provas documentais.** Esta é a parte mais importante. Guarde portarias que te designam para grupos de trabalho, ofícios assinados por você, carimbos, acesso a sistemas que só o cargo superior tem, e e-mails da chefia demandando tarefas daquela função.
 - **Passo 3: Arrole testemunhas.** Colegas de trabalho que convivem diariamente com você e podem atestar que você executa atividades incompatíveis com seu cargo de origem.
 - **Passo 4: Via Judicial.** Dificilmente a prefeitura reconhecerá o desvio de função administrativamente (porque isso seria confessar a irregularidade). A solução, munido das provas acima, será ajuizar uma Ação de Cobrança (Indenizatória) cobrando os retroativos dos últimos 5 anos.
+

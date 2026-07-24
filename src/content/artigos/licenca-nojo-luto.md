@@ -3,7 +3,7 @@ title: 'Licença Nojo (Luto): Regras e parentesco no serviço público'
 description: 'Perdeu um ente querido? Entenda o que é a Licença Nojo, quantos dias você tem de direito e quais graus de parentesco são aceitos.'
 date: '2026-08-03'
 readTime: 4
-image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
 O falecimento de um familiar é um momento de dor extrema. Para garantir que o servidor tenha tempo de lidar com o luto e as burocracias do funeral, a lei garante a **Licença Nojo** (termo oriundo do português arcaico que significa desgosto/tristeza profunda).
@@ -32,3 +32,4 @@ A contagem dos dias consecutivos (incluindo sábados, domingos e feriados) se in
 - **Passo 1:** Ao ocorrer o óbito, avise sua chefia imediata imediatamente (WhatsApp, ligação ou e-mail), informando a situação para justificar a sua ausência.
 - **Passo 2:** Guarde a Certidão de Óbito. Declarações do hospital ou da funerária não servem para o RH, apenas a certidão oficial expedida pelo Cartório de Registro Civil.
 - **Passo 3:** No dia do seu retorno, entregue a cópia da Certidão de Óbito e um requerimento simples no departamento pessoal para abonar as faltas dos dias correspondentes à licença.
+

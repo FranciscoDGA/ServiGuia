@@ -3,7 +3,7 @@ title: 'Desvio de Função no serviço público: Como provar e receber a diferen
 description: 'Você prestou concurso para Auxiliar, mas atua como Técnico e recebe o salário menor? Saiba como a Súmula 378 do STJ garante o pagamento das diferenças.'
 date: '2026-08-24'
 readTime: 5
-image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
 O desvio de função é o maior sintoma de má gestão no setor público. Ocorre quando o servidor é obrigado pela chefia a desempenhar atribuições mais complexas e de maior responsabilidade do que as previstas no edital do seu concurso, sem a respectiva contraprestação financeira.
@@ -28,3 +28,4 @@ Desvio de função se ganha com PROVA DOCUMENTAL e TESTEMUNHAL.
 - **Documentos:** Guarde carimbos, login de sistemas, ofícios assinados por você, portarias de nomeação para comissões técnicas. Se você é Auxiliar e assina sozinho relatórios complexos, guarde as cópias.
 - **E-mails e WhatsApp:** Ordens diretas da chefia mandando você executar tarefas alheias ao seu cargo são provas de ouro.
 - **Ação Judicial:** O RH administrativo jamais vai assumir o desvio e te pagar a diferença de bom grado. Essa demanda é 100% resolvida apenas nas Varas da Fazenda Pública com o auxílio de um advogado.
+

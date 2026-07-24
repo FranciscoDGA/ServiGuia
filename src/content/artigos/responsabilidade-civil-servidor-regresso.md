@@ -3,7 +3,7 @@ title: 'Responsabilidade Civil do Servidor Público (Processo de Regresso)'
 description: 'Bateu o carro da prefeitura ou cometeu erro médico? Saiba como funciona a ação de regresso e quando você terá que pagar a indenização do próprio bolso.'
 date: '2026-08-30'
 readTime: 5
-image: 'https://images.unsplash.com/photo-1505664111306-651d6db048fd?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
 Um médico do hospital municipal erra a cirurgia, ou um motorista da Secretaria de Obras fura o sinal vermelho e atropela alguém. A vítima entra na justiça contra a Prefeitura, ganha a indenização e o município paga. O assunto acaba aí? Não para o servidor. Entra em cena a **Ação de Regresso**.
@@ -27,3 +27,4 @@ Na ação de regresso, a responsabilidade do servidor é **SUBJETIVA**. Isso sig
 ## 4. O desconto no contracheque
 
 Se condenado em Ação de Regresso, ou se for firmado um Termo de Ajustamento de Conduta (TAC) após sindicância interna, a lei permite o desconto em folha do valor do dano. Contudo, o desconto mensal é limitado (geralmente a 10% do vencimento) para garantir a subsistência da sua família, podendo durar anos até a quitação total da dívida.
+

@@ -3,7 +3,7 @@ title: 'Licença para Mandato Eletivo: Como funciona quando o servidor é eleito
 description: 'Vai se candidatar a Vereador ou Prefeito? Entenda as regras constitucionais de afastamento, licença política e quando você pode acumular os salários.'
 date: '2026-08-18'
 readTime: 4
-image: 'https://images.unsplash.com/photo-1505664111306-651d6db048fd?auto=format&fit=crop&q=80'
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
 Com a aproximação das eleições municipais, muitos professores, fiscais e guardas decidem se lançar na política. A Constituição Federal (Art. 38) estabelece regras claras e incontestáveis sobre o que acontece com a carreira (e o salário) do servidor que assume um mandato eletivo.
@@ -36,3 +36,4 @@ Antes de ser eleito, você precisa ser candidato. Pela Lei Complementar nº 64/9
 
 - Fique atento ao calendário do TSE. O protocolo do afastamento de desincompatibilização deve ser feito no seu RH exatamente no limite do prazo eleitoral exigido para a sua função (fiscais e agentes de arrecadação têm prazos diferentes de professores).
 - O RH não pode negar o afastamento para campanha eleitoral. A participação política é um pilar democrático. Se houver recusa, acione a Procuradoria Eleitoral.
+
