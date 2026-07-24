@@ -112,8 +112,8 @@ export default function KitRequerimentos() {
             <p style={{ color: 'var(--text-light)', fontWeight: 'bold' }}>Pagamento único. Acesso vitalício.</p>
           </div>
           
-          <a href="#" className="btn" style={{ display: 'block', width: '100%', fontSize: '1.5rem', padding: '1.5rem', backgroundColor: '#38a169', color: 'white', fontWeight: 'bold', borderRadius: '12px', boxShadow: '0 10px 20px rgba(56, 161, 105, 0.3)', marginBottom: '1.5rem', textDecoration: 'none' }}>
-            Comprar Agora via PIX
+          <a href="#link-da-hotmart-aqui" className="btn" style={{ display: 'block', width: '100%', fontSize: '1.5rem', padding: '1.5rem', backgroundColor: '#38a169', color: 'white', fontWeight: 'bold', borderRadius: '12px', boxShadow: '0 10px 20px rgba(56, 161, 105, 0.3)', marginBottom: '1.5rem', textDecoration: 'none' }}>
+            Comprar Agora (Acesso Imediato)
           </a>
           
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', color: 'var(--text-light)' }}>
