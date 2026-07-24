@@ -8,7 +8,9 @@ image: 'https://picsum.photos/seed/aposentadoria-invalidez-reforma-calculo/800/4
 
 O adoecimento grave é, indubitavelmente, o momento de maior vulnerabilidade na vida de qualquer trabalhador. Para o servidor público titular de cargo efetivo, que dedicou sua capacidade física e intelectual à máquina do Estado, a expectativa sempre foi a de que o regime previdenciário próprio (RPPS) serviria como uma rede de proteção absoluta caso uma tragédia ocorresse. 
 
-No entanto, a Reforma da Previdência (Promulgada pela Emenda Constitucional 103/2019) não apenas alterou a nomenclatura – o que conhecíamos como Aposentadoria por Invalidez passou a ser chamado, com eufemismo técnico, de **Aposentadoria por Incapacidade Permanente** –, mas promoveu uma verdadeira devassa no bolso e na dignidade do servidor doente. A mudança na regra de cálculo é considerada por muitos juristas como a alteração mais cruel de todo o texto reformista.
+No entanto, a Reforma da Previdência (Promulgada pela Emenda Constitucional 103/2019) não apenas alterou a nomenclatura – o que conhecíamos como Aposentadoria por Invalidez passou a ser chamado, com eufemismo técnico, de **Aposentadoria por Incapacidade Permanente** –, mas promoveu uma verdadeira devassa no bolso e na dignidade do servidor doente. 
+
+A mudança na regra de cálculo é considerada por muitos juristas como a alteração mais cruel de todo o texto reformista.
 
 ## 1. O Fim Trágico da Paridade e da Integralidade Automáticas
 
@@ -35,7 +37,9 @@ Para garantir que um pedido de licença médica e futura aposentadoria contemple
 
 ## 3. Onde Mora o Perigo para o Servidor Estadual e Municipal?
 
-O pulo do gato maligno da EC 103/2019 foi retirar do texto constitucional o famoso rol das "doenças graves, contagiosas ou incuráveis" (como Câncer, Mal de Parkinson, Esclerose Múltipla, Alienação Mental, Hanseníase). Ao retirar esse rol, a Constituição delegou (repassou) para os Estados e Municípios a competência de decidirem, por meio de Leis Complementares locais, se iriam ou não garantir o pagamento de 100% nesses casos de tragédia pessoal.
+O pulo do gato maligno da EC 103/2019 foi retirar do texto constitucional o famoso rol das "doenças graves, contagiosas ou incuráveis" (como Câncer, Mal de Parkinson, Esclerose Múltipla, Alienação Mental, Hanseníase). 
+
+Ao retirar esse rol, a Constituição delegou (repassou) para os Estados e Municípios a competência de decidirem, por meio de Leis Complementares locais, se iriam ou não garantir o pagamento de 100% nesses casos de tragédia pessoal.
 
 Se a sua prefeitura e o seu instituto de previdência (RPPS) foram omissos e não atualizaram o Estatuto ou a Lei Previdenciária local após 2019 criando essa garantia, o servidor com câncer metástático se aposentará ganhando 60% da média. É um retrocesso humanitário severo, que já vem sendo contestado no Supremo, mas que ainda está em pleno vigor em prefeituras inertes.
 
@@ -49,4 +53,20 @@ O RH e a perícia médica vão tentar te empurrar para os 60%. O seu trabalho (e
 - **Estabeleça a Causalidade:** Se a sua doença for psiquiátrica (Depressão Maior, Síndrome de Burnout, Transtorno de Ansiedade Generalizada), você precisa documentar exaustivamente. Não basta um atestado de "depressão". Você precisa provar com laudos robustos, e-mails de assédio da chefia, sindicâncias, depoimentos e notificações da CAT (Comunicação de Acidente de Trabalho) que o adoecimento mental ocorreu **devido ao ambiente tóxico e à sobrecarga do trabalho**. É esse "nexo causal" que força o pagamento de 100%.
 - **Recuse o Laudo Genérico:** Se a junta médica oficial (JMO) classificar sua doença profissional como mera "doença comum", impugne o laudo administrativamente no mesmo dia. Peça revisão pela junta recursal e exija fundamentação por escrito.
 
-Se você está afastado por motivos de saúde, sofrendo pressões da junta médica, ou pior, se foi aposentado recentemente com o cálculo de 60% tendo o direito de receber 100% por ser doença relacionada ao trabalho, há chance de reverter esse quadro na Justiça. Não pague a conta pela ineficiência do Estado. Acione nossa [Assessoria Jurídica](/ferramentas/contato-advogado) especializada em demandas previdenciárias de servidores e lutaremos pela conversão do seu benefício para a modalidade integral.
+Se você está afastado por motivos de saúde, sofrendo pressões da junta médica, ou pior, se foi aposentado recentemente com o cálculo de 60% tendo o direito de receber 100% por ser doença relacionada ao trabalho, há chance de reverter esse quadro na Justiça. 
+
+Não pague a conta pela ineficiência do Estado. Acione nossa [Assessoria Jurídica](/ferramentas/contato-advogado) especializada em demandas previdenciárias de servidores e lutaremos pela conversão do seu benefício para a modalidade integral.
+
+## Perguntas Frequentes (FAQ)
+
+**1. O que é a Aposentadoria por Incapacidade Permanente?**
+É a nova nomenclatura trazida pela Reforma da Previdência para a antiga "Aposentadoria por Invalidez", aplicável quando o servidor não pode mais trabalhar de forma alguma.
+
+**2. Quando tenho direito a receber 100% da média salarial?**
+Apenas se a invalidez for estritamente decorrente de acidente de trabalho, doença profissional ou doença originada pelas condições do ambiente laboral.
+
+**3. Posso ser aposentado contra minha vontade ganhando 60%?**
+Muitas vezes o RH tenta forçar a aposentadoria após certo tempo de licença. O recomendado é sempre buscar a Readaptação Funcional para manter 100% dos ganhos e não sofrer com o rebaixamento.
+
+**4. Como provo que a minha depressão foi causada pelo serviço?**
+É essencial colher laudos médicos claros, reunir e-mails do chefe assediador, registros de ocorrências (CAT) e testemunhos. Apenas com esse dossiê comprova-se o Nexo Causal.

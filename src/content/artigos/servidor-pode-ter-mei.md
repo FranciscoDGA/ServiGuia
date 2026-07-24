@@ -26,6 +26,7 @@ Embora a Lei 8.112/90 seja aplicável apenas aos servidores *federais*, praticam
 
 **Via de regra, NÃO.**
 O Microempreendedor Individual (MEI) não é uma "sociedade" onde você pode ser apenas o sócio oculto/investidor. No MEI, você é o próprio titular, gerente, executor e administrador em uma figura jurídica só (Firma Individual).
+
 Portanto, abrir um MEI no seu CPF caracteriza "exercer a gerência de comércio", o que é **vedação estatutária**. 
 
 > [!WARNING]
@@ -39,6 +40,7 @@ Se o MEI é proibido na maioria dos casos, como você pode ter um negócio?
 Você pode abrir uma empresa Limitada com outra pessoa (esposa, marido, amigo). 
 - No contrato social (Junta Comercial), **a outra pessoa deverá constar como Sócio-Administrador**. 
 - Você constará **apenas como Sócio-Cotista**. 
+
 Dessa forma, você cumpre perfeitamente a exceção da Lei 8.112/90. Você tem parte dos lucros, investe no negócio, mas não assina pela empresa e nem a administra formalmente.
 
 ### A Exceção dos Professores e Médicos
@@ -56,3 +58,14 @@ Se você já tem um MEI aberto, a atitude mais prudente é dar baixa no Portal d
 - Portal do Governo: [Gov.br - Baixa de MEI](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/baixa-de-mei)
 - Artigo Relacionado: [Diferenças entre PAD e Sindicância](/artigos/sindicancia-vs-pad-diferencas)
 - Requerimentos e Defesas: [Kit de Modelos](/produtos/kit-requerimentos)
+
+## Perguntas Frequentes (FAQ)
+
+**1. Eu posso ser apenas Sócio-Cotista de uma empresa e ter uma segunda renda legalmente?**
+Sim. A legislação, de forma geral, permite que o servidor seja sócio-cotista (investidor) de uma empresa Limitada (LTDA), recebendo lucros. O que não é permitido é atuar como gerente ou administrador desse negócio.
+
+**2. Posso ter um negócio no nome da minha esposa e apenas ajudar informalmente?**
+Formalmente, o negócio sendo da sua esposa não traz problemas legais estatutários para você. No entanto, você não pode assinar documentos pela empresa e a sua ajuda não pode atrapalhar o seu horário de expediente e as suas funções públicas.
+
+**3. Abri um MEI anos antes de passar no concurso público e esqueci de fechar. Posso ser demitido?**
+É essencial regularizar essa situação o mais rápido possível. Ter o MEI aberto constitui infração. Contudo, se for provado no PAD que não houve movimentação financeira, não houve má-fé e a situação for prontamente regularizada, a jurisprudência costuma abrandar as punições, evitando a demissão.

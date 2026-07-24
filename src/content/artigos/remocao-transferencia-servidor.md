@@ -32,7 +32,9 @@ Muitos prefeitos ou secretários, logo após assumirem o mandato, utilizam a rem
 
 Aqui o cenário se inverte: você é quem pede para mudar de setor ou de cidade. A Administração Pública, por sua vez, vai avaliar se a sua saída causará prejuízo ao setor de origem e se há efetiva necessidade (vaga) no setor de destino.
 
-Nesta modalidade, a concessão não é obrigatória. Depende do chamado "juízo de conveniência e oportunidade" (poder discricionário) do gestor público. Contudo, essa discricionariedade não é um cheque em branco. Se o seu pedido for negado sob a alegação de "falta de pessoal", e logo em seguida a prefeitura alocar um servidor terceirizado, comissionado ou recém-concursado na mesma vaga que você solicitou, essa negativa passa a ser ilegal por violação à Teoria dos Motivos Determinantes.
+Nesta modalidade, a concessão não é obrigatória. Depende do chamado "juízo de conveniência e oportunidade" (poder discricionário) do gestor público. 
+
+Contudo, essa discricionariedade não é um cheque em branco. Se o seu pedido for negado sob a alegação de "falta de pessoal", e logo em seguida a prefeitura alocar um servidor terceirizado, comissionado ou recém-concursado na mesma vaga que você solicitou, essa negativa passa a ser ilegal por violação à Teoria dos Motivos Determinantes.
 
 Para aumentar as suas chances em pedidos administrativos, recomendamos a utilização de modelos estruturados e amparados legalmente, presentes no nosso [Kit de Requerimentos](/produtos/kit-requerimentos). Ele fornece argumentos robustos para impedir respostas padronizadas e vazias por parte do RH.
 
@@ -43,7 +45,9 @@ Esta é a modalidade mais forte e protetiva do servidor. Nela, o poder discricio
 A lei estabelece hipóteses taxativas para que essa remoção compulsória aconteça:
 
 1. **Para acompanhar cônjuge ou companheiro:** Se o seu marido ou esposa (também servidor público civil ou militar de qualquer dos Poderes da União, dos Estados, do DF ou dos Municípios) foi deslocado no interesse da Administração, você tem o direito líquido e certo de ser removido para a mesma localidade. O princípio aqui é a Proteção à Unidade Familiar (Art. 226 da Constituição Federal).
+
 2. **Por motivo de saúde:** Quando o servidor, seu cônjuge, companheiro ou dependente que viva às suas expensas e conste do seu assentamento funcional possuir problema de saúde que seja agravado ou impossível de ser tratado no local de lotação atual. Isso exige, impreterivelmente, comprovação por junta médica oficial.
+
 3. **Em virtude de processo seletivo interno:** O famoso concurso de remoção anual, onde os servidores disputam vagas baseados em critérios objetivos (como tempo de serviço, assiduidade, títulos, etc.).
 
 > [!TIP]
@@ -63,7 +67,9 @@ Com a permuta, o argumento da "falta de pessoal" cai por terra, uma vez que a sa
 
 Saber a lei não é o suficiente; é preciso saber como aplicá-la estrategicamente na via administrativa e judicial.
 
-**Passo 1: Fundamente o seu pedido à exaustão.** Nunca escreva um requerimento de duas linhas dizendo "solicito remoção por motivos pessoais". Isso é pedir para ser negado. Se o pedido for por motivo de saúde, anexe laudos médicos robustos, detalhados, provando o nexo de causalidade entre o seu local de trabalho atual e o agravamento da sua doença. Exemplo clássico: um professor desenvolvendo síndrome do pânico devido ao alto índice de violência no entorno da escola noturna, solicitando remoção para o turno diurno em localidade diversa.
+**Passo 1: Fundamente o seu pedido à exaustão.** Nunca escreva um requerimento de duas linhas dizendo "solicito remoção por motivos pessoais". Isso é pedir para ser negado. Se o pedido for por motivo de saúde, anexe laudos médicos robustos, detalhados, provando o nexo de causalidade entre o seu local de trabalho atual e o agravamento da sua doença. 
+
+Exemplo clássico: um professor desenvolvendo síndrome do pânico devido ao alto índice de violência no entorno da escola noturna, solicitando remoção para o turno diurno em localidade diversa.
 
 **Passo 2: Esgote a via administrativa de forma inteligente.** Protocolize o pedido formal. Ao receber a negativa, analise a fundamentação. A resposta do administrador vincula os seus atos. Se ele mentir no motivo, você ganha a ação judicial.
 
@@ -75,3 +81,17 @@ Se você se encontra em uma situação de impasse, sofrendo assédio, distante d
 > O prazo para impetrar o Mandado de Segurança é de **120 dias** contados da ciência do ato de indeferimento do seu pedido administrativo. Ficar esperando o prefeito mudar de ideia pode fazer você perder esse prazo crucial.
 
 Lute pelos seus direitos com as armas certas e não deixe que a Administração Pública faça da sua lotação um instrumento de tortura psicológica. A lei, se bem manuseada, está do seu lado.
+
+## Perguntas Frequentes (FAQ)
+
+**1. A prefeitura pode me transferir de escola sem aviso prévio?**
+Sim, na remoção de ofício. No entanto, o ato precisa ter fundamentação clara que comprove o interesse público. Se a transferência foi usada como punição ou retaliação, ela é ilegal e pode ser anulada judicialmente.
+
+**2. Meu cônjuge trabalha em empresa privada e foi transferido. Tenho direito à remoção?**
+A lei federal prevê a proteção à unidade familiar apenas quando o cônjuge (que também precisa ser servidor público) for deslocado no interesse da Administração. Para cônjuges da iniciativa privada, a remoção pode ser solicitada, mas dependerá da avaliação discricionária do ente.
+
+**3. Tive meu pedido de permuta negado pela chefia. O que fazer?**
+A permuta exige concordância da administração, mas não pode ser negada sem um motivo técnico e justificado. Caso a recusa seja arbitrária e infundada, é possível recorrer da decisão no âmbito administrativo e, em último caso, procurar a via judicial.
+
+**4. Meu RH negou remoção por motivo de saúde ignorando meus laudos médicos. Qual o próximo passo?**
+Quando há recusa indevida em casos de saúde devidamente comprovados por junta médica oficial, o caminho mais rápido e seguro é impetrar um Mandado de Segurança. Você tem um prazo de 120 dias após a negativa formal para entrar com a ação.

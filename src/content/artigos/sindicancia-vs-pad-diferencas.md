@@ -18,11 +18,13 @@ A Sindicância é um procedimento mais rápido e simples. Ela costuma se dividir
 
 ### Sindicância Investigativa (ou Preparatória)
 Funciona como uma "investigação preliminar". A prefeitura recebeu uma denúncia anônima ou há um boato de irregularidade, mas **não se sabe quem foi o autor** nem se o fato realmente aconteceu.
+
 - **Pode gerar demissão?** Não. O objetivo é apenas descobrir a autoria e a materialidade (se a infração ocorreu).
 - **Preciso de advogado?** Nesta fase, você é ouvido como testemunha/declarante. Mas é altamente recomendável já estar acompanhado.
 
 ### Sindicância Punitiva (ou Acusatória)
 Aqui a autoria já é conhecida, mas a infração cometida é considerada de **menor gravidade**.
+
 - **Pode gerar demissão?** Não. A Sindicância punitiva **só pode aplicar penas leves**, como Advertência ou Suspensão (geralmente de até 30 dias, variando conforme o Estatuto local). Se durante a sindicância a comissão descobrir que o fato é grave e merece demissão, ela é obrigada a "converter" a sindicância em PAD.
 
 ---
@@ -59,3 +61,14 @@ Recomendamos a leitura dos seguintes artigos:
 - **[Kit Premium de Requerimentos](/produtos/kit-requerimentos)**: Tenha em mãos modelos prontos de defesa e recursos para processos disciplinares.
 
 *(Precisa de defesa imediata? [Fale com nossa assessoria jurídica parceira aqui](/ferramentas/contato-advogado)).*
+
+## Perguntas Frequentes (FAQ)
+
+**1. Fui chamado para depor numa Sindicância sem ser informado sobre o que é. Eu sou obrigado a falar?**
+Você é obrigado a comparecer. Porém, você não é obrigado a produzir provas contra si mesmo. Se as perguntas focarem em atitudes que podem incriminá-lo administrativamente, seu advogado pode instruí-lo a permanecer em silêncio.
+
+**2. Meu processo disciplinar passou do prazo legal de conclusão. Ele é anulado automaticamente?**
+Não. O STJ já pacificou que o simples excesso de prazo para a conclusão do PAD não gera nulidade se não houver demonstração de efetivo prejuízo à defesa. Contudo, se houver afastamento preventivo, o prazo não pode ultrapassar o teto legal e você deve voltar ao trabalho.
+
+**3. Denúncias anônimas podem gerar um PAD imediatamente?**
+Não. Uma denúncia anônima sozinha não serve para abrir PAD nem para condenar. Ela só pode motivar a abertura de uma Sindicância Investigativa para checar minimamente a veracidade dos fatos primeiro.

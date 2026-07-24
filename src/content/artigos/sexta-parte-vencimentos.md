@@ -6,11 +6,13 @@ readTime: 5
 image: 'https://picsum.photos/seed/sexta-parte-vencimentos/800/400'
 ---
 
-A carreira no serviço público é, por essência, uma maratona, não uma corrida de cem metros. É um compromisso de longuíssimo prazo onde o servidor entrega as melhores décadas da sua vida profissional em prol da coletividade. Para premiar essa fidelidade, muitos entes federativos (especialmente estados e municípios mais antigos) criaram mecanismos de valorização temporal que vão muito além dos reajustes de inflação.
+A carreira no serviço público é, por essência, uma maratona, não uma corrida de cem metros. É um compromisso de longuíssimo prazo onde o servidor entrega as melhores décadas da sua vida profissional em prol da coletividade. 
 
-Se você está completando **20 anos (7.300 dias) de efetivo exercício** no serviço público, especialmente se você pertence ao quadro do Estado de São Paulo ou de centenas de municípios espalhados pelo Brasil que espelham sua legislação na constituição bandeirante, prepare-se. Você está prestes a ter o direito de exigir um dos maiores e mais cobiçados bônus estatutários existentes no Direito Administrativo: a famigerada **Sexta-Parte**.
+Para premiar essa fidelidade, muitos entes federativos (especialmente estados e municípios mais antigos) criaram mecanismos de valorização temporal que vão muito além dos reajustes de inflação.
 
-Neste texto aprofundado, vamos desvendar como funciona esse benefício, as enormes batalhas judiciais em torno da base de cálculo para evitar calotes do RH, e como você pode reivindicar anos de valores atrasados caso o município tenha ocultado esse direito de você.
+Se você está completando **20 anos (7.300 dias) de efetivo exercício** no serviço público, especialmente se você pertence ao quadro do Estado de São Paulo ou de centenas de municípios espalhados pelo Brasil que espelham sua legislação na constituição bandeirante, prepare-se. 
+
+Você está prestes a ter o direito de exigir um dos maiores e mais cobiçados bônus estatutários existentes no Direito Administrativo: a famigerada **Sexta-Parte**. Neste texto aprofundado, vamos desvendar como funciona esse benefício, as enormes batalhas judiciais em torno da base de cálculo para evitar calotes do RH, e como você pode reivindicar anos de valores atrasados caso o município tenha ocultado esse direito de você.
 
 ## 1. O que, Afinal, é a Sexta-Parte?
 
@@ -27,11 +29,11 @@ Para que você compreenda o impacto real disso no seu bolso: 1 dividido por 6 eq
 
 É aqui que as prefeituras e estados tentam enganar o servidor desavisado. Quando você completa os 20 anos, o RH finalmente implanta o benefício. Mas sobre qual valor esses 16,66% são calculados?
 
-O RH adora fazer o cálculo mais barato: aplicar a sexta-parte **apenas sobre o salário-base** (o vencimento padrão) da sua carreira, ignorando todas as outras gratificações que você recebe.
+O RH adora fazer o cálculo mais barato: aplicar a sexta-parte **apenas sobre o salário-base** (o vencimento padrão) da sua carreira, ignorando todas as outras gratificações que você recebe. Isso está, de modo geral, **ERRADO**.
 
-Isso está, de modo geral, **ERRADO**.
+Ao longo de muitos anos de disputa, a maioria dos tribunais superiores e estaduais (com destaque para o Tribunal de Justiça de São Paulo - TJSP) consolidou o entendimento pacífico de que a Sexta-Parte deve incidir sobre os **Vencimentos Integrais** (no plural). 
 
-Ao longo de muitos anos de disputa, a maioria dos tribunais superiores e estaduais (com destaque para o Tribunal de Justiça de São Paulo - TJSP) consolidou o entendimento pacífico de que a Sexta-Parte deve incidir sobre os **Vencimentos Integrais** (no plural). Isso significa que ela deve ser calculada sobre o seu salário-base SOMADO a todas as outras gratificações e adicionais de caráter genérico e definitivo que já estão incorporados ao seu contracheque.
+Isso significa que ela deve ser calculada sobre o seu salário-base SOMADO a todas as outras gratificações e adicionais de caráter genérico e definitivo que já estão incorporados ao seu contracheque.
 
 **Atenção às Restrições:** Para evitar o que o Supremo Tribunal Federal chama de "efeito cascata" ou repique (calcular um adicional sobre outro adicional temporal), a sexta-parte **NÃO incide** sobre outras parcelas de natureza estritamente eventual (como horas extras, adicional noturno variável, diárias de viagem, auxílio-alimentação) e, na visão de alguns tribunais, não pode incidir sobre os próprios quinquênios.
 
@@ -39,13 +41,13 @@ Para notificar o RH de que você completou o tempo e exigir que a base de cálcu
 
 ## 3. Servidor Celetista (CLT) da Administração Direta tem Direito?
 
-Esta é, sem dúvida, a batalha judicial mais clássica e sangrenta relacionada à sexta-parte e aos quinquênios.
+Esta é, sem dúvida, a batalha judicial mais clássica e sangrenta relacionada à sexta-parte e aos quinquênios. O Estado e as Prefeituras adotam a postura padrão de **negar sumariamente** o pagamento da sexta-parte aos servidores públicos que foram admitidos sob o regime da CLT (Consolidação das Leis do Trabalho). 
 
-O Estado e as Prefeituras adotam a postura padrão de **negar sumariamente** o pagamento da sexta-parte aos servidores públicos que foram admitidos sob o regime da CLT (Consolidação das Leis do Trabalho). Esses servidores são muito comuns (aqueles contratados antes da Constituição de 88 que não foram estabilizados, ou empregados públicos de autarquias e fundações).
+Esses servidores são muito comuns (aqueles contratados antes da Constituição de 88 que não foram estabilizados, ou empregados públicos de autarquias e fundações). O argumento do governo é que a sexta-parte é benefício exclusivo do "servidor estatutário". 
 
-O argumento do governo é que a sexta-parte é benefício exclusivo do "servidor estatutário". 
+Felizmente, a Justiça diz não a esse absurdo. O Tribunal Superior do Trabalho (TST) e o STF possuem farta e consolidada jurisprudência (Orientação Jurisprudencial, súmulas, etc.) garantindo que a sexta-parte se estende, **SIM, a todos os servidores públicos (sejam estatutários ou celetistas)** que prestam serviço para entes da Administração Pública Direta, Autárquica e Fundacional. 
 
-Felizmente, a Justiça diz não a esse absurdo. O Tribunal Superior do Trabalho (TST) e o STF possuem farta e consolidada jurisprudência (Orientação Jurisprudencial, súmulas, etc.) garantindo que a sexta-parte se estende, **SIM, a todos os servidores públicos (sejam estatutários ou celetistas)** que prestam serviço para entes da Administração Pública Direta, Autárquica e Fundacional. A justificativa é o Princípio da Isonomia: não faz sentido tratar de forma diferente quem presta o mesmo serviço público pelo mesmo tempo.
+A justificativa é o Princípio da Isonomia: não faz sentido tratar de forma diferente quem presta o mesmo serviço público pelo mesmo tempo.
 
 > [!WARNING]
 > Empregados de empresas públicas (como Correios ou Caixa) e sociedades de economia mista (como Petrobras) operam sob regime privado de concorrência e, portanto, em regra, não têm direito à sexta-parte estabelecida nas constituições para a administração direta.
@@ -59,3 +61,14 @@ A postura omissa do ente público custa caro ao servidor. Aprenda a defender seu
 - **Passo 3: A Cobrança de Atrasados na Justiça.** Se você já tem 25 anos de serviço, e só descobriu lendo este artigo que tinha direito à Sexta-Parte, a via administrativa só vai garantir o benefício daqui para a frente. Para receber as fortunas atrasadas dos meses anteriores em que você não recebeu, você precisará ajuizar uma Ação de Cobrança (respeitando o limite prescricional, ou seja, você só pode cobrar os atrasados dos últimos **5 anos** anteriores à entrada da ação judicial).
 
 Recuperar esses direitos e corrigir a base de cálculo é um trabalho minucioso, que exige conferência de centenas de contracheques e planilhas de cálculos pesadas. Para impetrar ações de correção de Sexta-Parte e a cobrança contundente dos últimos cinco anos retroativos contra a Fazenda Pública, acione a nossa [Assessoria Jurídica](/ferramentas/contato-advogado) e pare de financiar as falhas da prefeitura com o seu suor.
+
+## Perguntas Frequentes (FAQ)
+
+**1. Todo servidor público no Brasil tem direito à sexta-parte?**
+Não. É um benefício que depende de previsão na lei local ou na Constituição do seu Estado. Muitos estados e municípios mais novos não instituíram esse benefício nos seus estatutos.
+
+**2. As faltas abonadas ou as licenças médicas descontam do meu tempo para receber a sexta-parte?**
+Geralmente, as ausências que a lei considera como "efetivo exercício", tais como licença para tratamento de saúde, férias e licença-maternidade, não atrasam o seu cômputo dos 20 anos. As faltas injustificadas, contudo, suspendem a contagem desses dias.
+
+**3. Eu era servidor municipal celetista e depois passei para o regime estatutário. Esse tempo conta?**
+Sim. O tempo trabalhado de forma ininterrupta para a mesma esfera da Administração deve ser somado, mesmo havendo mudança de regime, garantindo a sua sexta-parte aos 20 anos.

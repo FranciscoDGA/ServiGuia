@@ -6,9 +6,11 @@ readTime: 6
 image: 'https://picsum.photos/seed/progressao-por-titulos/800/400'
 ---
 
-A **progressão funcional por títulos** é um dos direitos mais valiosos (e muitas vezes ignorados) do servidor público. Se você é concursado, entender como converter sua qualificação educacional em aumento real no vencimento base é essencial para o planejamento da sua carreira a longo prazo.
+A **progressão funcional por títulos** é um dos direitos mais valiosos (e muitas vezes ignorados) do servidor público. Se você é concursado, entender como converter sua qualificação educacional em aumento real no vencimento base é essencial para o planejamento da sua carreira.
 
-Diferente da progressão por tempo de serviço, que exige muita paciência, a progressão por qualificação pode ser controlada por você. Ao entender as regras do jogo, você pode garantir aumentos salariais substanciais em curtos períodos de tempo.
+Diferente da progressão por tempo de serviço, que exige muita paciência, a progressão por qualificação pode ser controlada por você. 
+
+Ao entender as regras do jogo, você pode garantir aumentos salariais substanciais em curtos períodos de tempo.
 
 ---
 
@@ -26,7 +28,8 @@ Ao concluir cursos de capacitação, pós-graduação (*lato sensu*), mestrado o
 ## 2. O curso precisa ser na área de atuação?
 
 **Sim, quase sempre.** 
-O investimento do ente público em pagar mais para você só se justifica se a sua qualificação trouxer benefícios diretos ou indiretos para a execução do serviço. O curso de especialização deve ter **afinidade direta ou indireta** com as atribuições do seu cargo.
+
+O investimento do ente público em pagar mais para você só se justifica se a sua qualificação trouxer benefícios. O curso de especialização deve ter **afinidade direta ou indireta** com as atribuições do seu cargo.
 
 **Exemplos Práticos:**
 - Um **Guarda Municipal** que faz pós-graduação em Segurança Pública ou Direito Administrativo terá facilidade no deferimento. 
@@ -47,10 +50,10 @@ O diploma ou certificado deve ser expedido por instituição devidamente credenc
 👉 *Dica: [Confira nossa seleção de Pós-Graduações EaD parceiras](/cursos-parceiros).*
 
 ### Passo 3: Monte o Processo Administrativo
-Protocole o requerimento no Setor de Recursos Humanos. Anexe uma cópia autenticada do certificado e do histórico escolar. Se a prefeitura aceitar, um servidor de carreira poderá fazer a "autenticação administrativa" (conferindo a cópia com o original ali mesmo no balcão).
+Protocole o requerimento no Setor de Recursos Humanos. Anexe uma cópia autenticada do certificado e do histórico escolar. Se a prefeitura aceitar, um servidor de carreira poderá fazer a "autenticação administrativa" (conferindo a cópia com o original ali mesmo).
 
 ### Passo 4: Acompanhe o Protocolo
-A administração tem o dever legal de responder aos requerimentos. Caso demore mais de 30 a 60 dias (conforme o estatuto local), é possível impetrar recurso administrativo ou acionar a via judicial para garantir o pagamento dos **retroativos desde a data do seu protocolo**.
+A administração tem o dever legal de responder aos requerimentos. Caso demore mais de 30 a 60 dias (conforme o estatuto local), é possível impetrar recurso administrativo ou acionar a via judicial. Isso garante o pagamento dos **retroativos desde a data do seu protocolo**.
 
 > [!IMPORTANT]
 > **Reflexos Salariais:** O aumento decorrente da progressão por títulos altera a base do seu vencimento. Isso significa que as suas horas extras, férias, 13º salário e, principalmente, **a sua futura aposentadoria** serão calculados sobre esse novo valor maior. Não atrase sua qualificação!
@@ -59,9 +62,20 @@ A administração tem o dever legal de responder aos requerimentos. Caso demore 
 
 ## 4. Onde encontrar Cursos Válidos?
 
-Para facilitar a vida do servidor que não tem tempo de frequentar aulas presenciais, selecionamos as melhores instituições parceiras que oferecem cursos 100% EaD, sem TCC obrigatório e com certificados emitidos em poucos meses, rigorosamente de acordo com o MEC.
+Para facilitar a vida do servidor que não tem tempo de frequentar aulas presenciais, selecionamos as melhores instituições parceiras. Oferecemos cursos 100% EaD, sem TCC obrigatório e com certificados emitidos em poucos meses, rigorosamente de acordo com o MEC.
 
 🔗 **[Acesse nossa página de Cursos Parceiros e escolha o seu](/cursos-parceiros)**
 
 Se o seu processo administrativo for negado injustamente, não desista. 
 📥 Baixe o nosso **[Kit de Requerimentos](/produtos/kit-requerimentos)** para recorrer da decisão usando os argumentos legais corretos.
+
+## Perguntas Frequentes (FAQ)
+
+**1. A pós-graduação EaD vale para progressão?**
+Sim. Desde que seja reconhecida pelo MEC e tenha a carga horária mínima exigida pela lei do seu município (normalmente 360 horas), ela possui exatamente a mesma validade do curso presencial.
+
+**2. O aumento salarial é aplicado em todas as minhas gratificações?**
+Geralmente, sim. O adicional de qualificação costuma ser calculado sobre o vencimento-base, o que gera um efeito cascata em adicionais noturnos, horas extras e décimo terceiro.
+
+**3. O que fazer se a prefeitura atrasar o pagamento da minha progressão?**
+Se o protocolo exceder o prazo de resposta da prefeitura, você tem direito a receber os valores de forma retroativa desde a data do pedido. O ideal é cobrar administrativamente ou via judicial.

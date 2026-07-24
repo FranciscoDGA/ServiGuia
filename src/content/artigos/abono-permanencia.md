@@ -48,3 +48,14 @@ Você deve entrar com um requerimento administrativo cobrando os últimos 5 anos
 *Não deixe seu dinheiro prescrever.*
 - 👉 **[Consulte um Advogado Parceiro para Ações Retroativas](/ferramentas/contato-advogado)**
 - 📖 **[Baixe os Modelos de Requerimento de Abono (Word)](/produtos/kit-requerimentos)**
+
+## Perguntas Frequentes (FAQ)
+
+**1. O abono de permanência isenta do imposto de renda?**
+Não. Como possui caráter remuneratório, o abono de permanência sofre normalmente a incidência do imposto de renda.
+
+**2. Posso receber o abono de permanência tendo averbado tempo da iniciativa privada?**
+Sim. Desde que a certidão de tempo de contribuição (CTC) ateste o tempo necessário e, somado ao tempo público, você atenda aos requisitos para aposentadoria.
+
+**3. O que fazer se o meu órgão negar o requerimento do abono?**
+Se houver recusa injustificada após o pedido administrativo formal, você deve buscar auxílio jurídico para impetrar uma ação judicial de cobrança, inclusive dos atrasados.

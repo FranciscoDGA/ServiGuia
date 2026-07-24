@@ -40,7 +40,9 @@ No julgamento do **Tema 19 da Repercussão Geral**, o STF decidiu que o Chefe do
 
 O argumento mais potente, e usado como "cartada final" pelos prefeitos, é a famigerada Lei de Responsabilidade Fiscal (LRF). Eles alegam que a folha de pagamento já bateu no **limite prudencial (51,3% da Receita Corrente Líquida)** ou no limite máximo (54%), e por isso, a LRF proibiria a concessão de reajustes, sob pena de o Prefeito cometer crime de responsabilidade.
 
-Entretanto, juristas e especialistas em direito administrativo travam uma batalha técnica severa aqui: argumenta-se veementemente que a LRF veda o *aumento real*, mas não poderia vedar a *revisão geral anual*, por ser esta uma garantia esculpida na própria Constituição. Se uma lei complementar (LRF) proíbe o que a Constituição ordena, a lei é que deve ser relativizada, não o contrário. Ainda há intenso debate jurisprudencial sobre se a reposição inflacionária nua e crua deve ou não sofrer as travas duras da LRF.
+Entretanto, juristas e especialistas em direito administrativo travam uma batalha técnica severa aqui: argumenta-se veementemente que a LRF veda o *aumento real*, mas não poderia vedar a *revisão geral anual*, por ser esta uma garantia esculpida na própria Constituição. 
+
+Se uma lei complementar (LRF) proíbe o que a Constituição ordena, a lei é que deve ser relativizada, não o contrário. Ainda há intenso debate jurisprudencial sobre se a reposição inflacionária nua e crua deve ou não sofrer as travas duras da LRF.
 
 ## 4. O Papel Estratégico do Sindicato: A Greve por Data-Base
 
@@ -54,3 +56,17 @@ A omissão contumaz do prefeito em conceder a Revisão Geral Anual (e pior, a re
 A luta por salário no serviço público é, fundamentalmente, uma luta política que esbarra no jurídico. É vital que os sindicatos estejam assessorados por escritórios de ponta, capazes de blindar judicialmente o movimento paredista para que o servidor possa protestar sem medo de ver sua família passar fome pelo corte de ponto. 
 
 Caso o seu sindicato ou associação precise de representação combativa para obrigar o gestor público a abrir os dados fiscais e provar a real viabilidade da Revisão Geral Anual, nossa [Assessoria Jurídica](/ferramentas/contato-advogado) oferece inteligência estratégica tanto para ações coletivas de sindicatos quanto para a defesa de lideranças grevistas. O salário congelado é a desvalorização do seu concurso. Não aceite calado.
+
+## Perguntas Frequentes (FAQ)
+
+**1. O Juiz pode dar uma sentença obrigando o prefeito a conceder a Revisão Anual?**
+Não. De acordo com o STF, o Poder Judiciário não pode conceder reajuste de vencimentos aos servidores públicos sob o argumento de isonomia ou reposição inflacionária, pois não legisla. O Judiciário pode, porém, exigir que o prefeito justifique formalmente a negativa.
+
+**2. A prefeitura pode conceder um reajuste de 3% para os professores e 0% para a saúde no mesmo ano sob a rubrica de "Revisão Anual"?**
+Não. A Revisão Geral Anual deve ser concedida com o mesmo índice para todos os servidores do mesmo ente federativo, na mesma data. Diferenciações de índices só são possíveis se for um *Aumento Real* específico para uma categoria.
+
+**3. Se a prefeitura bater no limite da Lei de Responsabilidade Fiscal, a Revisão Geral Anual está proibida?**
+Há muito debate. A maioria das prefeituras diz que sim, usando isso como desculpa. Contudo, muitos tribunais entendem que a reposição inflacionária (que não é aumento real) tem base constitucional e não pode ser completamente barrada pela LRF, dependendo do caso concreto e de negociação coletiva.
+
+**4. A prefeitura pode cortar o meu ponto se eu aderir à greve cobrando a data-base?**
+A regra geral da greve é o corte de ponto (pois o serviço não foi prestado). Entretanto, se o motivo principal da greve for conduta ilícita do ente público, como o descumprimento reiterado do pagamento de salários, recusa absoluta em negociar ou violação flagrante da data-base, os tribunais têm considerado o corte abusivo e mandado devolver os valores.

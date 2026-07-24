@@ -10,7 +10,7 @@ Servidores públicos municipais, estaduais e federais que trabalham expostos a a
 
 No entanto, um erro muito comum é achar que o pagamento é automático. Na realidade, **o adicional depende exclusivamente de um laudo técnico**, e a inércia do servidor pode resultar em anos de perdas salariais. 
 
-Neste guia, você entenderá exatamente como funcionam esses adicionais, as regras estabelecidas pelos Tribunais Superiores e, o mais importante: como protocolar o requerimento no RH da sua prefeitura ou órgão.
+Neste guia, você entenderá exatamente como funcionam esses adicionais e as regras estabelecidas pelos Tribunais Superiores. O mais importante: como protocolar o requerimento no RH da sua prefeitura ou órgão.
 
 ---
 
@@ -29,7 +29,8 @@ Ocorre quando há **exposição permanente a inflamáveis, explosivos, energia e
 - **Como é pago:** O adicional é pago em percentual único (geralmente **30%** sobre o vencimento base).
 
 > [!WARNING]
-> **Atenção à Cumulatividade:** Na imensa maioria dos estatutos e segundo a jurisprudência dominante, os adicionais de insalubridade e periculosidade **não são cumulativos**. Se você tiver direito aos dois (ex: trabalha em um hospital insalubre mas lida com caldeiras explosivas), precisará optar pelo que render o maior valor na sua folha de pagamento.
+> **Atenção à Cumulatividade:** Na imensa maioria dos estatutos e segundo a jurisprudência dominante, os adicionais de insalubridade e periculosidade **não são cumulativos**. 
+> Se você tiver direito aos dois, precisará optar pelo que render o maior valor na sua folha de pagamento.
 
 ---
 
@@ -55,13 +56,14 @@ Não espere a prefeitura agir, e não confie em "pedidos de boca". Você deve pr
 💡 *Se você não sabe como redigir este documento, utilize nosso [Gerador de Requerimentos](/ferramentas/gerador-requerimento).*
 
 ### Passo 2: Exija a perícia no local
-A administração pública é obrigada pelo princípio da eficiência a mandar o Médico ou Engenheiro de Segurança do Trabalho até o seu local de trabalho para medir a exposição (nível de ruído, agentes biológicos, radiação, etc).
+A administração pública é obrigada pelo princípio da eficiência a mandar o Médico ou Engenheiro de Segurança do Trabalho até o seu local de trabalho para medir a exposição.
 
 ### Passo 3: Acompanhe a emissão da Portaria
 Se o laudo (LTCAT) for favorável, a concessão do seu adicional deve ser publicada no Diário Oficial. O pagamento inicia, via de regra, na folha do mês seguinte.
 
 ### Passo 4: Cobre os Retroativos (Justiça)
 E se a prefeitura demorar 2 anos para fazer o laudo? Você trabalhou 2 anos no risco e não recebeu nada? 
+
 Nesse caso, a jurisprudência entende que cabe ação judicial cobrando os **atrasados desde a data do seu protocolo administrativo** (ou desde a data de início na lotação, dependendo da interpretação do juiz local).
 
 Para entrar com a ação, você precisará de um advogado especialista. 
@@ -79,3 +81,14 @@ Para entender mais sobre seus direitos e a relação com processos e punições,
 
 ---
 *Fonte Consultada: Portal de Jurisprudência do [Supremo Tribunal Federal (STF)](https://portal.stf.jus.br/).*
+
+## Perguntas Frequentes (FAQ)
+
+**1. Insalubridade e Periculosidade podem ser recebidas juntas?**
+Não. De acordo com a jurisprudência majoritária, os adicionais não são cumulativos, devendo o servidor optar por aquele que for mais vantajoso financeiramente.
+
+**2. A prefeitura pode retirar o meu adicional?**
+Sim, caso o laudo pericial (LTCAT) atualizado comprove que as condições nocivas foram eliminadas do ambiente de trabalho (por exemplo, uso de EPIs eficazes).
+
+**3. Quem emite o laudo para comprovar o direito?**
+O Laudo Técnico das Condições Ambientais do Trabalho (LTCAT) só pode ser emitido por um Médico do Trabalho ou Engenheiro de Segurança do Trabalho.

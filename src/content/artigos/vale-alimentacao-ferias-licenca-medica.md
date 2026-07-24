@@ -22,8 +22,7 @@ Isso quer dizer que ele serve para *ressarcir* o servidor pelos gastos extraordi
 
 Aí reside o grande conflito jurídico que os RHs de prefeituras preferem ignorar. A maioria esmagadora dos Estatutos de Servidores Públicos (baseados no modelo da Lei Federal 8.112/90, em seu Artigo 102) considera legalmente que os períodos de férias, licenças para tratamento da própria saúde e licenças-maternidade **SÃO CONSIDERADOS EFETIVO EXERCÍCIO** para todos os efeitos legais.
 
-O raciocínio matemático da Justiça Superior é brilhante em sua simplicidade:
-Se a lei diz que o Vale é pago pelos dias de "efetivo exercício", e o próprio Estatuto Municipal diz que as férias e licenças médicas são legalmente períodos de "efetivo exercício", o município é obrigado a pagar o Vale nesses períodos. Ponto final.
+O raciocínio matemático da Justiça Superior é brilhante em sua simplicidade. Se a lei diz que o Vale é pago pelos dias de "efetivo exercício", e o próprio Estatuto Municipal diz que as férias e licenças médicas são legalmente períodos de "efetivo exercício", o município é obrigado a pagar o Vale nesses períodos. Ponto final.
 
 > [!IMPORTANT]
 > O Superior Tribunal de Justiça (STJ) pacificou esse entendimento em dezenas de decisões. Segundo a Corte, se a legislação local equipara as férias e afastamentos por saúde ao efetivo labor, o corte do auxílio-alimentação (sob a desculpa de "não estar trabalhando fisicamente") é frontalmente **ILEGAL** e configura confisco indevido de verba de natureza alimentar.
@@ -48,6 +47,19 @@ Antes de judicializar ou bater na porta do RH, você mesmo pode e deve requerer 
 O corte indevido de vale-alimentação não é apenas um prejuízo do mês atual. É um calote sistemático de anos.
 
 - **Analise a Lei do Benefício:** Peça imediatamente ao RH a cópia (ou busque no Diário Oficial) da Lei que criou o Vale. Leia atentamente. Ela restringe às ausências físicas expressamente? Se não, a vitória é quase certa.
-- **Acione o Sindicato (Causa Coletiva de Ouro):** Como o corte afeta todos os servidores da prefeitura simultaneamente durante as férias, esta é uma causa coletiva perfeita. O Sindicato deve impetrar Mandado de Segurança Coletivo ou Ação Civil Pública. O pedido não é apenas para que a prefeitura pare de cortar de hoje em diante, mas para que ela seja condenada a **pagar retroativamente o valor de todos os vales-alimentação cortados nas férias e licenças nos últimos 5 anos, para todos os servidores da base, com juros e correção monetária**.
+- **Acione o Sindicato (Causa Coletiva de Ouro):** Como o corte afeta todos os servidores da prefeitura simultaneamente durante as férias, esta é uma causa coletiva perfeita. O Sindicato deve impetrar Mandado de Segurança Coletivo ou Ação Civil Pública. 
+
+O pedido não é apenas para que a prefeitura pare de cortar de hoje em diante, mas para que ela seja condenada a **pagar retroativamente o valor de todos os vales-alimentação cortados nas férias e licenças nos últimos 5 anos, para todos os servidores da base, com juros e correção monetária**.
 
 O corte silencioso desses benefícios nas prefeituras enche os cofres do Executivo e esvazia o prato do servidor. Para estancar essa sangria, promover a Ação Judicial (individual ou coletiva) visando a recuperação desses valores retroativos dos últimos cinco anos e o restabelecimento imediato do benefício, entre em contato direto com a nossa [Assessoria Jurídica](/ferramentas/contato-advogado) e faça valer cada centavo do seu direito.
+
+## Perguntas Frequentes (FAQ)
+
+**1. Recebo auxílio-transporte. Ele obedece à mesma regra do vale-alimentação?**
+Não. O STJ entende que o auxílio-transporte é pago estritamente para o deslocamento físico. Nas férias ou licenças, como não há o trajeto casa-trabalho, o corte do vale-transporte é sempre legal.
+
+**2. A prefeitura descontou o vale-alimentação quando faltei um dia sem justificativa. Está correto?**
+Sim. A falta injustificada não é considerada "efetivo exercício". Logo, o ente público pode descontar o vale-alimentação referente àquele dia de ausência.
+
+**3. Posso entrar na Justiça exigindo os valores cortados nos últimos 10 anos?**
+Não. A cobrança contra a Fazenda Pública possui uma prescrição de cinco anos. Você só pode cobrar judicialmente os cortes indevidos que ocorreram dentro do limite dos últimos 5 anos, contados de trás para frente a partir do dia em que a ação judicial for protocolada.

@@ -27,9 +27,11 @@ Você só pode manter licitamente mais de um vínculo público (e ser remunerado
 
 Aqui reside o maior motivo de demissão nos PADs de acumulação. Muitos servidores acreditam, de forma ingênua, que ter um cargo administrativo de nível médio (como Assistente Administrativo, Auxiliar de Escritório, Agente de Portaria) lhes permite acumular com um cargo de professor. **Não permite.** 
 
-A jurisprudência do Superior Tribunal de Justiça (STJ) e do Supremo Tribunal Federal (STF) é uníssona em definir "Cargo Técnico ou Científico" como aquele que exige conhecimento específico e qualificado para o ingresso, geralmente atrelado a curso de nível superior ou curso técnico profissionalizante de nível médio com exigência de registro em conselho de classe. Cargos de natureza puramente burocrática, repetitiva, administrativa ou de atendimento ao público não entram na exceção constitucional.
+A jurisprudência do Superior Tribunal de Justiça (STJ) e do Supremo Tribunal Federal (STF) é uníssona em definir "Cargo Técnico ou Científico" como aquele que exige conhecimento específico e qualificado para o ingresso. Geralmente atrelado a curso de nível superior ou curso técnico profissionalizante de nível médio com exigência de registro em conselho de classe. 
 
-Se você está em dúvida sobre o enquadramento do seu cargo, é fundamental realizar uma análise jurídica preventiva antes de tomar posse no segundo concurso. Caso precise de uma base sólida para apresentar sua defesa prévia no RH, utilize nosso [Kit de Requerimentos](/produtos/kit-requerimentos), que conta com petições prontas sobre o conceito de cargo técnico.
+Cargos de natureza puramente burocrática, repetitiva, administrativa ou de atendimento ao público não entram na exceção constitucional. Se você está em dúvida sobre o enquadramento do seu cargo, é fundamental realizar uma análise jurídica preventiva antes de tomar posse no segundo concurso. 
+
+Caso precise de uma base sólida para apresentar sua defesa prévia no RH, utilize nosso [Kit de Requerimentos](/produtos/kit-requerimentos), que conta com petições prontas sobre o conceito de cargo técnico.
 
 ## 3. O limite da carga horária (A lenda das 60 horas semanais)
 
@@ -50,4 +52,20 @@ Para não colocar a sua carreira e o seu pão de cada dia em risco, adote as seg
 - **Passo 2: Portaria de Compatibilidade.** Apresente os horários e escalas assinadas pelas duas chefias demonstrando o intervalo de deslocamento e descanso entre as jornadas. Peça que isso seja homologado oficialmente no seu dossiê funcional.
 - **Passo 3: A Notificação de PAD.** Fui notificado por Acumulação Ilícita no PAD, o que faço? Mantenha a calma. A lei exige que o servidor seja intimado a fazer a "opção". Se você escolher pedir exoneração de um dos cargos no prazo estipulado (geralmente 10 dias), o processo deve ser arquivado e presume-se a sua boa-fé. Se não optar, você correrá o risco gravíssimo de ser demitido de ambos e impedido de retornar ao serviço público por anos.
 
-A defesa em um Processo Administrativo Disciplinar por acumulação ilícita é altamente técnica. Requer não apenas a demonstração de fatos, mas o domínio de jurisprudência pesada e súmulas dos tribunais superiores. Se você foi notificado ou suspeita que seu cargo administrativo não se enquadra na exceção, não enfrente a comissão de PAD sozinho. Agende agora uma consulta com nossa [Assessoria Jurídica](/ferramentas/contato-advogado) e proteja seus cargos e seu futuro com a força da melhor doutrina do Direito Administrativo.
+A defesa em um Processo Administrativo Disciplinar por acumulação ilícita é altamente técnica. Requer não apenas a demonstração de fatos, mas o domínio de jurisprudência pesada e súmulas dos tribunais superiores. 
+
+Se você foi notificado ou suspeita que seu cargo administrativo não se enquadra na exceção, não enfrente a comissão de PAD sozinho. Agende agora uma consulta com nossa [Assessoria Jurídica](/ferramentas/contato-advogado) e proteja seus cargos e seu futuro com a força da melhor doutrina do Direito Administrativo.
+
+## Perguntas Frequentes (FAQ)
+
+**1. A prefeitura pode me forçar a escolher um cargo alegando carga superior a 60h?**
+Não. O STF já decidiu que não há limite fixo de carga horária (como 60h semanais), exigindo-se apenas a efetiva compatibilidade de horários.
+
+**2. O que acontece se o meu cargo não se enquadrar como técnico ou científico?**
+Você estará configurando acumulação ilícita. A administração irá abrir um PAD e determinar que você opte por um dos cargos sob pena de demissão.
+
+**3. Posso acumular dois cargos de nível médio se ambos forem da área da saúde?**
+Se forem profissões regulamentadas privativas de profissionais de saúde (como Técnico em Enfermagem), e houver compatibilidade de horários, sim.
+
+**4. Esconder meu outro emprego público me protege do PAD?**
+Muito pelo contrário. A ocultação demonstra má-fé e pode ser caracterizada como ato de improbidade administrativa, inviabilizando a presunção de boa-fé caso seja descoberto.

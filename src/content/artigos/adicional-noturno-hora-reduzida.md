@@ -8,7 +8,9 @@ image: 'https://picsum.photos/seed/adicional-noturno-hora-reduzida/800/400'
 
 Trabalhar enquanto o mundo dorme é uma missão árdua que altera profundamente o relógio biológico, o convívio familiar e a saúde do servidor. Profissionais essenciais como enfermeiros, médicos, vigias, guardas municipais e policiais frequentemente dedicam suas madrugadas à proteção e ao cuidado da sociedade. 
 
-Para compensar o grave desgaste físico, psicológico e social imposto pelo trabalho noturno, a legislação (desde a Constituição Federal até os estatutos locais) confere duas proteções jurídicas e financeiras de ouro: o **Adicional Noturno** em dinheiro e a **Ficção Jurídica da Hora Noturna Reduzida**. Apesar de serem direitos cristalinos, milhares de servidores públicos são lesados mensalmente por prefeituras e estados que calculam esses benefícios de forma errada, gerando perdas salariais milionárias ao longo dos anos.
+Para compensar o grave desgaste físico, psicológico e social imposto pelo trabalho noturno, a legislação (desde a Constituição Federal até os estatutos locais) confere duas proteções jurídicas e financeiras de ouro: o **Adicional Noturno** em dinheiro e a **Ficção Jurídica da Hora Noturna Reduzida**. 
+
+Apesar de serem direitos cristalinos, milhares de servidores públicos são lesados mensalmente por prefeituras e estados que calculam esses benefícios de forma errada, gerando perdas salariais milionárias ao longo dos anos.
 
 ## 1. Qual é o horário considerado "Noturno" na lei?
 
@@ -54,4 +56,20 @@ O servidor não deve ser passivo diante de erros do RH. O procedimento correto �
 - **Pedido Administrativo:** Faça um pedido formal de **Revisão de Cálculo de Adicional Noturno e Horas Prorrogadas**. 
 - **Ação Judicial:** Se a prefeitura insistir em ignorar a hora de 52m30s, cortar o adicional às 05h ou aplicar percentuais errados, a via judicial é o único caminho e costuma ser causa ganha, com pagamento de atrasados reajustados.
 
-Não permita que a Administração Pública faça economia ilícita em cima das suas noites mal dormidas e da sua saúde. Seus direitos não são negociáveis. Acione a nossa [Assessoria Jurídica](/ferramentas/contato-advogado) para avaliarmos suas folhas de ponto, realizarmos os cálculos precisos e ajuizarmos a ação competente para cobrar até o último centavo de adicional noturno sonegado. Seu esforço merece respeito e remuneração justa.
+Não permita que a Administração Pública faça economia ilícita em cima das suas noites mal dormidas e da sua saúde. Seus direitos não são negociáveis. 
+
+Acione a nossa [Assessoria Jurídica](/ferramentas/contato-advogado) para avaliarmos suas folhas de ponto, realizarmos os cálculos precisos e ajuizarmos a ação competente para cobrar até o último centavo de adicional noturno sonegado. Seu esforço merece respeito e remuneração justa.
+
+## Perguntas Frequentes (FAQ)
+
+**1. Meu plantão acabou às 07h. Eu recebo adicional noturno das 05h às 07h?**
+Sim, pela jurisprudência mais atualizada, o adicional deve se prorrogar pelas horas que sucedem o trabalho noturno devido ao contínuo desgaste físico.
+
+**2. A prefeitura pode pagar só 20% de adicional?**
+Geralmente, o percentual adotado nos estatutos de servidores é 25%. Porém, se a lei complementar local for antiga e estipular expressamente 20%, pode haver essa variação.
+
+**3. Como o RH deve considerar a hora noturna?**
+A hora noturna não dura 60 minutos, mas 52 minutos e 30 segundos. O RH deve calcular de maneira que 7 horas de relógio trabalhadas resultem em 8 horas na folha de ponto.
+
+**4. Posso requerer o pagamento da hora noturna dos anos anteriores?**
+Sim. Mas lembre-se da prescrição quinquenal: você só poderá reaver os valores descontados indevidamente nos últimos 5 anos anteriores à ação.
