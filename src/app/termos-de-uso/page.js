@@ -1,35 +1,61 @@
-export default function TermosUso() {
+export const metadata = {
+  title: 'Termos de Uso | ServGuia',
+  description: 'Termos e Condições de Uso dos serviços e produtos do site ServGuia.',
+};
+
+export default function TermosDeUso() {
   return (
-    <div className="container" style={{ padding: '4rem 2rem', maxWidth: '900px' }}>
-      <h1 style={{ color: 'var(--primary-color)', marginBottom: '1rem', fontSize: '2.5rem' }}>Termos de Uso</h1>
-      <p style={{ color: 'var(--text-light)', marginBottom: '3rem', fontSize: '1.1rem' }}>Última atualização: {new Date().toLocaleDateString('pt-BR')}</p>
-      
-      <div style={{ lineHeight: '1.8', fontSize: '1.1rem', color: 'var(--text-color)' }}>
-        <h2 style={{ color: 'var(--secondary-color)', marginTop: '2rem', marginBottom: '1.5rem', fontSize: '1.8rem' }}>1. Aceitação dos Termos</h2>
-        <p style={{ marginBottom: '1.5rem' }}>Ao acessar e utilizar o portal ServGuia (doravante "Site"), você expressamente concorda com estes Termos de Uso. Este portal destina-se a fornecer informações educacionais, calculadoras e modelos administrativos focados nas rotinas do serviço público municipal, estadual e federal no Brasil.</p>
+    <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', padding: '4rem 2rem' }}>
+      <div className="container" style={{ maxWidth: '800px', backgroundColor: 'white', padding: '3rem', borderRadius: '12px', boxShadow: 'var(--shadow)' }}>
+        <h1 style={{ color: 'var(--primary-color)', marginBottom: '2rem', fontSize: '2.5rem', fontWeight: '800' }}>
+          Termos de Uso
+        </h1>
+        <div style={{ color: 'var(--text-color)', lineHeight: '1.8' }}>
+          
+          <h2 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginTop: '2rem', marginBottom: '1rem' }}>1. Aceitação dos Termos</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            Ao acessar o site <strong>ServGuia</strong>, você concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis, e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
+          </p>
 
-        <h2 style={{ color: 'var(--secondary-color)', marginTop: '3rem', marginBottom: '1.5rem', fontSize: '1.8rem' }}>2. Isenção de Responsabilidade Profissional (Disclaimer Jurídico)</h2>
-        <p style={{ marginBottom: '1.5rem' }}>Aviso crítico: <strong>O conteúdo deste site não substitui aconselhamento jurídico ou contábil profissional.</strong></p>
-        <ul style={{ marginLeft: '2rem', marginBottom: '2rem' }}>
-          <li style={{ marginBottom: '0.5rem' }}>Embora nossos artigos sejam redigidos com base nas legislações e jurisprudências mais atuais (STF/STJ/TCU), o direito administrativo varia drasticamente dependendo do Estatuto local de cada Município ou Estado.</li>
-          <li style={{ marginBottom: '0.5rem' }}>O ServGuia e seus criadores isentam-se de qualquer responsabilidade por indeferimentos, perdas, sanções disciplinares (PAD) ou danos decorrentes da aplicação prática das informações ou modelos de requerimentos baixados no site.</li>
-          <li style={{ marginBottom: '0.5rem' }}>Sempre consulte o setor de Recursos Humanos (RH) do seu ente federativo ou contrate um advogado especialista antes de tomar decisões drásticas em sua carreira.</li>
-        </ul>
+          <h2 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginTop: '2rem', marginBottom: '1rem' }}>2. Uso da Licença e Direitos Autorais</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            Ao adquirir nossos <strong>Kits de Requerimentos</strong>, é concedida a você uma licença pessoal, intransferível e não exclusiva para baixar e usar os documentos (.docx) exclusivamente para o seu uso pessoal e de defesa dos seus próprios direitos funcionais.
+          </p>
+          <p style={{ marginBottom: '1rem' }}>
+            Sob esta licença, você <strong>NÃO</strong> pode:
+          </p>
+          <ul style={{ listStyleType: 'disc', paddingLeft: '2rem', marginBottom: '1rem' }}>
+            <li>Modificar os materiais para revendê-los ou redistribuí-los gratuitamente em grupos de WhatsApp, Telegram ou fóruns;</li>
+            <li>Usar os materiais para fins de comercialização em larga escala (ex: vender os modelos para terceiros);</li>
+            <li>Tentar remover quaisquer avisos de direitos autorais ou outras notações de propriedade dos materiais.</li>
+          </ul>
+          <p style={{ marginBottom: '1rem' }}>
+            Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser encerrada pelo ServGuia a qualquer momento.
+          </p>
 
-        <h2 style={{ color: 'var(--secondary-color)', marginTop: '3rem', marginBottom: '1.5rem', fontSize: '1.8rem' }}>3. Uso das Ferramentas e Modelos (Kits)</h2>
-        <p style={{ marginBottom: '1.5rem' }}>Disponibilizamos calculadoras (como a de aposentadoria) e modelos de requerimentos (gratuitos e pagos). Estes recursos são fornecidos "no estado em que se encontram" (as is).</p>
-        <ul style={{ marginLeft: '2rem', marginBottom: '2rem' }}>
-          <li style={{ marginBottom: '0.5rem' }}>Os modelos servem como base estrutural e devem ser imperativamente adaptados aos artigos da lei orgânica ou estatuto do seu município.</li>
-          <li style={{ marginBottom: '0.5rem' }}>A exatidão das calculadoras de aposentadoria depende dos dados inseridos e não substitui a contagem de tempo oficial (Certidão de Tempo de Contribuição - CTC) emitida pelo INSS ou RPPS.</li>
-        </ul>
+          <h2 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginTop: '2rem', marginBottom: '1rem' }}>3. Isenção de Responsabilidade Profissional (Aviso Legal)</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            O ServGuia fornece modelos de requerimentos e formulários administrativos baseados na legislação vigente (Constituição Federal, STF, etc.). No entanto, <strong>não prestamos serviços de advocacia, consultoria jurídica ou representação processual</strong> na venda destes kits básicos.
+          </p>
+          <p style={{ marginBottom: '1rem' }}>
+            Os resultados da aplicação dos requerimentos variam de acordo com as leis orgânicas de cada município/estado e da interpretação do RH local. Não garantimos que a administração pública deferirá o seu pedido administrativo, visto que a decisão final cabe à autoridade competente do seu órgão.
+          </p>
 
-        <h2 style={{ color: 'var(--secondary-color)', marginTop: '3rem', marginBottom: '1.5rem', fontSize: '1.8rem' }}>4. Propriedade Intelectual (Direitos Autorais)</h2>
-        <p style={{ marginBottom: '1.5rem' }}>Todo o conteúdo deste site, incluindo mas não se limitando a artigos de blog, textos jurídicos, logotipos, ferramentas em código e e-books estruturados, constitui propriedade intelectual do ServGuia, protegida pela Lei de Direitos Autorais (Lei 9.610/98).</p>
-        <p style={{ marginBottom: '1.5rem' }}><strong>É expressamente proibida</strong> a cópia, reprodução, republicação em outros sites, venda ou distribuição do conteúdo gratuito ou pago (Kits Premium) sem prévia autorização por escrito.</p>
+          <h2 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginTop: '2rem', marginBottom: '1rem' }}>4. Garantia de Devolução</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            Confiamos na qualidade do nosso material. Conforme o Código de Defesa do Consumidor e as políticas da Hotmart, oferecemos uma <strong>Garantia Incondicional de 7 dias</strong>. Se dentro deste período (a contar da data da compra) você não estiver satisfeito com o material, poderá solicitar o reembolso integral diretamente pela plataforma da Hotmart, sem burocracia.
+          </p>
 
-        <h2 style={{ color: 'var(--secondary-color)', marginTop: '3rem', marginBottom: '1.5rem', fontSize: '1.8rem' }}>5. Modificações dos Termos</h2>
-        <p style={{ marginBottom: '1.5rem' }}>O ServGuia reserva-se o direito de alterar estes Termos de Uso a qualquer momento. O uso contínuo do site após as alterações constitui aceitação dos novos termos. Recomendamos a visita periódica a esta página.</p>
+          <h2 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginTop: '2rem', marginBottom: '1rem' }}>5. Modificações dos Termos</h2>
+          <p style={{ marginBottom: '1rem' }}>
+            O ServGuia pode revisar estes termos de serviço do site a qualquer momento, sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses termos de serviço.
+          </p>
+
+          <p style={{ marginTop: '3rem', fontSize: '0.9rem', color: 'var(--text-light)' }}>
+            <strong>Última atualização: Julho de 2026</strong>
+          </p>
+        </div>
       </div>
     </div>
-  )
+  );
 }
