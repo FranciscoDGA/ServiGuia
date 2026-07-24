@@ -1,7 +1,7 @@
 import { getSortedArticlesData } from '@/lib/markdown'
 
 export default function sitemap() {
-  const baseUrl = 'https://servguia.com.br' // Troque pelo domínio real assim que tiver
+  const baseUrl = 'https://servi-guia.vercel.app' // Troque pelo domínio real assim que tiver
 
   // Rotas Estáticas Principais
   const staticRoutes = [

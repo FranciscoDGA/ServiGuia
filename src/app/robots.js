@@ -1,5 +1,5 @@
 export default function robots() {
-  const baseUrl = 'https://servguia.com.br' // Troque pelo domínio real assim que tiver
+  const baseUrl = 'https://servi-guia.vercel.app' // Troque pelo domínio real assim que tiver
 
   return {
     rules: {
