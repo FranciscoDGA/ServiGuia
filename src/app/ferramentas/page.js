@@ -39,6 +39,19 @@ export default function Ferramentas() {
             </span>
           </div>
         </Link>
+        {/* Amostra Grátis de Formulários */}
+        <Link href="/ferramentas/amostra-gratis" style={{ textDecoration: 'none' }}>
+          <div className="card" style={{ height: '100%', display: 'flex', flexDirection: 'column', borderTop: '4px solid #38a169' }}>
+            <FileText color="#38a169" size={48} style={{ marginBottom: '1.5rem' }} />
+            <h2 style={{ color: 'var(--primary-color)', fontSize: '1.5rem', marginBottom: '1rem' }}>Modelos Grátis (Word)</h2>
+            <p style={{ color: 'var(--text-light)', flex: 1, marginBottom: '2rem', fontSize: '1.1rem' }}>
+              Baixe 2 arquivos totalmente gratuitos e editáveis para você testar. O primeiro passo para se defender do RH.
+            </p>
+            <span className="btn" style={{ textAlign: 'center', backgroundColor: '#38a169', color: 'white' }}>
+              Baixar Agora
+            </span>
+          </div>
+        </Link>
       </div>
     </div>
   )
