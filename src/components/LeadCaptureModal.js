@@ -19,53 +19,59 @@ export default function LeadCaptureModal({ isOpen, onClose, onSuccess, title, de
   return (
     <div style={styles.overlay}>
       <div style={styles.modal}>
-        <button style={styles.closeBtn} onClick={onClose}>&times;</button>
+        <button style={styles.closeBtn} onClick={onClose} aria-label="Fechar Modal">&times;</button>
         
         <div style={styles.header}>
-          <h3 style={styles.title}>{title || 'Quase lá!'}</h3>
-          <p style={styles.description}>
+          <h3 style={styles.title} id="modal-title">{title || 'Quase lá!'}</h3>
+          <p style={styles.description} id="modal-desc">
             {description || 'Preencha os dados abaixo para liberar seu resultado gratuitamente.'}
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} style={styles.form}>
+        <form onSubmit={handleSubmit} style={styles.form} aria-labelledby="modal-title" aria-describedby="modal-desc">
           <div style={styles.inputGroup}>
-            <label style={styles.label}>Nome Completo</label>
+            <label htmlFor="lead-name" style={styles.label}>Nome Completo</label>
             <input 
+              id="lead-name"
               type="text" 
               required 
               style={styles.input}
               value={formData.name}
               onChange={(e) => setFormData({...formData, name: e.target.value})}
               placeholder="Digite seu nome"
+              aria-required="true"
             />
           </div>
           
           <div style={styles.inputGroup}>
-            <label style={styles.label}>E-mail</label>
+            <label htmlFor="lead-email" style={styles.label}>E-mail</label>
             <input 
+              id="lead-email"
               type="email" 
               required 
               style={styles.input}
               value={formData.email}
               onChange={(e) => setFormData({...formData, email: e.target.value})}
               placeholder="Seu melhor e-mail"
+              aria-required="true"
             />
           </div>
 
           <div style={styles.inputGroup}>
-            <label style={styles.label}>WhatsApp</label>
+            <label htmlFor="lead-whatsapp" style={styles.label}>WhatsApp</label>
             <input 
+              id="lead-whatsapp"
               type="tel" 
               required 
               style={styles.input}
               value={formData.whatsapp}
               onChange={(e) => setFormData({...formData, whatsapp: e.target.value})}
               placeholder="(00) 00000-0000"
+              aria-required="true"
             />
           </div>
 
-          <button type="submit" className="btn btn-primary" style={{ width: '100%', marginTop: '1rem', padding: '1rem' }}>
+          <button type="submit" className="btn btn-primary" style={{ width: '100%', marginTop: '1rem', padding: '1rem' }} aria-label="Enviar dados e liberar acesso">
             Liberar Meu Acesso
           </button>
         </form>

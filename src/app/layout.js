@@ -1,6 +1,7 @@
 import './globals.css'
 import Header from '@/components/Header'
 import CookieBanner from '@/components/CookieBanner'
+import GoogleAnalytics from '@/components/GoogleAnalytics'
 import Link from 'next/link'
 import { Inter } from 'next/font/google'
 
@@ -9,11 +10,15 @@ const inter = Inter({ subsets: ['latin'], display: 'swap' })
 export const metadata = {
   title: 'ServGuia - O Guia Definitivo do Servidor Público',
   description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos municipais e estaduais.',
-  metadataBase: new URL('https://servguia.com.br'),
+  metadataBase: new URL('https://servi-guia.vercel.app'),
+  manifest: '/manifest.json',
+  alternates: {
+    canonical: 'https://servi-guia.vercel.app',
+  },
   openGraph: {
     title: 'ServGuia - O Guia Definitivo do Servidor Público',
     description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.',
-    url: 'https://servguia.com.br',
+    url: 'https://servi-guia.vercel.app',
     siteName: 'ServGuia',
     images: [
       {
@@ -32,12 +37,30 @@ export const metadata = {
   },
 }
 
+export const viewport = {
+  themeColor: '#000000',
+}
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'ServGuia',
+  url: 'https://servi-guia.vercel.app',
+  logo: 'https://servi-guia.vercel.app/logo.png',
+  description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.'
+}
+
 export default function RootLayout({ children }) {
   const whatsappUrl = "https://wa.me/5594984478168?text=[SERVGUIA-ADV]%20Ol%C3%A1!%20Vim%20pelo%20site%20ServGuia%20e%20preciso%20falar%20com%20um%20advogado%20administrativista."
 
   return (
     <html lang="pt-BR" className={inter.className}>
       <body>
+        <GoogleAnalytics ga_id="G-R0J2K8CVKQ" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <Header />
 
         <main>{children}</main>

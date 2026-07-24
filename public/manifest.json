@@ -1,0 +1,16 @@
+{
+  "name": "ServGuia - Guia do Servidor",
+  "short_name": "ServGuia",
+  "description": "O portal completo para a evolução da carreira e direitos dos servidores públicos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

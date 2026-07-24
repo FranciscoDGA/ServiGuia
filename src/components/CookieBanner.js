@@ -46,6 +46,7 @@ export default function CookieBanner() {
         onClick={handleAccept}
         className="btn btn-primary"
         style={{ padding: '0.8rem 2.5rem', whiteSpace: 'nowrap' }}
+        aria-label="Aceitar uso de cookies"
       >
         Entendi e Aceito
       </button>
