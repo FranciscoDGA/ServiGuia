@@ -408,3 +408,71 @@ html {
     display: block;
   }
 }
+
+/* Custom Page Overrides for Mobile */
+.hero {
+  padding: 6rem 2rem;
+}
+.hero-title {
+  font-size: 3.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 800;
+}
+.search-form {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 600px;
+  margin: 0 auto 3rem;
+  background-color: var(--card-bg);
+  padding: 0.5rem;
+  border-radius: 50px;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow);
+}
+.section-padding {
+  padding: 5rem 2rem;
+}
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.hero-buttons .btn {
+  width: auto;
+}
+.lead-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 3rem;
+  justify-content: center;
+}
+.lead-form-box {
+  flex: 1 1 300px;
+  max-width: 400px;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+@media (max-width: 768px) {
+  .hero { padding: 3rem 1rem; }
+  .hero-title { font-size: 2.2rem; }
+  .search-form {
+    flex-direction: column;
+    border-radius: 12px;
+    padding: 1rem;
+    gap: 1rem;
+  }
+  .search-form input { padding: 0.5rem; text-align: center; }
+  .search-form button { width: 100%; border-radius: 8px; }
+  .search-form svg { display: none; }
+  .section-padding { padding: 3rem 1rem; }
+  .hero-buttons .btn { width: 100%; }
+  .lead-section { flex-direction: column; text-align: center; gap: 2rem; }
+  .lead-form-box { width: 100%; max-width: 100%; padding: 1.5rem; }
+}
+

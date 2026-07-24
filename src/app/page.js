@@ -16,9 +16,9 @@ export default function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="hero" style={{ padding: '6rem 2rem' }}>
+      <section className="hero">
         <div className="container" style={{ maxWidth: '900px' }}>
-          <h1 style={{ fontSize: '3.5rem', marginBottom: '1.5rem', fontWeight: '800' }}>
+          <h1 className="hero-title">
             Descomplique sua Carreira no Serviço Público
           </h1>
           <p style={{ fontSize: '1.3rem', opacity: 0.9, marginBottom: '2.5rem', lineHeight: '1.6' }}>
@@ -26,7 +26,7 @@ export default function Home() {
           </p>
           
           {/* Barra de Busca Inteligente */}
-          <form onSubmit={handleSearch} style={{ display: 'flex', gap: '0.5rem', maxWidth: '600px', margin: '0 auto 3rem', backgroundColor: 'var(--card-bg)', padding: '0.5rem', borderRadius: '50px', border: '1px solid var(--border-color)', boxShadow: 'var(--shadow)' }}>
+          <form onSubmit={handleSearch} className="search-form">
             <Search color="var(--text-light)" style={{ marginLeft: '1rem', alignSelf: 'center' }} />
             <input 
               type="text" 
@@ -38,7 +38,7 @@ export default function Home() {
             <button type="submit" className="btn btn-primary" style={{ borderRadius: '50px', padding: '0.8rem 2rem' }}>Buscar</button>
           </form>
 
-          <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+          <div className="hero-buttons">
             <Link href="/ferramentas/calculadora-aposentadoria" className="btn btn-primary">
               Calcular Aposentadoria
             </Link>
@@ -50,7 +50,7 @@ export default function Home() {
       </section>
 
       {/* Categorias Principais */}
-      <section className="container" style={{ padding: '5rem 2rem' }}>
+      <section className="container section-padding">
         <h2 style={{ textAlign: 'center', color: 'var(--primary-color)', marginBottom: '3rem', fontSize: '2rem' }}>Acesse Nossos Guias</h2>
         <div className="card-grid">
           <div className="card" style={{ display: 'flex', flexDirection: 'column' }}>
@@ -75,15 +75,15 @@ export default function Home() {
       </section>
 
       {/* Banner Captura de Leads (Isca Digital) */}
-      <section style={{ backgroundColor: '#edf2f7', padding: '4rem 2rem', color: '#2d3748' }}>
-        <div className="container" style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: '3rem', justifyContent: 'center' }}>
+      <section style={{ backgroundColor: '#edf2f7', padding: '4rem 0', color: '#2d3748' }}>
+        <div className="container lead-section">
           <div style={{ flex: '1 1 400px', maxWidth: '600px' }}>
             <h2 style={{ fontSize: '2rem', marginBottom: '1rem', color: '#1a202c' }}>Precisa entrar com um pedido no RH?</h2>
             <p style={{ fontSize: '1.2rem', marginBottom: '1.5rem', opacity: 0.9 }}>
               Não corra o risco de ter seu requerimento indeferido por erros bobos. Baixe gratuitamente nosso e-book com os <strong>5 Requerimentos Essenciais</strong> que todo servidor deve ter na gaveta.
             </p>
           </div>
-          <div style={{ flex: '1 1 300px', maxWidth: '400px', background: 'white', padding: '2rem', borderRadius: '12px', boxShadow: '0 10px 25px rgba(0,0,0,0.05)' }}>
+          <div className="lead-form-box">
             <h3 style={{ fontSize: '1.3rem', marginBottom: '1.5rem', textAlign: 'center', color: 'var(--primary-color)' }}>Baixar Kit Gratuito</h3>
             <form onSubmit={(e) => { e.preventDefault(); alert('Lead Capturado! Arquivo enviado para o e-mail.') }} style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
               <input type="text" placeholder="Seu Nome" required style={{ padding: '0.8rem', borderRadius: '8px', border: '1px solid var(--border-color)', outline: 'none' }} />
