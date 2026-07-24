@@ -107,7 +107,7 @@ export default function KitRequerimentos() {
           <div style={{ background: 'var(--bg-color)', padding: '2rem', borderRadius: '12px', marginBottom: '2rem' }}>
             <p style={{ textDecoration: 'line-through', color: 'var(--text-light)', fontSize: '1.2rem' }}>Valor de um advogado: R$ 1.500+</p>
             <p style={{ fontSize: '4.5rem', fontWeight: '900', color: 'var(--secondary-color)', margin: '0.5rem 0', lineHeight: '1' }}>
-              <span style={{ fontSize: '2rem', verticalAlign: 'top' }}>R$</span>47<span style={{ fontSize: '1.5rem' }}>,00</span>
+              <span style={{ fontSize: '2rem', verticalAlign: 'top' }}>R$</span>197<span style={{ fontSize: '1.5rem' }}>,00</span>
             </p>
             <p style={{ color: 'var(--text-light)', fontWeight: 'bold' }}>Pagamento único. Acesso vitalício.</p>
           </div>
