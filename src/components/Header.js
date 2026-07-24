@@ -12,7 +12,7 @@ export default function Header() {
     <header className="header">
       <div className="container header-content">
         <Link href="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
-          <Image src="/logo.png" alt="ServGuia Logo" width={180} height={40} style={{ objectFit: 'contain', borderRadius: '4px' }} priority />
+          <Image src="/logo.png" alt="ServGuia Logo" width={240} height={60} style={{ objectFit: 'contain', borderRadius: '4px' }} priority />
         </Link>
         
         {/* Mobile Hamburger Icon */}
