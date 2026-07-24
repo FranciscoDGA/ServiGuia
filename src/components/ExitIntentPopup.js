@@ -7,18 +7,24 @@ export default function ExitIntentPopup() {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
+    // Para Computador: Aparece quando tira o mouse da tela (para cima)
     const handleMouseLeave = (e) => {
       if (e.clientY <= 0) {
-        if (!sessionStorage.getItem('exitIntentShown')) {
-          setShow(true);
-          sessionStorage.setItem('exitIntentShown', 'true');
-        }
+        setShow(true);
+        // Removi o sessionStorage temporariamente para você conseguir testar quantas vezes quiser
       }
     };
 
+    // Para Celular: Como não tem mouse, o popup vai aparecer após 10 segundos na página
+    const mobileTimer = setTimeout(() => {
+      setShow(true);
+    }, 10000); // 10 segundos
+
     document.addEventListener('mouseleave', handleMouseLeave);
+    
     return () => {
       document.removeEventListener('mouseleave', handleMouseLeave);
+      clearTimeout(mobileTimer);
     };
   }, []);
 
