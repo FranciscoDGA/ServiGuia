@@ -237,6 +237,24 @@ a:hover {
   color: var(--primary-color);
 }
 
+/* Pricing Cards Hover Effects */
+.pricing-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+.pricing-card:hover {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+.pricing-card-vip {
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+.pricing-card-vip:hover {
+  transform: scale(1.08) translateY(-5px) !important;
+  box-shadow: 0 25px 35px -5px rgba(236, 201, 75, 0.25) !important;
+}
+
 .card p {
   color: var(--text-light);
   margin-bottom: 1.5rem;

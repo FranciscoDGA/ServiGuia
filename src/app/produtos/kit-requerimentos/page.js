@@ -170,7 +170,7 @@ export default function KitRequerimentos() {
           
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '2rem', alignItems: 'flex-start' }}>
             {/* Plano 1 */}
-            <div style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
+            <div className="pricing-card" style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
               <h3 style={{ color: '#4a5568', fontSize: '1.4rem', marginBottom: '0.5rem' }}>Kit Básico</h3>
               <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', marginBottom: '1.5rem', minHeight: '45px' }}>Focado no dia a dia, férias e licenças comuns.</p>
               <div style={{ marginBottom: '2rem' }}>
@@ -184,7 +184,7 @@ export default function KitRequerimentos() {
             </div>
 
             {/* Plano 2 */}
-            <div style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
+            <div className="pricing-card" style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
               <h3 style={{ color: '#2b6cb0', fontSize: '1.4rem', marginBottom: '0.5rem' }}>Kit Financeiro</h3>
               <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', marginBottom: '1.5rem', minHeight: '45px' }}>Retorno imediato: Insalubridade, Quinquênio e Atrasados.</p>
               <div style={{ marginBottom: '2rem' }}>
@@ -198,7 +198,7 @@ export default function KitRequerimentos() {
             </div>
 
             {/* Plano 3 */}
-            <div style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
+            <div className="pricing-card" style={{ background: 'var(--bg-color)', padding: '2.5rem 2rem', borderRadius: '20px', border: '1px solid #e2e8f0', boxShadow: '0 4px 6px rgba(0,0,0,0.05)', display: 'flex', flexDirection: 'column', height: '100%' }}>
               <h3 style={{ color: '#e53e3e', fontSize: '1.4rem', marginBottom: '0.5rem' }}>Kit Defesa PAD</h3>
               <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', marginBottom: '1.5rem', minHeight: '45px' }}>Sindicância e Processos Administrativos. Salve seu emprego.</p>
               <div style={{ marginBottom: '2rem' }}>
@@ -212,7 +212,7 @@ export default function KitRequerimentos() {
             </div>
 
             {/* Plano VIP */}
-            <div style={{ background: 'linear-gradient(135deg, #1a202c 0%, #2d3748 100%)', padding: '2.5rem 2rem', borderRadius: '20px', border: '2px solid #ecc94b', boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.2)', display: 'flex', flexDirection: 'column', height: '100%', transform: 'scale(1.05)', position: 'relative', zIndex: 10 }}>
+            <div className="pricing-card-vip" style={{ background: 'linear-gradient(135deg, #1a202c 0%, #2d3748 100%)', padding: '2.5rem 2rem', borderRadius: '20px', border: '2px solid #ecc94b', boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.2)', display: 'flex', flexDirection: 'column', height: '100%', transform: 'scale(1.05)', position: 'relative', zIndex: 10 }}>
               <div style={{ position: 'absolute', top: '-15px', left: '50%', transform: 'translateX(-50%)', background: '#ecc94b', color: '#1a202c', padding: '0.2rem 1rem', borderRadius: '20px', fontWeight: 'bold', fontSize: '0.8rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                 <Crown size={14} /> MAIS VENDIDO
               </div>
