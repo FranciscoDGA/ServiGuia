@@ -3,6 +3,7 @@ title: 'Aposentadoria Especial no RPPS após a Reforma da Previdência: Regras'
 description: 'Saiba como ficou a aposentadoria especial para servidores públicos expostos a agentes nocivos e como usar a regra de transição a seu favor.'
 date: '2026-07-30'
 readTime: 7
+image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
 ---
 
 A Emenda Constitucional nº 103/2019 (Reforma da Previdência) alterou drasticamente as regras da aposentadoria especial para os servidores públicos. As antigas "regras de ouro" (aposentar com 25 anos de serviço independente da idade) não existem mais para quem entrou após a reforma.

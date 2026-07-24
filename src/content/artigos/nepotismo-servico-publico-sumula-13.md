@@ -3,6 +3,7 @@ title: 'Nepotismo no Serviço Público: Súmula Vinculante 13 e exceções'
 description: 'O Prefeito contratou a esposa? Entenda o que caracteriza nepotismo direto e cruzado, e saiba quando a nomeação de parentes é permitida pela lei.'
 date: '2026-08-27'
 readTime: 4
+image: 'https://images.unsplash.com/photo-1436450412740-6b988f486c6b?auto=format&fit=crop&q=80'
 ---
 
 Uma das denúncias mais comuns em prefeituras menores é a contratação em massa de parentes de secretários e vereadores. Mas afinal, nomear a esposa para um cargo comissionado é crime? Depende do cargo.

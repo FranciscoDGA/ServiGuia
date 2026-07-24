@@ -3,6 +3,7 @@ title: 'Guia da Licença-Prêmio e Capacitação: Como requerer e evitar negativ
 description: 'Entenda os requisitos legais para gozar sua licença-prêmio, convertê-la em dinheiro e como recorrer em caso de negativa da prefeitura.'
 date: '2026-07-23'
 readTime: 8
+image: 'https://images.unsplash.com/photo-1555374018-1c4fa4891129?auto=format&fit=crop&q=80'
 ---
 
 A licença-prêmio por assiduidade (ou licença-capacitação, em esferas que atualizaram o estatuto) é um período de descanso remunerado concedido ao servidor público que mantém frequência exemplar durante um quinquênio (5 anos) ininterrupto.

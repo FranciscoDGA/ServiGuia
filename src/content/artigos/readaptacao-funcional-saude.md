@@ -3,6 +3,7 @@ title: 'Readaptação Funcional: Seus direitos ao adoecer no serviço público'
 description: 'Sofreu acidente ou desenvolveu doença ocupacional? Descubra como a readaptação funcional garante seu emprego sem corte de salário.'
 date: '2026-08-09'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
 A estabilidade do servidor público não o protege apenas de demissões políticas, mas também do adoecimento. Se um servidor sofrer limitação em sua capacidade física ou mental, ele não pode simplesmente ser "jogado de escanteio" ou receber alta forçada para o mesmo setor. É aqui que entra o instituto da **Readaptação Funcional**.

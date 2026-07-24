@@ -3,6 +3,7 @@ title: 'Redução de jornada para servidores pais de crianças neurodivergentes'
 description: 'Saiba como solicitar a redução da carga horária, sem perda salarial, para acompanhar dependentes com TEA, TDAH ou deficiência.'
 date: '2026-07-31'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
 Um direito fundamental que finalmente ganhou força com entendimentos recentes dos Tribunais Superiores (incluindo o STF) é a garantia de redução da jornada de trabalho para servidores que possuem dependentes (filhos ou tutelados) com deficiência ou necessidades especiais (como Transtorno do Espectro Autista - TEA, Síndrome de Down, entre outros).

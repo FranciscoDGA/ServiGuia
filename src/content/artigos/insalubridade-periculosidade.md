@@ -3,24 +3,79 @@ title: 'Adicional de Insalubridade e Periculosidade: Como requerer no RH'
 description: 'Entenda a diferença entre insalubridade e periculosidade e saiba como solicitar os laudos técnicos necessários para receber o adicional.'
 date: '2026-07-29'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
-Servidores que trabalham expostos a agentes nocivos à saúde (insalubridade) ou em contato permanente com riscos de morte (periculosidade) têm direito a um adicional no vencimento. Mas o pagamento não é automático, depende de laudo técnico.
+Servidores públicos municipais, estaduais e federais que trabalham expostos a agentes nocivos à saúde (insalubridade) ou em contato permanente com riscos de morte (periculosidade) têm direito a um adicional no vencimento. 
 
-## 1. Qual a diferença?
+No entanto, um erro muito comum é achar que o pagamento é automático. Na realidade, **o adicional depende exclusivamente de um laudo técnico**, e a inércia do servidor pode resultar em anos de perdas salariais. 
 
-- **Insalubridade:** Exposição a agentes químicos, físicos ou biológicos (ex: Enfermeiros, Técnicos de Raio-X, Coletores de lixo). O adicional varia conforme o grau de risco (mínimo, médio ou máximo), geralmente incidindo sobre o salário base.
-- **Periculosidade:** Exposição permanente a inflamáveis, explosivos, energia elétrica de alta tensão ou atividades de segurança pessoal e patrimonial (ex: Guardas Municipais, Vigias, Eletricistas). O adicional é pago em percentual único (geralmente 30%).
+Neste guia, você entenderá exatamente como funcionam esses adicionais, as regras estabelecidas pelos Tribunais Superiores e, o mais importante: como protocolar o requerimento no RH da sua prefeitura ou órgão.
 
-**Atenção:** Na maioria dos estatutos, os adicionais de insalubridade e periculosidade não são cumulativos. Se você tiver direito aos dois, precisará optar pelo de maior valor.
+---
 
-## 2. Como pedir (O Laudo LTCAT)
+## 1. Qual a diferença entre Insalubridade e Periculosidade?
 
-O RH não pode simplesmente olhar para você e decidir se a sua função é insalubre. Eles dependem de um **Laudo Técnico das Condições Ambientais do Trabalho (LTCAT)**, emitido por Médico do Trabalho ou Engenheiro de Segurança do Trabalho.
+Apesar de frequentemente confundidos, os dois adicionais tratam de riscos completamente diferentes e possuem regras de cálculo distintas.
 
-## 3. Como agir na prática 
+### O Adicional de Insalubridade
+Ocorre quando há **exposição a agentes químicos, físicos ou biológicos** acima dos limites de tolerância fixados pelo Ministério do Trabalho (NR-15).
+- **Exemplos de cargos:** Enfermeiros, Técnicos de Raio-X, Coletores de Lixo, Merendeiras (em certos casos), Coveiros, Profissionais que lidam com asfalto.
+- **Como é pago:** O adicional varia conforme o grau de risco (mínimo, médio ou máximo). Na iniciativa privada (CLT) é sobre o salário mínimo, mas no serviço público, o STF já decidiu (Súmula Vinculante 4) que não se pode usar o salário mínimo como base. Geralmente incide sobre o **salário base** do cargo efetivo, a depender do estatuto local.
 
-- **Passo 1: Protocole o requerimento.** Não espere a prefeitura agir. Protocole o pedido de "Adicional de Insalubridade/Periculosidade com base na natureza da atividade e local de lotação".
-- **Passo 2: Exija a perícia no local.** A administração é obrigada a mandar o Médico ou Engenheiro de Segurança do Trabalho até o seu local de trabalho para medir a exposição (ruído, agentes biológicos, etc).
-- **Passo 3: Acompanhe a emissão da Portaria.** Se o laudo for favorável, a concessão deve ser publicada no Diário Oficial e o pagamento inicia na folha seguinte.
-- **Passo 4: Retroativos e Justiça.** Se a prefeitura demorar 2 anos para fazer o laudo (mesmo você já trabalhando no setor), cabe ação judicial cobrando os atrasados desde a data em que você assumiu a lotação perigosa/insalubre.
+### O Adicional de Periculosidade
+Ocorre quando há **exposição permanente a inflamáveis, explosivos, energia elétrica de alta tensão ou atividades de segurança pessoal e patrimonial**. O risco aqui é de fatalidade instantânea (NR-16).
+- **Exemplos de cargos:** Guardas Municipais (Porte de arma), Eletricistas de Alta Tensão, Vigias noturnos (em certas legislações), Motoristas de transporte de inflamáveis.
+- **Como é pago:** O adicional é pago em percentual único (geralmente **30%** sobre o vencimento base).
+
+> [!WARNING]
+> **Atenção à Cumulatividade:** Na imensa maioria dos estatutos e segundo a jurisprudência dominante, os adicionais de insalubridade e periculosidade **não são cumulativos**. Se você tiver direito aos dois (ex: trabalha em um hospital insalubre mas lida com caldeiras explosivas), precisará optar pelo que render o maior valor na sua folha de pagamento.
+
+---
+
+## 2. Como pedir (O papel do LTCAT)
+
+O setor de Recursos Humanos (RH) da sua prefeitura não pode simplesmente "olhar" para o seu cargo e decidir se a função é insalubre. Eles dependem obrigatoriamente de um documento chamado **LTCAT (Laudo Técnico das Condições Ambientais do Trabalho)**.
+
+O LTCAT só pode ser emitido por:
+- Médico do Trabalho
+- Engenheiro de Segurança do Trabalho
+
+**O problema:** Muitas prefeituras não têm esse profissional nos quadros ou demoram anos para contratar uma empresa terceirizada para fazer os laudos. Enquanto o laudo não sai, o servidor não recebe.
+
+---
+
+## 3. Passo a Passo: Como agir na prática 
+
+Se você trabalha em área de risco e não recebe o adicional, siga este roteiro estratégico:
+
+### Passo 1: Protocole o requerimento por escrito
+Não espere a prefeitura agir, e não confie em "pedidos de boca". Você deve protocolar um pedido administrativo formal de *"Adicional de Insalubridade/Periculosidade com base na natureza da atividade e local de lotação"*. 
+
+💡 *Se você não sabe como redigir este documento, utilize nosso [Gerador de Requerimentos](/ferramentas/gerador-requerimento).*
+
+### Passo 2: Exija a perícia no local
+A administração pública é obrigada pelo princípio da eficiência a mandar o Médico ou Engenheiro de Segurança do Trabalho até o seu local de trabalho para medir a exposição (nível de ruído, agentes biológicos, radiação, etc).
+
+### Passo 3: Acompanhe a emissão da Portaria
+Se o laudo (LTCAT) for favorável, a concessão do seu adicional deve ser publicada no Diário Oficial. O pagamento inicia, via de regra, na folha do mês seguinte.
+
+### Passo 4: Cobre os Retroativos (Justiça)
+E se a prefeitura demorar 2 anos para fazer o laudo? Você trabalhou 2 anos no risco e não recebeu nada? 
+Nesse caso, a jurisprudência entende que cabe ação judicial cobrando os **atrasados desde a data do seu protocolo administrativo** (ou desde a data de início na lotação, dependendo da interpretação do juiz local).
+
+Para entrar com a ação, você precisará de um advogado especialista. 
+👉 *[Fale com nossos advogados parceiros pelo WhatsApp](https://wa.me/5594984478168).*
+
+---
+
+## 4. Leia Também
+
+Para entender mais sobre seus direitos e a relação com processos e punições, leia nossos outros guias essenciais:
+
+- **[Sindicância vs PAD: Entenda as Diferenças](/artigos/sindicancia-vs-pad-diferencas)**: O que acontece se houver acusações contra você no trabalho?
+- **[Estágio Probatório: Direitos e Deveres](/artigos/estagio-probatorio)**: Servidor em probatório também tem direito a insalubridade?
+- **[Servidor Público pode ter MEI?](/artigos/servidor-pode-ter-mei)**: Conheça as regras para abrir CNPJ sem tomar PAD.
+
+---
+*Fonte Consultada: Portal de Jurisprudência do [Supremo Tribunal Federal (STF)](https://portal.stf.jus.br/).*

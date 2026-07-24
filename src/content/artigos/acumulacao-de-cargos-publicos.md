@@ -3,6 +3,7 @@ title: 'Acumulação de Cargos Públicos: Regras, exceções e os limites da CF'
 description: 'Saiba exatamente quais cargos públicos podem ser acumulados licitamente, a regra de compatibilidade de horários e os riscos de um PAD.'
 date: '2026-08-06'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
 ---
 
 A regra geral no Brasil é claríssima: **é proibida a acumulação remunerada de cargos públicos** (Art. 37, XVI, da Constituição Federal). Contudo, a própria Constituição traz exceções vitais, principalmente para profissionais da saúde e educação.

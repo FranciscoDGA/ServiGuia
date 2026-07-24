@@ -3,6 +3,7 @@ title: 'Demissão no Estágio Probatório: É possível reverter a reprovação?
 description: 'Foi reprovado na Avaliação Especial de Desempenho e exonerado? Entenda por que 80% das demissões no probatório são ilegais e como anular o ato na Justiça.'
 date: '2026-08-20'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
 ---
 
 A exoneração por reprovação no estágio probatório é um dos traumas mais brutais para quem estudou anos para um concurso. A gestão avisa que o servidor não atingiu a pontuação mínima na Avaliação Especial de Desempenho e o desliga do serviço público. A boa notícia? **A esmagadora maioria dessas cassações é ilegal.**

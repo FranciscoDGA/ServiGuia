@@ -3,6 +3,7 @@ title: 'Desvio de Função no serviço público: Como provar e receber a diferen
 description: 'Você prestou concurso para Auxiliar, mas atua como Técnico e recebe o salário menor? Saiba como a Súmula 378 do STJ garante o pagamento das diferenças.'
 date: '2026-08-24'
 readTime: 5
+image: 'https://images.unsplash.com/photo-1450101499163-c8848c66cb85?auto=format&fit=crop&q=80'
 ---
 
 O desvio de função é o maior sintoma de má gestão no setor público. Ocorre quando o servidor é obrigado pela chefia a desempenhar atribuições mais complexas e de maior responsabilidade do que as previstas no edital do seu concurso, sem a respectiva contraprestação financeira.

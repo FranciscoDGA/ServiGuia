@@ -3,6 +3,7 @@ title: 'Licença Gala (Casamento): Quantos dias o servidor tem direito?'
 description: 'Vai casar? Entenda como funciona a licença casamento (gala) para o servidor público municipal e federal e saiba a partir de quando contar os dias.'
 date: '2026-08-02'
 readTime: 4
+image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
 ---
 
 Vai casar? Parabéns! A legislação garante a você um período de descanso remunerado logo após o matrimônio, conhecido tecnicamente como **Licença Gala**.

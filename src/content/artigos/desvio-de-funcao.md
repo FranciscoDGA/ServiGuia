@@ -3,6 +3,7 @@ title: 'Desvio de Função no município: Como juntar provas e pedir equiparaç�
 description: 'Você está exercendo atribuições mais complexas que as do seu cargo de origem? Entenda o que é desvio de função e como buscar seus direitos.'
 date: '2026-07-28'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1505664111306-651d6db048fd?auto=format&fit=crop&q=80'
 ---
 
 O desvio de função é uma das práticas mais comuns e irregulares nas prefeituras e estados: o servidor é concursado para um cargo de nível médio, mas acaba executando tarefas inerentes a um cargo de nível superior, sem receber por isso.

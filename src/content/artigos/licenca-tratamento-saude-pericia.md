@@ -3,6 +3,7 @@ title: 'Licença para Tratamento de Saúde: Regras e a temida Perícia Médica'
 description: 'Saiba como requerer a licença médica, os prazos para entregar atestados e como se comportar na junta médica da prefeitura.'
 date: '2026-08-11'
 readTime: 5
+image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80'
 ---
 
 Adquiriu uma doença e precisa se afastar? A Licença para Tratamento de Saúde é um direito básico, mas que gera muitas advertências e cortes de ponto por desconhecimento das regras de protocolo.

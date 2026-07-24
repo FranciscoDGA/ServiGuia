@@ -3,6 +3,7 @@ title: 'Horário Especial para Servidor Estudante: Direito ou Favor do RH?'
 description: 'Você passou no vestibular ou na pós-graduação presencial? Saiba como a lei garante a flexibilização do seu ponto sem precisar de advogado.'
 date: '2026-08-15'
 readTime: 5
+image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80'
 ---
 
 Muitos servidores travam suas carreiras acadêmicas por medo de perderem seus empregos ou por ouvirem do chefe: *"Você foi contratado para trabalhar nesse horário, se quer estudar, peça exoneração"*. Isso é um absurdo ilegal. O direito à educação e ao aperfeiçoamento tem proteção constitucional.

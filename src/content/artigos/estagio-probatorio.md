@@ -1,28 +1,54 @@
 ---
-title: 'Guia do Estágio Probatório: Direitos, avaliações e estabilidade constitucional'
-description: 'Desmistificando o estágio probatório: entenda seus direitos durante os primeiros 3 anos e como se defender de avaliações injustas.'
-date: '2026-07-27'
+title: 'Estágio Probatório: Regras, Avaliações e Demissão (Guia Completo)'
+description: 'Saiba quais são seus direitos e obrigações durante os 3 primeiros anos de serviço público e o que realmente pode causar reprovação.'
+date: '2026-07-26'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80'
 ---
 
-A aprovação no concurso público não garante a estabilidade automática. O estágio probatório é o período de avaliação obrigatório, que tem duração de 3 anos (36 meses) segundo a Constituição Federal, no qual o servidor demonstrará sua aptidão para o cargo.
+O **estágio probatório** é o período de teste pelo qual todo servidor aprovado em concurso público deve passar antes de adquirir a sonhada **estabilidade**. 
 
-## 1. Direitos do servidor em estágio probatório
+Durante os **3 anos de efetivo exercício** (Constituição Federal, art. 41), o servidor será avaliado constantemente para decidir se tem aptidão e capacidade para permanecer no cargo.
 
-Muitos RHs municipais cometem o erro de dizer que "servidor em probatório não tem direito a nada". Isso é mito. O servidor em estágio probatório tem os mesmos deveres e, via de regra, os mesmos direitos, com algumas ressalvas:
+---
 
-- **Pode tirar férias?** Sim, após 12 meses de exercício.
-- **Pode ter licença médica?** Sim. (Atenção: licenças prolongadas podem suspender a contagem do tempo do probatório).
-- **Pode assumir cargo em comissão?** A maioria dos estatutos permite, desde que seja no mesmo órgão, embora as regras variem bastante de município para município.
+## 1. O que é avaliado? (Fatores de Reprovação)
 
-## 2. A Avaliação Especial de Desempenho
+O seu chefe não pode reprovar você no estágio probatório simplesmente "porque não foi com a sua cara". A avaliação deve ser objetiva e justificada nos seguintes fatores (comuns à Lei 8.112/90 e estatutos locais):
 
-A cada semestre (ou ano, dependendo do local), você passará por avaliações baseadas em fatores como assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade.
+- **Assiduidade:** Não falte sem justificativa.
+- **Disciplina:** Respeito à hierarquia e normas do órgão.
+- **Capacidade de iniciativa:** Resolução de problemas.
+- **Produtividade:** Cumprimento de metas e entregas.
+- **Responsabilidade:** Zelo com a coisa pública.
 
-Ocorre que essas avaliações muitas vezes são feitas de forma subjetiva por chefias que têm desavenças pessoais com o servidor.
+## 2. Servidor em Estágio Probatório pode ser demitido sem PAD?
 
-## 3. Como agir na prática em caso de avaliação injusta
+**NÃO.** Esse é o maior mito das prefeituras de interior!
+A Súmula 21 do STF é claríssima: *"Funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as formalidades legais de apuração de sua capacidade."*
 
-- **Passo 1: Assine com ressalvas.** Ao receber a ficha de avaliação para assinar, se não concordar com as notas, assine e escreva ao lado: "Ciente, porém não concordo com a nota atribuída e apresentarei recurso".
-- **Passo 2: Protocole um recurso administrativo.** Você tem o direito constitucional da ampla defesa. Apresente recurso fundamentado para a comissão de estágio probatório provando (com relatórios, e-mails, depoimentos) sua produtividade e assiduidade.
-- **Passo 3: Mantenha um "Diário de Bordo".** Se você perceber que a chefia tem animosidade, guarde provas do seu trabalho. Salve PDFs de entregas, atas de reunião e e-mails de comunicação. Isso salvará a sua estabilidade caso eles tentem reprová-lo ao fim dos 3 anos.
+Ou seja, mesmo no probatório, se a administração quiser desligar o servidor por "insuficiência de desempenho" ou por punição disciplinar, terá que abrir um **processo administrativo com ampla defesa e contraditório**. O servidor tem direito a advogado e a questionar as notas baixas dadas pela chefia.
+
+## 3. Direitos de quem está no Probatório
+
+Muitos chefes abusam do poder e dizem: "Você está no probatório, não tem direito a nada". É mentira. 
+O servidor no estágio probatório **TEM** direito a:
+
+- Férias anuais e 1/3.
+- Receber 13º salário.
+- Licença para tratamento de saúde.
+- Licença-maternidade / paternidade.
+- Adicionais de Insalubridade e Periculosidade (se aplicável).
+- Exercer cargos em comissão (chefia/direção).
+
+**O que ele NÃO tem direito (geralmente):**
+- Licença-prêmio por assiduidade (só após os 3 ou 5 anos iniciais).
+- Licença para tratar de interesses particulares (sem remuneração).
+- Licença capacitação (doutorado/mestrado no exterior).
+
+> [!IMPORTANT]
+> **E se eu adoecer muito?** Os períodos de licença-saúde costumam suspender a contagem do tempo do probatório. Ou seja, se você ficou 3 meses doente, seu probatório vai demorar 3 anos e 3 meses para acabar.
+
+### Para aprofundar:
+- [Faltas e Abandono de Cargo: Como funciona?](/artigos/faltas-injustificadas-abandono-cargo)
+- [Cursos Rápidos para a sua Primeira Progressão](/cursos-parceiros)

@@ -3,6 +3,7 @@ title: 'Sexta-parte do Vencimento: O benefício estadual/municipal que poucos ex
 description: 'Saiba o que é a gratificação da sexta-parte após 20 anos de serviço público, como funciona e quem tem direito a esse salto salarial.'
 date: '2026-08-08'
 readTime: 5
+image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80'
 ---
 
 Se você está completando **20 anos de efetivo exercício** no serviço público (principalmente no Estado de São Paulo ou em municípios que espelham sua legislação), prepare-se para exigir um dos maiores bônus estatutários existentes: a **Sexta-Parte**.

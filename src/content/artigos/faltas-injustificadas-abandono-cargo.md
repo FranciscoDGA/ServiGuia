@@ -3,6 +3,7 @@ title: 'Faltas Injustificadas e Abandono de Cargo: Quantas faltas geram demissã
 description: 'Cuidado com os limites! Entenda quantas faltas interpoladas ou consecutivas caracterizam inassiduidade habitual e abandono de cargo no PAD.'
 date: '2026-08-12'
 readTime: 4
+image: 'https://images.unsplash.com/photo-1436450412740-6b988f486c6b?auto=format&fit=crop&q=80'
 ---
 
 O senso comum diz que "servidor público não é demitido por faltar". Isso é um mito perigoso. A inassiduidade é a causa **número um** de demissões em PADs no Brasil, justamente porque é a infração mais fácil de ser provada pela Administração (basta imprimir o espelho de ponto).

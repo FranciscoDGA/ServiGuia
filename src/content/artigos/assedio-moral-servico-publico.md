@@ -3,6 +3,7 @@ title: 'Assédio Moral no Serviço Público: Como provar e denunciar a chefia'
 description: 'Saiba o que configura assédio moral no ambiente público, como reunir provas incontestáveis e onde denunciar sem sofrer perseguição.'
 date: '2026-08-01'
 readTime: 8
+image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80'
 ---
 
 O assédio moral é uma epidemia silenciosa no serviço público. Muitas vezes disfarçado de "cobrança de metas" ou "excesso de trabalho", ele destrói a saúde mental do servidor. Como a chefia no setor público muitas vezes envolve indicações políticas (cargos em comissão), o concursado costuma ter medo de denunciar.

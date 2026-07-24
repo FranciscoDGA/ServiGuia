@@ -3,6 +3,7 @@ title: 'Remoção e Transferência de Servidor Público: O que diz a lei'
 description: 'Quer mudar de setor, de escola ou de cidade? Entenda a diferença entre remoção a pedido, de ofício e o direito à unidade familiar.'
 date: '2026-08-04'
 readTime: 5
+image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80'
 ---
 
 Mudar de local de trabalho é um dos pedidos mais frequentes nos RHs de prefeituras e estados, seja por insatisfação com a chefia ou mudança de residência. Juridicamente, isso é chamado de **Remoção**.

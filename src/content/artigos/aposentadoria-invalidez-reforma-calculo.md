@@ -3,6 +3,7 @@ title: 'Aposentadoria por Invalidez Pós-Reforma: O risco do cálculo proporcion
 description: 'Ficou incapacitado para o trabalho? Entenda a terrível regra do cálculo proporcional da Reforma da Previdência e saiba as doenças isentas.'
 date: '2026-08-17'
 readTime: 6
+image: 'https://images.unsplash.com/photo-1473186578172-c141e6798cf4?auto=format&fit=crop&q=80'
 ---
 
 A Reforma da Previdência (EC 103/2019) alterou até o nome do benefício. O que conhecíamos como Aposentadoria por Invalidez passou a ser chamado de **Aposentadoria por Incapacidade Permanente**. Mas a pior mudança não foi no nome, e sim no bolso do servidor doente.
