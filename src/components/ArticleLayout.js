@@ -19,6 +19,17 @@ export default function ArticleLayout({ children, title, date, readTime, image }
         {children}
       </div>
 
+      {/* CTA Cursos Parceiros */}
+      <div style={{ marginTop: '3rem', padding: '2rem', backgroundColor: '#ebf8ff', border: '2px solid #3182ce', borderRadius: '12px', textAlign: 'center' }}>
+        <h3 style={{ fontSize: '1.4rem', color: '#2b6cb0', marginBottom: '0.5rem', fontWeight: 'bold' }}>Quer subir de nível e aumentar seu salário?</h3>
+        <p style={{ color: '#2d3748', marginBottom: '1.5rem' }}>
+          Conheça as Pós-graduações parceiras do ServGuia (Reconhecidas pelo MEC) e garanta sua progressão de carreira.
+        </p>
+        <a href="/cursos-parceiros" className="btn btn-primary" style={{ display: 'inline-block', padding: '0.8rem 1.5rem', fontSize: '1rem', backgroundColor: '#3182ce' }}>
+          Ver Cursos de Pós-graduação
+        </a>
+      </div>
+
       {/* E-E-A-T Author Box */}
       <div className="author-box">
         <h3 style={{ color: 'var(--primary-color)', marginBottom: '0.5rem', fontSize: '1.2rem' }}>Sobre o Autor</h3>

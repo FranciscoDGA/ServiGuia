@@ -12,28 +12,28 @@ export default function CursosParceiros() {
       target: "Professores e Pedagogos",
       desc: "Especialização completa para quem busca assumir cargos de direção, coordenação ou garantir pontuação máxima na evolução funcional do magistério.",
       features: ["100% EaD (Estude no seu ritmo)", "Conclusão a partir de 4 meses", "Certificado válido no Brasil todo"],
-      link: "https://hotmart.com", // Substitua pelo link de afiliado
-      price: "12x R$ 39,90"
+      link: "https://go.hotmart.com/Q106876496O?dp=1",
+      price: "Ver valor no site"
     },
     {
-      title: "Gestão Pública Municipal",
+      title: "Gestão Pública Municipal e Controle Interno",
       badge: "Ideal para Administrativo/RH",
       badgeColor: "#e2e8f0",
       target: "Servidores Administrativos e Fiscais",
       desc: "Focado na Lei 8.112, nova lei de Licitações e orçamento público. Perfeito para servidores municipais que buscam cargos de chefia.",
       features: ["100% EaD (Sem TCC obrigatório)", "Focado em Licitações e Contratos", "Reconhecido pelo MEC"],
-      link: "https://hotmart.com", // Substitua pelo link de afiliado
-      price: "12x R$ 49,90"
+      link: "https://go.hotmart.com/Q106876549E?dp=1",
+      price: "Ver valor no site"
     },
     {
-      title: "Direito Administrativo Aplicado",
+      title: "Direito Administrativo para Concurso",
       badge: "Geral (Todos os Cargos)",
       badgeColor: "#e2e8f0",
       target: "Todos os Servidores",
       desc: "Domine PAD, Sindicância e Direitos dos Servidores. A pós-graduação definitiva para quem quer dominar seus direitos e subir de nível.",
       features: ["Aulas em Vídeo e Apostilas", "Especialização Lato Sensu (360h)", "Garante a pontuação máxima no PCC"],
-      link: "https://hotmart.com", // Substitua pelo link de afiliado
-      price: "12x R$ 59,90"
+      link: "https://go.hotmart.com/X106876628W",
+      price: "Ver valor no site"
     },
     {
       title: "Segurança Pública e Direitos Humanos",
@@ -42,8 +42,8 @@ export default function CursosParceiros() {
       target: "Guardas Municipais e Policiais",
       desc: "Especialização focada no aprimoramento tático, legal e humano de agentes de segurança pública municipais e estaduais.",
       features: ["100% EaD (Sem TCC)", "Grade atualizada com o SUSP", "Certificado Rápido"],
-      link: "https://hotmart.com", // Substitua pelo link de afiliado
-      price: "12x R$ 45,00"
+      link: "https://go.hotmart.com/U106876643M?dp=1",
+      price: "Ver valor no site"
     },
     {
       title: "Saúde Pública e ESF",
@@ -52,8 +52,8 @@ export default function CursosParceiros() {
       target: "Enfermeiros, Técnicos e ACS",
       desc: "Pós-graduação focada em Saúde Coletiva e Estratégia Saúde da Família. Aumente seu salário base com a especialização na sua área.",
       features: ["Especialização Lato Sensu", "Focado nas portarias do MS", "Conclusão a partir de 4 meses"],
-      link: "https://hotmart.com", // Substitua pelo link de afiliado
-      price: "12x R$ 49,90"
+      link: "https://go.hotmart.com/P106876675W",
+      price: "Ver valor no site"
     }
   ]
 
