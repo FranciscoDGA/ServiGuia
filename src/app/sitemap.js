@@ -18,6 +18,8 @@ export default function sitemap() {
     '/produtos/kit-requerimentos',
     '/assessoria-juridica',
     '/contato',
+    '/politica-de-privacidade',
+    '/termos-de-uso'
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date().toISOString(),
