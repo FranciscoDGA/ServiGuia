@@ -22,6 +22,8 @@ Na prática, a mecânica funciona da seguinte forma: você continua sofrendo o d
 
 > [!TIP]
 > **Vantagem Estratégica:** Permanecer na ativa com o Abono de Permanência permite que você acumule patrimônio de forma mais agressiva na reta final da carreira, já que você receberá, na prática, um "aumento" de 14% sem precisar de nenhuma promoção ou progressão.
+> 
+> Quer saber se você já atingiu a pontuação mínima ou a idade para pedir o benefício? Simule em 1 minuto na [Calculadora de Aposentadoria do Servidor Público](/ferramentas/calculadora-aposentadoria).
 
 ## 2. Preciso pedir ou é automático? O perigo da inércia
 

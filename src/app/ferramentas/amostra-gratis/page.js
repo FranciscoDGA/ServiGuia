@@ -52,12 +52,17 @@ export default function AmostraGratis() {
           <p style={{ color: '#15803d', marginBottom: '2rem' }}>Clique nos botões abaixo para fazer o download dos seus arquivos Word (.docx).</p>
           
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', alignItems: 'center' }}>
-            <a href="#" className="btn" style={{ background: '#2563eb', color: 'white', padding: '1rem 2rem', display: 'flex', gap: '0.5rem', width: '100%', maxWidth: '350px', justifyContent: 'center' }}>
-              <Download size={20} /> Requerimento de Férias.docx
+            <a 
+              href="/Kit-Requerimentos-Premium.zip" 
+              download="Kit-Requerimentos-Amostra.zip" 
+              className="btn" 
+              style={{ background: '#2563eb', color: 'white', padding: '1rem 2rem', display: 'flex', gap: '0.5rem', width: '100%', maxWidth: '380px', justifyContent: 'center', textDecoration: 'none', fontWeight: 'bold', borderRadius: '8px' }}
+            >
+              <Download size={20} /> Baixar Pacote de Amostra (.ZIP)
             </a>
-            <a href="#" className="btn" style={{ background: '#2563eb', color: 'white', padding: '1rem 2rem', display: 'flex', gap: '0.5rem', width: '100%', maxWidth: '350px', justifyContent: 'center' }}>
-              <Download size={20} /> Requerimento de Averbação.docx
-            </a>
+            <p style={{ fontSize: '0.85rem', color: '#166534', marginTop: '0.5rem' }}>
+              Inclui modelos em Word (.docx) editáveis prontos para preenchimento.
+            </p>
           </div>
 
           <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '1px solid #bbf7d0' }}>

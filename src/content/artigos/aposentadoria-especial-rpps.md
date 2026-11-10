@@ -35,6 +35,9 @@ Para se aposentar por essa regra de transição, o servidor precisa preencher si
 
 *A Grande Vantagem Estratégica:* Para atingir esses 86 pontos, você pode utilizar NÂO APENAS o tempo em que trabalhou em ambiente insalubre. O tempo que você trabalhou em atividade comum (administrativa, sem insalubridade, fora da área da saúde) **pode e deve ser usado para ajudar a compor a pontuação**, reduzindo assim a idade efetiva que você precisará ter no momento da aposentadoria.
 
+> [!TIP]
+> **Faça sua simulação online:** Descubra exatamente quantos pontos você soma hoje e quando alcançará a meta utilizando a nossa [Calculadora de Aposentadoria para Servidores e RPPS](/ferramentas/calculadora-aposentadoria).
+
 Para estruturar corretamente seu pedido de averbação de tempos variados e forçar o RH a aceitar seu cômputo de pontos, utilize nossos requerimentos pré-formatados disponíveis no [Kit de Requerimentos](/produtos/kit-requerimentos), desenhados para não deixar margem para interpretações negativas do órgão gestor.
 
 ## 3. O Fator Decisivo: Como provar a Atividade Especial?

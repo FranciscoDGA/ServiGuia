@@ -99,6 +99,44 @@ export default function Sobre() {
         </div>
       </section>
 
+      {/* Seção E-E-A-T: Metodologia e Critérios Editoriais */}
+      <section className="container" style={{ maxWidth: '900px', marginTop: '5rem' }}>
+        <div style={{ backgroundColor: 'var(--card-bg)', padding: '3rem', borderRadius: '12px', border: '1px solid var(--border-color)', boxShadow: '0 4px 20px rgba(0,0,0,0.04)' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.5rem' }}>
+            <ShieldCheck size={32} color="var(--secondary-color)" />
+            <h2 style={{ color: 'var(--primary-color)', margin: 0, fontSize: '1.8rem' }}>
+              Metodologia Editorial & Rigor Jurídico (E-E-A-T)
+            </h2>
+          </div>
+          <p style={{ color: 'var(--text-light)', fontSize: '1.05rem', lineHeight: '1.8', marginBottom: '1.5rem' }}>
+            Como os temas tratados pelo <strong>ServGuia</strong> envolvem a vida funcional, o patrimônio e a aposentadoria dos servidores públicos (categorizados como temas <em>Your Money or Your Life - YMYL</em>), mantemos uma política editorial estrita baseada nas seguintes diretrizes:
+          </p>
+
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1.5rem', marginTop: '1.5rem' }}>
+            <div style={{ padding: '1.25rem', backgroundColor: 'var(--bg-color)', borderRadius: '8px', borderLeft: '4px solid var(--secondary-color)' }}>
+              <h4 style={{ color: 'var(--primary-color)', marginBottom: '0.5rem', fontWeight: 'bold' }}>Fontes Oficiais Primárias</h4>
+              <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', lineHeight: '1.6', margin: 0 }}>
+                Nenhum conselho é baseado em "ouvi dizer". Todo o conteúdo é fundamentado na Constituição Federal, Emenda Constitucional nº 103/2019, Lei 8.112/90 e estatutos dos servidores municipais e estaduais.
+              </p>
+            </div>
+
+            <div style={{ padding: '1.25rem', backgroundColor: 'var(--bg-color)', borderRadius: '8px', borderLeft: '4px solid #059669' }}>
+              <h4 style={{ color: 'var(--primary-color)', marginBottom: '0.5rem', fontWeight: 'bold' }}>Jurisprudência Consolidada</h4>
+              <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', lineHeight: '1.6', margin: 0 }}>
+                Acompanhamos ativamente os Temas de Repercussão Geral do STF, Recursos Repetitivos do STJ e pareceres dos Tribunais de Contas (TCU, TCEs e TCMs) para garantir informações sem prazo de validade vencido.
+              </p>
+            </div>
+
+            <div style={{ padding: '1.25rem', backgroundColor: 'var(--bg-color)', borderRadius: '8px', borderLeft: '4px solid var(--accent-color)' }}>
+              <h4 style={{ color: 'var(--primary-color)', marginBottom: '0.5rem', fontWeight: 'bold' }}>Revisão por Especialistas</h4>
+              <p style={{ color: 'var(--text-light)', fontSize: '0.9rem', lineHeight: '1.6', margin: 0 }}>
+                Artigos e simuladores passam por validação técnica para garantir precisão nos cálculos de proventos, averbações pelo INSS (CTC), quinquênios e abono de permanência.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Convite para o Blog */}
       <section className="container" style={{ marginTop: '5rem', textAlign: 'center' }}>
         <div style={{ padding: '3rem', backgroundColor: 'var(--card-bg)', borderRadius: '12px', border: '1px solid var(--border-color)' }}>

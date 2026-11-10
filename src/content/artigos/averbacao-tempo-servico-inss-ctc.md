@@ -44,6 +44,9 @@ Por isso, a legislação federal permite, de forma inteligente, a emissão da **
 
 Assim, pode deixar os outros anos "guardados" intactos no INSS para, quem sabe, uma eventual aposentadoria por idade lá no futuro. Isso permite acumular duas aposentadorias de forma perfeitamente legal. Estratégia previdenciária é tudo!
 
+> [!TIP]
+> Antes de averbar seu tempo ou solicitar a CTC fracionada, faça uma simulação na nossa [Calculadora de Aposentadoria do RPPS](/ferramentas/calculadora-aposentadoria) para saber exatamente quantos anos você precisa averbar para atingir as regras de transição da EC 103/2019 sem desperdiçar tempo do INSS.
+
 ## 4. Como Agir na Prática e Não Perder Prazos
 
 Não seja o servidor que deixa para pensar na papelada no mês em que completa a idade de aposentadoria. Siga esse cronograma:
