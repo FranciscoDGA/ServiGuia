@@ -1,4 +1,4 @@
-import { getArticleData, getAllArticleSlugs } from '@/lib/markdown'
+import { getArticleData, getAllArticleSlugs, getSortedArticlesData } from '@/lib/markdown'
 import ArticleLayout from '@/components/ArticleLayout'
 
 export async function generateStaticParams() {
@@ -19,6 +19,30 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${baseUrl}/artigos/${resolvedParams.slug}`,
     },
+    openGraph: {
+      title: `${articleData.title} | ServGuia`,
+      description: articleData.description,
+      url: `${baseUrl}/artigos/${resolvedParams.slug}`,
+      siteName: 'ServGuia',
+      images: [
+        {
+          url: articleData.image || `${baseUrl}/logo.png`,
+          width: 1200,
+          height: 630,
+          alt: articleData.title,
+        },
+      ],
+      locale: 'pt_BR',
+      type: 'article',
+      publishedTime: articleData.date,
+      authors: ['Dr. Francisco Gomes'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: articleData.title,
+      description: articleData.description,
+      images: [articleData.image || `${baseUrl}/logo.png`],
+    },
     other: {
       amphtml: `${baseUrl}/web-stories/${resolvedParams.slug}`,
     }
@@ -28,16 +52,44 @@ export async function generateMetadata({ params }) {
 export default async function Article({ params }) {
   const resolvedParams = await params
   const articleData = await getArticleData(resolvedParams.slug)
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://servi-guia.vercel.app'
   
+  // Buscar 3 artigos relacionados para manter o usuário no site (reduzir bounce rate)
+  const allArticles = getSortedArticlesData()
+  const relatedArticles = allArticles
+    .filter(a => a.slug !== resolvedParams.slug)
+    .slice(0, 3)
+
+  const whatsappDuvidaUrl = `https://wa.me/5594984478168?text=${encodeURIComponent(`[SERVGUIA] Olá! Acabei de ler o artigo "${articleData.title}" e gostaria de tirar uma dúvida sobre a minha situação no serviço público.`)}`
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${baseUrl}/artigos/${resolvedParams.slug}`
+    },
     headline: articleData.title,
     description: articleData.description,
+    image: articleData.image ? [articleData.image] : [`${baseUrl}/logo.png`],
     datePublished: articleData.date,
+    dateModified: articleData.date,
     author: {
+      '@type': 'Person',
+      name: 'Dr. Francisco Gomes',
+      jobTitle: 'Especialista em Direito Administrativo e RPPS',
+      url: `${baseUrl}/sobre`
+    },
+    publisher: {
       '@type': 'Organization',
-      name: 'ServGuia'
+      name: 'ServGuia',
+      url: baseUrl,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${baseUrl}/logo-round.png`,
+        width: 256,
+        height: 256
+      }
     }
   }
 
@@ -52,16 +104,10 @@ export default async function Article({ params }) {
         date={articleData.date}
         readTime={articleData.readTime}
         image={articleData.image}
+        relatedArticles={relatedArticles}
+        whatsappUrl={whatsappDuvidaUrl}
       >
-      <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
-        
-        <div style={{ marginTop: '3rem', padding: '2rem', backgroundColor: 'var(--card-bg)', border: '2px solid var(--secondary-color)', borderRadius: 'var(--radius)', textAlign: 'center', boxShadow: 'var(--shadow)' }}>
-          <h3 style={{ fontSize: '1.5rem', color: 'var(--primary-color)', marginBottom: '0.5rem', fontWeight: 'bold' }}>Não perca seus direitos!</h3>
-          <p style={{ color: 'var(--text-color)', marginBottom: '1.5rem' }}>Faça parte do nosso grupo exclusivo no WhatsApp e receba dicas semanais sobre os direitos dos servidores públicos.</p>
-          <a href="https://chat.whatsapp.com/SEULINKAQUI" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ display: 'inline-block', padding: '1rem 2rem', fontSize: '1.1rem', backgroundColor: '#25D366' }}>
-            Entrar no Grupo VIP do WhatsApp
-          </a>
-        </div>
+        <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
       </ArticleLayout>
     </>
   )
