@@ -73,108 +73,111 @@ export default function RootLayout({ children }) {
 
         <main>{children}</main>
 
-        <footer className="footer" style={{ backgroundColor: '#102a43', color: 'white', paddingTop: '4rem', paddingBottom: '2rem', borderTop: '4px solid var(--secondary-color)' }}>
-          <div className="container">
-            <div className="footer-content" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '2.5rem' }}>
+        <footer className="footer" style={{ backgroundColor: '#09182a', color: 'white', paddingTop: '3.5rem', paddingBottom: '2rem', borderTop: '1px solid rgba(255,255,255,0.08)' }}>
+          <div className="container" style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 1.25rem' }}>
+            
+            <div className="footer-content" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '2rem', marginBottom: '2.5rem' }}>
               
               {/* Coluna 1: Branding Oficial */}
-              <div className="footer-column">
-                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.25rem' }}>
+              <div className="footer-column" style={{ maxWidth: '300px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem', marginBottom: '1rem' }}>
                   <div style={{
-                    width: '46px',
-                    height: '46px',
+                    width: '38px',
+                    height: '38px',
                     borderRadius: '50%',
                     overflow: 'hidden',
-                    border: '2px solid rgba(255,255,255,0.4)',
+                    border: '1.5px solid var(--secondary-color)',
                     backgroundColor: '#ffffff',
                     flexShrink: 0
                   }}>
                     <Image 
                       src="/logo-round.png" 
                       alt="ServGuia" 
-                      width={46} 
-                      height={46} 
+                      width={38} 
+                      height={38} 
                       style={{ objectFit: 'cover' }} 
                     />
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column' }}>
-                    <span style={{ fontSize: '1.5rem', fontWeight: '800', color: '#ffffff', lineHeight: '1.1' }}>
+                    <span style={{ fontSize: '1.35rem', fontWeight: '800', color: '#ffffff', lineHeight: '1.1' }}>
                       Serv<span style={{ color: '#ecc94b' }}>Guia</span>
                     </span>
-                    <span style={{ fontSize: '0.7rem', fontWeight: '600', color: 'rgba(255,255,255,0.7)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
+                    <span style={{ fontSize: '0.65rem', fontWeight: '700', color: 'rgba(255,255,255,0.6)', textTransform: 'uppercase', letterSpacing: '0.4px' }}>
                       Defesa & Carreira Pública
                     </span>
                   </div>
                 </div>
 
-                <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: '0.92rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
-                  Democratizando o conhecimento jurídico e administrativo para servidores estatutários de todos os municípios e estados do Brasil.
+                <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '0.85rem', lineHeight: '1.6', marginBottom: '1rem' }}>
+                  Portal informativo e prático para orientar servidores municipais e estaduais sobre seus direitos estatutários e previdenciários.
                 </p>
 
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', fontSize: '0.92rem' }}>
-                  <Link href="/sobre" style={{ color: 'rgba(255,255,255,0.85)', textDecoration: 'none' }}>Sobre Nós</Link>
-                  <Link href="/contato" style={{ color: 'rgba(255,255,255,0.85)', textDecoration: 'none' }}>Contato & Suporte</Link>
-                  <Link href="/termos-de-uso" style={{ color: 'rgba(255,255,255,0.85)', textDecoration: 'none' }}>Termos de Uso</Link>
-                  <Link href="/politica-de-privacidade" style={{ color: 'rgba(255,255,255,0.85)', textDecoration: 'none' }}>Política de Privacidade</Link>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', fontSize: '0.72rem', color: '#86efac' }}>
+                  <span>🔒 Compra Segura Hotmart</span>
+                  <span>•</span>
+                  <span>⚖️ Base STF / STJ</span>
                 </div>
               </div>
 
-              {/* Coluna 2: Guias e Conteúdo */}
+              {/* Coluna 2: Previdência & RPPS */}
               <div className="footer-column">
-                <h4 style={{ color: '#ecc94b', fontSize: '1.15rem', marginBottom: '1.25rem', fontWeight: 'bold' }}>Guias e Categorias</h4>
-                <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.92rem' }}>
-                  <li><Link href="/previdencia" style={{ color: 'rgba(255,255,255,0.85)' }}>Aposentadoria e RPPS</Link></li>
-                  <li><Link href="/direitos-licencas" style={{ color: 'rgba(255,255,255,0.85)' }}>Licença-Prêmio e Direitos</Link></li>
-                  <li><Link href="/evolucao-carreira" style={{ color: 'rgba(255,255,255,0.85)' }}>Evolução de Carreira e Salário</Link></li>
-                  <li><Link href="/blog" style={{ color: 'rgba(255,255,255,0.85)' }}>Todos os Artigos do Blog</Link></li>
+                <h4 style={{ color: '#ffffff', fontSize: '0.95rem', fontWeight: '700', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '1rem' }}>
+                  Previdência & RPPS
+                </h4>
+                <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.6rem', fontSize: '0.85rem' }}>
+                  <li><Link href="/ferramentas/calculadora-aposentadoria" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Calculadora de Aposentadoria</Link></li>
+                  <li><Link href="/artigos/aposentadoria-professor-municipal" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Aposentadoria de Professor</Link></li>
+                  <li><Link href="/artigos/abono-permanencia-requisitos-aposentadoria" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Abono de Permanência</Link></li>
+                  <li><Link href="/artigos/como-solicitar-ctc-fracionada-meu-inss-rpps" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Averbação de Tempo (CTC)</Link></li>
                 </ul>
               </div>
 
-              {/* Coluna 3: Ferramentas Gratuitas */}
+              {/* Coluna 3: Direitos & Defesa */}
               <div className="footer-column">
-                <h4 style={{ color: '#ecc94b', fontSize: '1.15rem', marginBottom: '1.25rem', fontWeight: 'bold' }}>Ferramentas & Simuladores</h4>
-                <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.92rem' }}>
-                  <li><Link href="/ferramentas/calculadora-aposentadoria" style={{ color: 'rgba(255,255,255,0.85)' }}>Calculadora de Aposentadoria RPPS</Link></li>
-                  <li><Link href="/ferramentas/gerador-requerimento" style={{ color: 'rgba(255,255,255,0.85)' }}>Gerador de Requerimentos (PDF)</Link></li>
-                  <li><Link href="/ferramentas/amostra-gratis" style={{ color: 'rgba(255,255,255,0.85)' }}>Amostra Grátis em Word (.docx)</Link></li>
-                  <li><Link href="/cursos-parceiros" style={{ color: 'rgba(255,255,255,0.85)' }}>Pós-graduações Reconhecidas MEC</Link></li>
-                  <li><a href={whatsappUrl} target="_blank" rel="noopener noreferrer" style={{ color: '#fc8181', fontWeight: 'bold' }}>Assessoria Jurídica Especializada</a></li>
+                <h4 style={{ color: '#ffffff', fontSize: '0.95rem', fontWeight: '700', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '1rem' }}>
+                  Direitos & Defesa
+                </h4>
+                <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.6rem', fontSize: '0.85rem' }}>
+                  <li><Link href="/artigos/modelo-defesa-previa-sindicancia-pad" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Defesa em Sindicância e PAD</Link></li>
+                  <li><Link href="/artigos/conversao-licenca-premio-em-pecunia-dinheiro" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Licença-Prêmio em Dinheiro</Link></li>
+                  <li><Link href="/artigos/indenizacao-ferias-nao-gozadas-aposentadoria-servidor" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Indenização de Férias</Link></li>
+                  <li><Link href="/artigos/reducao-jornada-pais-atipicos" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Redução de Jornada (TEA/PCD)</Link></li>
                 </ul>
               </div>
 
-              {/* Coluna 4: Produtos */}
+              {/* Coluna 4: Institucional & Produtos */}
               <div className="footer-column">
-                <h4 style={{ color: '#ecc94b', fontSize: '1.15rem', marginBottom: '1.25rem', fontWeight: 'bold' }}>Kits de Documentos</h4>
-                <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: '0.88rem', lineHeight: '1.5', marginBottom: '1rem' }}>
-                  Modelos prontos e validados juridicamente para protocolar no RH sem pagar fortunas a advogados.
-                </p>
-                <Link 
-                  href="/produtos/kit-requerimentos" 
-                  className="btn"
-                  style={{
-                    backgroundColor: '#ecc94b',
-                    color: '#1a202c',
-                    fontWeight: 'bold',
-                    padding: '0.75rem 1.25rem',
-                    borderRadius: '8px',
-                    display: 'inline-block',
-                    textAlign: 'center',
-                    fontSize: '0.92rem'
-                  }}
-                >
-                  Conhecer o Kit Premium
-                </Link>
+                <h4 style={{ color: '#ffffff', fontSize: '0.95rem', fontWeight: '700', textTransform: 'uppercase', letterSpacing: '0.5px', marginBottom: '1rem' }}>
+                  Portal & Suporte
+                </h4>
+                <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0.6rem', fontSize: '0.85rem' }}>
+                  <li><Link href="/produtos/kit-requerimentos" style={{ color: '#ecc94b', fontWeight: '700', textDecoration: 'none' }}>⭐ Kits de Requerimentos</Link></li>
+                  <li><Link href="/sobre" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Sobre Nós</Link></li>
+                  <li><Link href="/contato" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Contato & Suporte</Link></li>
+                  <li><Link href="/termos-de-uso" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Termos de Uso</Link></li>
+                  <li><Link href="/politica-de-privacidade" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none' }}>Política de Privacidade</Link></li>
+                </ul>
               </div>
 
             </div>
             
-            <div style={{ marginTop: '3rem', padding: '1.25rem', backgroundColor: 'rgba(0,0,0,0.25)', borderRadius: '10px', fontSize: '0.85rem', color: 'rgba(255,255,255,0.65)', textAlign: 'center', lineHeight: '1.6' }}>
-              <strong>Aviso Legal (Disclaimer):</strong> O ServGuia é um portal informativo independente e educacional. Não possuímos vínculo com órgãos governamentais ou prefeituras. Nossos modelos e simuladores destinam-se ao suporte administrativo do servidor e não substituem parecer jurídico individualizado em casos judiciais complexos.
+            {/* Aviso Legal & Linha de Rodapé */}
+            <div style={{ 
+              borderTop: '1px solid rgba(255,255,255,0.06)', 
+              paddingTop: '1.5rem', 
+              textAlign: 'center', 
+              display: 'flex', 
+              flexDirection: 'column', 
+              gap: '0.5rem' 
+            }}>
+              <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.45)', lineHeight: '1.5', maxWidth: '850px', margin: '0 auto' }}>
+                <strong>Aviso Legal:</strong> O ServGuia é um portal informativo independente de apoio ao servidor público. Não possuímos vínculo com órgãos estatais ou prefeituras. Nossos modelos de requerimento e simuladores têm caráter administrativo e educacional.
+              </p>
+              <p style={{ fontSize: '0.78rem', color: 'rgba(255,255,255,0.5)', margin: 0 }}>
+                &copy; {new Date().getFullYear()} ServGuia - O Guia do Servidor Público. Todos os direitos reservados.
+              </p>
             </div>
 
-            <div className="footer-bottom" style={{ marginTop: '2rem', textAlign: 'center', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '1.5rem', color: 'rgba(255,255,255,0.5)', fontSize: '0.85rem' }}>
-              <p>&copy; {new Date().getFullYear()} ServGuia - O Guia do Servidor Público. Todos os direitos reservados.</p>
-            </div>
           </div>
         </footer>
         <CookieBanner />
