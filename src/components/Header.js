@@ -88,9 +88,15 @@ export default function Header() {
               Categorias <span style={{ fontSize: '0.65em' }}>▼</span>
             </span>
             <div className="dropdown-content">
-              <Link href="/previdencia" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Aposentadoria & RPPS</Link>
-              <Link href="/direitos-licencas" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Licenças & Direitos</Link>
-              <Link href="/evolucao-carreira" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Progressão & Salário</Link>
+              <Link href="/previdencia" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>🏛️</span> Aposentadoria & RPPS
+              </Link>
+              <Link href="/direitos-licencas" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>⚖️</span> Licenças & Defesa em PAD
+              </Link>
+              <Link href="/evolucao-carreira" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>📈</span> Progressão & Salário
+              </Link>
             </div>
           </div>
 
@@ -98,11 +104,22 @@ export default function Header() {
             <span className="nav-link" style={{ display: 'flex', alignItems: 'center', gap: '4px', cursor: 'pointer', fontSize: '0.88rem', fontWeight: '600', whiteSpace: 'nowrap' }}>
               Ferramentas <span style={{ fontSize: '0.65em' }}>▼</span>
             </span>
-            <div className="dropdown-content">
-              <Link href="/ferramentas/calculadora-aposentadoria" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Calculadora RPPS</Link>
-              <Link href="/ferramentas/gerador-requerimento" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Gerador de Requerimento</Link>
-              <Link href="/ferramentas/amostra-gratis" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>Amostra Grátis (.docx)</Link>
-              <Link href="/cursos-parceiros" className="dropdown-item" style={{ color: '#059669' }} onClick={() => setIsMobileMenuOpen(false)}>Pós-graduações Reconhecidas</Link>
+            <div className="dropdown-content" style={{ minWidth: '270px' }}>
+              <Link href="/ferramentas" className="dropdown-item" style={{ borderBottom: '1px solid #f1f5f9', color: '#1a365d', fontWeight: '700' }} onClick={() => setIsMobileMenuOpen(false)}>
+                <span>🛠️</span> Todas as Ferramentas & Simuladores
+              </Link>
+              <Link href="/ferramentas/calculadora-aposentadoria" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>🧮</span> Calculadora RPPS & Abono
+              </Link>
+              <Link href="/ferramentas/gerador-requerimento" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>📄</span> Gerador de Requerimento PDF
+              </Link>
+              <Link href="/ferramentas/amostra-gratis" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>📥</span> Amostra Grátis Word (.docx)
+              </Link>
+              <Link href="/cursos-parceiros" className="dropdown-item" onClick={() => setIsMobileMenuOpen(false)}>
+                <span>🎓</span> Pós-graduações Reconhecidas MEC
+              </Link>
             </div>
           </div>
 

@@ -15,33 +15,77 @@ export default function AmostraGratis() {
   return (
     <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', paddingBottom: '5rem', fontFamily: 'var(--font-inter)' }}>
       
-      {/* Header Bar */}
-      <div style={{ background: '#09182a', padding: '1.2rem 1.5rem', borderBottom: '1px solid rgba(255,255,255,0.08)' }}>
-        <div className="container" style={{ maxWidth: '800px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <Link href="/ferramentas" style={{ color: 'rgba(255,255,255,0.7)', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.9rem', fontWeight: 600 }}>
-            <ArrowLeft size={16} /> Voltar para Ferramentas
-          </Link>
-          <span style={{ color: '#ecc94b', fontSize: '0.8rem', fontWeight: 700, letterSpacing: '0.5px' }}>
-            AMOSTRA 100% GRATUITA
-          </span>
-        </div>
-      </div>
+      {/* Hero Section Premium Oficial */}
+      <section style={{ 
+        position: 'relative', 
+        background: 'linear-gradient(135deg, #09182a 0%, #102a45 60%, #1a365d 100%)', 
+        color: 'white', 
+        padding: '4.5rem 1.5rem 5.5rem', 
+        overflow: 'hidden',
+        borderBottom: '1px solid rgba(255,255,255,0.08)'
+      }}>
+        {/* Glow de fundo */}
+        <div style={{ 
+          position: 'absolute', 
+          top: '-15%', 
+          right: '5%', 
+          width: '500px', 
+          height: '500px', 
+          background: 'radial-gradient(circle, rgba(236,201,75,0.12) 0%, transparent 70%)', 
+          pointerEvents: 'none' 
+        }}></div>
 
-      <div className="container" style={{ padding: '3.5rem 1.5rem', maxWidth: '800px' }}>
-        
-        <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
-          <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: '#ebf8ff', color: '#2b6cb0', padding: '0.4rem 1rem', borderRadius: '50px', fontSize: '0.85rem', fontWeight: 700, marginBottom: '1.2rem' }}>
-            <Sparkles size={16} /> ARQUIVOS EDITÁVEIS NO WORD (.DOCX)
+        <div className="container" style={{ position: 'relative', zIndex: 2, maxWidth: '800px', textAlign: 'center' }}>
+          
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.2rem' }}>
+            <Link 
+              href="/ferramentas" 
+              style={{ 
+                color: 'rgba(255,255,255,0.7)', 
+                textDecoration: 'none', 
+                display: 'inline-flex', 
+                alignItems: 'center', 
+                gap: '0.4rem', 
+                fontSize: '0.85rem',
+                backgroundColor: 'rgba(255,255,255,0.08)',
+                padding: '0.35rem 0.9rem',
+                borderRadius: '50px',
+                border: '1px solid rgba(255,255,255,0.15)'
+              }}
+            >
+              <ArrowLeft size={14} /> Voltar para Central de Ferramentas
+            </Link>
           </div>
-          
-          <h1 style={{ color: 'var(--primary-color)', marginBottom: '1rem', fontSize: 'clamp(2rem, 3.5vw, 2.7rem)', fontWeight: '800', lineHeight: 1.2 }}>
-            Amostra Grátis de Requerimentos Estatutários
+
+          <div style={{ 
+            display: 'inline-flex', 
+            alignItems: 'center', 
+            gap: '0.6rem', 
+            backgroundColor: 'rgba(236,201,75,0.12)', 
+            border: '1px solid rgba(236,201,75,0.3)', 
+            padding: '0.45rem 1.2rem', 
+            borderRadius: '50px', 
+            marginBottom: '1.2rem',
+            color: '#ecc94b',
+            fontSize: '0.85rem',
+            fontWeight: 700,
+            letterSpacing: '0.5px'
+          }}>
+            <Sparkles size={16} /> MODELOS EDITÁVEIS NO WORD (.DOCX) • 100% GRATUITO
+          </div>
+
+          <h1 style={{ fontSize: 'clamp(2rem, 3.8vw, 3rem)', marginBottom: '1rem', fontWeight: '800', lineHeight: 1.15, letterSpacing: '-0.5px' }}>
+            Amostra Grátis de Requerimentos <span style={{ color: '#ecc94b' }}>Estatutários</span>
           </h1>
-          
-          <p style={{ color: 'var(--text-light)', fontSize: '1.1rem', maxWidth: '650px', margin: '0 auto', lineHeight: 1.6 }}>
-            Baixe gratuitamente 2 modelos de requerimentos oficiais em formato Word para conferir o padrão jurídico e a fundamentação técnica do ServGuia.
+
+          <p style={{ fontSize: 'clamp(0.95rem, 2vw, 1.15rem)', color: 'rgba(255,255,255,0.85)', lineHeight: 1.6, maxWidth: '680px', margin: '0 auto' }}>
+            Baixe gratuitamente 2 modelos de requerimentos fundamentados para você testar a qualidade jurídica e a facilidade de preenchimento do material ServGuia.
           </p>
         </div>
+      </section>
+
+      {/* Main Container */}
+      <div className="container" style={{ marginTop: '-2.5rem', position: 'relative', zIndex: 10, maxWidth: '800px' }}>
 
         {!isUnlocked ? (
           <div style={{ 
@@ -50,36 +94,36 @@ export default function AmostraGratis() {
             borderRadius: '20px', 
             border: '1px solid #e2e8f0', 
             textAlign: 'center', 
-            boxShadow: '0 10px 25px -5px rgba(0,0,0,0.05)' 
+            boxShadow: '0 12px 30px -5px rgba(0,0,0,0.08)' 
           }}>
-            <h2 style={{ color: 'var(--primary-color)', marginBottom: '1.5rem', fontSize: '1.4rem', fontWeight: 700 }}>
-              Modelos Inclusos para Download Imediato:
+            <h2 style={{ color: 'var(--primary-color)', marginBottom: '1.5rem', fontSize: '1.4rem', fontWeight: 800 }}>
+              Modelos Prontos Inclusos para Download:
             </h2>
             
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1rem', margin: '0 auto 2.5rem', textAlign: 'left', maxWidth: '600px' }}>
               <div style={{ background: '#f8fafc', padding: '1.2rem', borderRadius: '12px', border: '1px solid #e2e8f0', display: 'flex', gap: '0.8rem', alignItems: 'flex-start' }}>
-                <FileText size={22} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} />
+                <FileText size={24} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} />
                 <div>
-                  <strong style={{ display: 'block', color: 'var(--primary-color)', fontSize: '0.95rem' }}>Requerimento de Indenização de Férias</strong>
-                  <span style={{ fontSize: '0.82rem', color: '#718096' }}>Com base no STF, sem incidência de IR.</span>
+                  <strong style={{ display: 'block', color: 'var(--primary-color)', fontSize: '0.95rem' }}>1. Requerimento de Indenização de Férias</strong>
+                  <span style={{ fontSize: '0.82rem', color: '#718096' }}>Com base no STF, sem incidência de Imposto de Renda.</span>
                 </div>
               </div>
 
               <div style={{ background: '#f8fafc', padding: '1.2rem', borderRadius: '12px', border: '1px solid #e2e8f0', display: 'flex', gap: '0.8rem', alignItems: 'flex-start' }}>
-                <FileText size={22} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} />
+                <FileText size={24} color="#2b6cb0" style={{ flexShrink: 0, marginTop: '2px' }} />
                 <div>
-                  <strong style={{ display: 'block', color: 'var(--primary-color)', fontSize: '0.95rem' }}>Requerimento de Averbação de Tempo (CTC)</strong>
-                  <span style={{ fontSize: '0.82rem', color: '#718096' }}>Para levar tempo do INSS para o RPPS.</span>
+                  <strong style={{ display: 'block', color: 'var(--primary-color)', fontSize: '0.95rem' }}>2. Requerimento de Averbação de Tempo (CTC)</strong>
+                  <span style={{ fontSize: '0.82rem', color: '#718096' }}>Para levar seu tempo do INSS para o RPPS.</span>
                 </div>
               </div>
             </div>
 
             <div style={{ display: 'flex', justifyContent: 'center', gap: '1.5rem', flexWrap: 'wrap', marginBottom: '2.5rem', color: '#4a5568', fontSize: '0.9rem' }}>
               <span style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
-                <CheckCircle2 size={16} color="#38a169" /> 100% Editável no Word
+                <CheckCircle2 size={16} color="#38a169" /> 100% Editável no Word (.docx)
               </span>
               <span style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
-                <CheckCircle2 size={16} color="#38a169" /> Citações da CF/88
+                <CheckCircle2 size={16} color="#38a169" /> Citações da CF/88 e STF
               </span>
               <span style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
                 <CheckCircle2 size={16} color="#38a169" /> Sem cobrança
@@ -94,10 +138,10 @@ export default function AmostraGratis() {
                 color: '#09182a', 
                 padding: '1.1rem 2.8rem', 
                 fontSize: '1.15rem', 
-                fontWeight: 700, 
+                fontWeight: 800, 
                 borderRadius: '50px',
                 border: 'none',
-                boxShadow: '0 8px 20px rgba(236,201,75,0.3)',
+                boxShadow: '0 8px 20px rgba(236,201,75,0.35)',
                 display: 'inline-flex',
                 alignItems: 'center',
                 gap: '0.6rem',

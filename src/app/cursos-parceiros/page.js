@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { GraduationCap, Award, CheckCircle2, TrendingUp, BookOpen, Star, AlertTriangle } from 'lucide-react'
+import { GraduationCap, Award, CheckCircle2, TrendingUp, BookOpen, Star, AlertTriangle, Sparkles, ArrowLeft, ArrowRight } from 'lucide-react'
 
 export default function CursosParceiros() {
   // ATENÇÃO: Substituir os links abaixo pelos seus LINKS DE AFILIADO
@@ -58,26 +58,79 @@ export default function CursosParceiros() {
   ]
 
   return (
-    <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', paddingBottom: '4rem' }}>
+    <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', paddingBottom: '5rem', fontFamily: 'var(--font-inter)' }}>
       
-      {/* Hero Section */}
-      <section style={{ position: 'relative', background: 'linear-gradient(135deg, #1a365d 0%, #2b6cb0 100%)', color: 'white', padding: '6rem 2rem', overflow: 'hidden' }}>
-        <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', opacity: 0.1, backgroundImage: 'url(https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80)', backgroundSize: 'cover', backgroundPosition: 'center' }}></div>
-        <div className="container" style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '800px' }}>
-          <div style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.2)', padding: '1rem', borderRadius: '50%', marginBottom: '1.5rem' }}>
-            <GraduationCap size={40} color="#ecc94b" />
+      {/* Hero Section Premium Oficial */}
+      <section style={{ 
+        position: 'relative', 
+        background: 'linear-gradient(135deg, #09182a 0%, #102a45 60%, #1a365d 100%)', 
+        color: 'white', 
+        padding: '4.5rem 1.5rem 5.5rem', 
+        overflow: 'hidden',
+        borderBottom: '1px solid rgba(255,255,255,0.08)'
+      }}>
+        {/* Glow de fundo */}
+        <div style={{ 
+          position: 'absolute', 
+          top: '-15%', 
+          right: '5%', 
+          width: '500px', 
+          height: '500px', 
+          background: 'radial-gradient(circle, rgba(236,201,75,0.12) 0%, transparent 70%)', 
+          pointerEvents: 'none' 
+        }}></div>
+
+        <div className="container" style={{ position: 'relative', zIndex: 2, textAlign: 'center', maxWidth: '860px' }}>
+          
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.2rem' }}>
+            <Link 
+              href="/ferramentas" 
+              style={{ 
+                color: 'rgba(255,255,255,0.7)', 
+                textDecoration: 'none', 
+                display: 'inline-flex', 
+                alignItems: 'center', 
+                gap: '0.4rem', 
+                fontSize: '0.85rem',
+                backgroundColor: 'rgba(255,255,255,0.08)',
+                padding: '0.35rem 0.9rem',
+                borderRadius: '50px',
+                border: '1px solid rgba(255,255,255,0.15)'
+              }}
+            >
+              <ArrowLeft size={14} /> Voltar para Central de Ferramentas
+            </Link>
           </div>
-          <h1 style={{ fontSize: '3.5rem', marginBottom: '1rem', fontWeight: '800', lineHeight: 1.1 }}>
+
+          <div style={{ 
+            display: 'inline-flex', 
+            alignItems: 'center', 
+            gap: '0.6rem', 
+            backgroundColor: 'rgba(236,201,75,0.12)', 
+            border: '1px solid rgba(236,201,75,0.3)', 
+            padding: '0.45rem 1.2rem', 
+            borderRadius: '50px', 
+            marginBottom: '1.2rem',
+            color: '#ecc94b',
+            fontSize: '0.85rem',
+            fontWeight: 700,
+            letterSpacing: '0.5px'
+          }}>
+            <Sparkles size={16} /> ESPECIALIZAÇÕES EAD RECONHECIDAS PELO MEC
+          </div>
+
+          <h1 style={{ fontSize: 'clamp(2.1rem, 4vw, 3.2rem)', marginBottom: '1.1rem', fontWeight: '800', lineHeight: 1.15, letterSpacing: '-0.5px' }}>
             Acelere sua Progressão por <span style={{ color: '#ecc94b' }}>Títulos</span>
           </h1>
-          <p style={{ fontSize: '1.25rem', opacity: 0.9, lineHeight: 1.6 }}>
-            Cursos de Pós-Graduação EaD reconhecidos pelo MEC. Estude em casa, conquiste seu certificado rapidamente e garanta o seu aumento salarial (progressão vertical) na prefeitura ou estado.
+
+          <p style={{ fontSize: 'clamp(0.95rem, 2vw, 1.15rem)', color: 'rgba(255,255,255,0.85)', lineHeight: 1.6, maxWidth: '780px', margin: '0 auto' }}>
+            Cursos de Pós-Graduação EaD 100% online reconhecidos pelo MEC. Estude em casa, conquiste seu certificado a partir de 4 meses e garanta seu aumento salarial permanente no Plano de Cargos e Carreira (PCC).
           </p>
         </div>
       </section>
 
       {/* Main Content */}
-      <section className="container" style={{ marginTop: '4rem' }}>
+      <section className="container" style={{ marginTop: '-2.5rem', position: 'relative', zIndex: 10 }}>
         <h2 style={{ textAlign: 'center', fontSize: '2rem', color: 'var(--primary-color)', marginBottom: '3rem' }}>
           Pós-Graduações Recomendadas para Servidores
         </h2>

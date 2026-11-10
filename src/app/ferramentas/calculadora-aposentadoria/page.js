@@ -13,6 +13,7 @@ import {
   Clock, 
   FileText, 
   ArrowRight,
+  ArrowLeft,
   ShieldAlert,
   ChevronDown,
   Sparkles
@@ -168,46 +169,86 @@ export default function CalculadoraAposentadoria() {
   ]
 
   return (
-    <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', padding: '3rem 1rem 5rem' }}>
-      <div className="container" style={{ maxWidth: '960px', margin: '0 auto' }}>
-        
-        {/* Cabeçalho SEO */}
-        <header style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
+    <div style={{ backgroundColor: 'var(--bg-color)', minHeight: '100vh', paddingBottom: '5rem', fontFamily: 'var(--font-inter)' }}>
+      
+      {/* Hero Section Premium Oficial */}
+      <section style={{ 
+        position: 'relative', 
+        background: 'linear-gradient(135deg, #09182a 0%, #102a45 60%, #1a365d 100%)', 
+        color: 'white', 
+        padding: '4.5rem 1.5rem 5.5rem', 
+        overflow: 'hidden',
+        borderBottom: '1px solid rgba(255,255,255,0.08)'
+      }}>
+        {/* Glow de fundo */}
+        <div style={{ 
+          position: 'absolute', 
+          top: '-15%', 
+          right: '5%', 
+          width: '500px', 
+          height: '500px', 
+          background: 'radial-gradient(circle, rgba(236,201,75,0.12) 0%, transparent 70%)', 
+          pointerEvents: 'none' 
+        }}></div>
+
+        <div className="container" style={{ position: 'relative', zIndex: 2, maxWidth: '860px', textAlign: 'center' }}>
+          
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.2rem' }}>
+            <Link 
+              href="/ferramentas" 
+              style={{ 
+                color: 'rgba(255,255,255,0.7)', 
+                textDecoration: 'none', 
+                display: 'inline-flex', 
+                alignItems: 'center', 
+                gap: '0.4rem', 
+                fontSize: '0.85rem',
+                backgroundColor: 'rgba(255,255,255,0.08)',
+                padding: '0.35rem 0.9rem',
+                borderRadius: '50px',
+                border: '1px solid rgba(255,255,255,0.15)'
+              }}
+            >
+              <ArrowLeft size={14} /> Voltar para Central de Ferramentas
+            </Link>
+          </div>
+
           <div style={{ 
             display: 'inline-flex', 
             alignItems: 'center', 
-            gap: '0.5rem', 
-            backgroundColor: '#ebf8ff', 
-            color: '#2b6cb0', 
-            padding: '0.4rem 1rem', 
-            borderRadius: '999px', 
-            fontSize: '0.85rem', 
-            fontWeight: '600',
-            marginBottom: '1rem' 
+            gap: '0.6rem', 
+            backgroundColor: 'rgba(236,201,75,0.12)', 
+            border: '1px solid rgba(236,201,75,0.3)', 
+            padding: '0.45rem 1.2rem', 
+            borderRadius: '50px', 
+            marginBottom: '1.2rem',
+            color: '#ecc94b',
+            fontSize: '0.85rem',
+            fontWeight: 700,
+            letterSpacing: '0.5px'
           }}>
-            <Sparkles size={16} /> Atualizada para a Emenda Constitucional 103/2019 (RPPS)
+            <Sparkles size={16} /> ATUALIZADA PARA EMENDA CONSTITUCIONAL 103/2019 (RPPS)
           </div>
-          <h1 style={{ 
-            fontSize: '2.2rem', 
-            color: 'var(--primary-color)', 
-            fontWeight: '800', 
-            lineHeight: '1.25',
-            marginBottom: '0.75rem' 
-          }}>
-            Calculadora de Aposentadoria do Servidor Público & Professores
+
+          <h1 style={{ fontSize: 'clamp(2rem, 3.8vw, 3rem)', marginBottom: '1rem', fontWeight: '800', lineHeight: 1.15, letterSpacing: '-0.5px' }}>
+            Calculadora de Aposentadoria do <span style={{ color: '#ecc94b' }}>Servidor Público</span>
           </h1>
-          <p style={{ fontSize: '1.1rem', color: 'var(--text-light)', maxWidth: '720px', margin: '0 auto' }}>
-            Simule gratuitamente quanto tempo falta para pendurar as chuteiras no RPPS municipal ou estadual, comparando regras de transição, pedágio e pontos.
+
+          <p style={{ fontSize: 'clamp(0.95rem, 2vw, 1.15rem)', color: 'rgba(255,255,255,0.85)', lineHeight: 1.6, maxWidth: '720px', margin: '0 auto' }}>
+            Simule gratuitamente quanto tempo falta para se aposentar no RPPS municipal ou estadual, comparando regras de transição por pontos, pedágio de 100% e a redução de 5 anos para professores.
           </p>
-        </header>
+        </div>
+      </section>
+
+      <div className="container" style={{ maxWidth: '960px', margin: '0 auto', marginTop: '-2.5rem', position: 'relative', zIndex: 10 }}>
 
         {/* Formulário Interativo */}
         <div style={{ 
-          background: 'var(--card-bg)', 
+          background: 'white', 
           padding: '2.5rem', 
-          borderRadius: '16px', 
-          boxShadow: '0 10px 30px rgba(0,0,0,0.06)', 
-          border: '1px solid var(--border-color)',
+          borderRadius: '20px', 
+          boxShadow: '0 12px 30px -5px rgba(0,0,0,0.08)', 
+          border: '1px solid #e2e8f0',
           marginBottom: '3rem'
         }}>
           <form onSubmit={handleCalculate}>
