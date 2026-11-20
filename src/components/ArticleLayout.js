@@ -69,7 +69,7 @@ export default function ArticleLayout({ children, title, date, readTime, image, 
       {/* Imagem de Capa */}
       {image && (
         <div className="article-image-box" style={{ width: '100%', borderRadius: '16px', overflow: 'hidden', marginBottom: '2.5rem', boxShadow: '0 4px 15px rgba(0,0,0,0.06)' }}>
-          <img src={image} alt={title} style={{ width: '100%', height: 'auto', maxHeight: '420px', objectFit: 'cover' }} />
+          <img src={image} alt={title} width={1200} height={630} style={{ width: '100%', height: 'auto', maxHeight: '420px', objectFit: 'cover' }} />
         </div>
       )}
 

@@ -25,8 +25,11 @@ import {
 } from 'lucide-react'
 
 export const metadata = {
-  title: 'ServGuia - O Portal Oficial do Servidor Público (RPPS e Direitos)',
-  description: 'Descubra quanto tempo falta para se aposentar, destrave adicionais salariais atrasados e acesse modelos jurídicos prontos para protocolar no RH.',
+  title: 'ServGuia — Portal do Servidor Público, RPPS e Direitos',
+  description: 'Calcule sua aposentadoria RPPS, destrave adicionais salariais atrasados e acesse modelos jurídicos prontos para protocolar no RH.',
+  alternates: {
+    canonical: '/',
+  },
 }
 
 export default function Home() {
@@ -570,6 +573,9 @@ export default function Home() {
                       <img 
                         src={art.image} 
                         alt={art.title} 
+                        width={800}
+                        height={400}
+                        loading="lazy"
                         style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
                       />
                     </div>

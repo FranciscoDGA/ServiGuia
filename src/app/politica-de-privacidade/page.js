@@ -1,6 +1,9 @@
 export const metadata = {
   title: 'Política de Privacidade | ServGuia',
-  description: 'Nossa política de privacidade e proteção de dados de acordo com a LGPD.',
+  description: 'Nossa política de privacidade e proteção de dados pessoais para servidores públicos de acordo com a LGPD (Lei nº 13.709/2018).',
+  alternates: {
+    canonical: '/politica-de-privacidade',
+  },
 };
 
 export default function PoliticaPrivacidade() {

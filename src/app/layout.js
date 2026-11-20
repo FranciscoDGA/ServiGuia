@@ -6,25 +6,23 @@ import ExitIntentPopup from '@/components/ExitIntentPopup'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
+import { SITE_URL } from '@/lib/site'
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' })
 
 export const metadata = {
   title: 'ServGuia - O Guia Definitivo do Servidor Público',
   description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos municipais e estaduais.',
-  metadataBase: new URL('https://servi-guia.vercel.app'),
+  metadataBase: new URL(SITE_URL),
   manifest: '/manifest.json',
-  alternates: {
-    canonical: 'https://servi-guia.vercel.app',
-  },
   openGraph: {
     title: 'ServGuia - O Guia Definitivo do Servidor Público',
     description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.',
-    url: 'https://servi-guia.vercel.app',
+    url: SITE_URL,
     siteName: 'ServGuia',
     images: [
       {
-        url: '/logo.png', // Idealmente deve ser uma imagem retangular de 1200x630px para OG
+        url: '/logo.png',
         width: 1200,
         height: 630,
       },
@@ -43,19 +41,33 @@ export const metadata = {
 }
 
 export const viewport = {
-  themeColor: '#000000',
+  themeColor: '#09182a',
   width: 'device-width',
   initialScale: 1,
-  maximumScale: 1,
 }
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Organization',
-  name: 'ServGuia',
-  url: 'https://servi-guia.vercel.app',
-  logo: 'https://servi-guia.vercel.app/logo.png',
-  description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.'
+  '@graph': [
+    {
+      '@type': 'Organization',
+      name: 'ServGuia',
+      url: SITE_URL,
+      logo: `${SITE_URL}/logo.png`,
+      description: 'O portal completo para a evolução da carreira, defesa de direitos e planejamento de aposentadoria de servidores públicos.',
+    },
+    {
+      '@type': 'WebSite',
+      name: 'ServGuia',
+      url: SITE_URL,
+      inLanguage: 'pt-BR',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: `${SITE_URL}/blog?q={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+    },
+  ],
 }
 
 export default function RootLayout({ children }) {

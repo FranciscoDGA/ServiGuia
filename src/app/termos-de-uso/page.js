@@ -1,6 +1,9 @@
 export const metadata = {
   title: 'Termos de Uso | ServGuia',
-  description: 'Termos e Condições de Uso dos serviços e produtos do site ServGuia.',
+  description: 'Termos e Condições de Uso dos simuladores previdenciários, modelos de requerimento e guias informativos do portal ServGuia.',
+  alternates: {
+    canonical: '/termos-de-uso',
+  },
 };
 
 export default function TermosDeUso() {

@@ -3,8 +3,11 @@ import Link from 'next/link'
 import { BookOpen, Sparkles, Clock, Calendar, ArrowRight, Search, ShieldCheck } from 'lucide-react'
 
 export const metadata = {
-  title: 'Artigos & Guias para o Servidor Público | ServGuia',
-  description: 'Acervo completo de artigos, jurisprudência do STF/STJ, modelos de requerimentos e análises sobre previdência (RPPS), PAD, licenças e progressão funcional.'
+  title: 'Artigos & Guias do Servidor Público | ServGuia',
+  description: 'Acervo completo de artigos, jurisprudência do STF/STJ, modelos de requerimentos e análises sobre previdência (RPPS), PAD e licenças.',
+  alternates: {
+    canonical: '/blog',
+  },
 }
 
 export default async function Blog({ searchParams }) {
@@ -139,6 +142,9 @@ export default async function Blog({ searchParams }) {
                   <img 
                     src={article.image} 
                     alt={article.title} 
+                    width={800}
+                    height={400}
+                    loading="lazy"
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
                   />
                   {article.category && (

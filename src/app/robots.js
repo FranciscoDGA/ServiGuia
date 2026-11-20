@@ -1,12 +1,19 @@
-export default function robots() {
-  const baseUrl = 'https://servi-guia.vercel.app' // Troque pelo domínio real assim que tiver
+import { SITE_URL } from '@/lib/site'
 
+export default function robots() {
   return {
-    rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: ['/api/', '/_next/'],
-    },
-    sitemap: `${baseUrl}/sitemap.xml`,
+    rules: [
+      {
+        userAgent: '*',
+        allow: ['/', '/api/cover'],
+        disallow: ['/api/', '/_next/'],
+      },
+      {
+        userAgent: ['OAI-SearchBot', 'ChatGPT-User', 'GPTBot', 'PerplexityBot', 'ClaudeBot', 'Claude-SearchBot'],
+        allow: ['/', '/api/cover'],
+        disallow: ['/api/', '/_next/'],
+      },
+    ],
+    sitemap: `${SITE_URL}/sitemap.xml`,
   }
 }

@@ -1,5 +1,6 @@
 import { getArticleData, getAllArticleSlugs, getSortedArticlesData } from '@/lib/markdown'
 import ArticleLayout from '@/components/ArticleLayout'
+import { SITE_URL, toAbsoluteUrl } from '@/lib/site'
 
 export async function generateStaticParams() {
   const paths = getAllArticleSlugs()
@@ -11,7 +12,8 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const resolvedParams = await params
   const articleData = await getArticleData(resolvedParams.slug)
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://servi-guia.vercel.app'
+  const baseUrl = SITE_URL
+  const coverUrl = toAbsoluteUrl(articleData.image || '/logo.png')
   
   return {
     title: `${articleData.title} | ServGuia`,
@@ -26,7 +28,7 @@ export async function generateMetadata({ params }) {
       siteName: 'ServGuia',
       images: [
         {
-          url: articleData.image || `${baseUrl}/logo.png`,
+          url: coverUrl,
           width: 1200,
           height: 630,
           alt: articleData.title,
@@ -41,7 +43,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: articleData.title,
       description: articleData.description,
-      images: [articleData.image || `${baseUrl}/logo.png`],
+      images: [coverUrl],
     },
     other: {
       amphtml: `${baseUrl}/web-stories/${resolvedParams.slug}`,
@@ -52,7 +54,8 @@ export async function generateMetadata({ params }) {
 export default async function Article({ params }) {
   const resolvedParams = await params
   const articleData = await getArticleData(resolvedParams.slug)
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://servi-guia.vercel.app'
+  const baseUrl = SITE_URL
+  const coverUrl = toAbsoluteUrl(articleData.image || '/logo.png')
   
   // Buscar 3 artigos relacionados para manter o usuário no site (reduzir bounce rate)
   const allArticles = getSortedArticlesData()
@@ -71,7 +74,7 @@ export default async function Article({ params }) {
     },
     headline: articleData.title,
     description: articleData.description,
-    image: articleData.image ? [articleData.image] : [`${baseUrl}/logo.png`],
+    image: [coverUrl],
     datePublished: articleData.date,
     dateModified: articleData.date,
     author: {

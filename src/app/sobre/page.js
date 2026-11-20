@@ -15,8 +15,11 @@ import {
 } from 'lucide-react'
 
 export const metadata = {
-  title: 'Sobre o ServGuia | Nossa Missão, Equipe e Metodologia E-E-A-T',
-  description: 'Conheça o ServGuia, portal independente criado por servidores para democratizar o conhecimento estatutário, aposentadoria RPPS e defesa da carreira pública.'
+  title: 'Sobre o ServGuia | Missão, Equipe e Metodologia E-E-A-T',
+  description: 'Conheça o ServGuia, portal independente criado para democratizar o conhecimento estatutário, aposentadoria RPPS e defesa da carreira pública.',
+  alternates: {
+    canonical: '/sobre',
+  },
 }
 
 export default function Sobre() {

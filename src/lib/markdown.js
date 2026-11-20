@@ -6,6 +6,17 @@ import html from 'remark-html'
 
 const contentDir = path.join(process.cwd(), 'src/content/artigos')
 
+function resolveCoverImage(rawImage, title = '', category = '') {
+  if (rawImage && !/picsum\.photos/i.test(rawImage)) {
+    return rawImage
+  }
+  const params = new URLSearchParams({
+    title: title || 'Guia do Servidor Público',
+    category: category || 'Direitos & RPPS',
+  })
+  return `/api/cover?${params.toString()}`
+}
+
 export function getSortedArticlesData() {
   if (!fs.existsSync(contentDir)) return []
   
@@ -20,7 +31,8 @@ export function getSortedArticlesData() {
       
       return {
         slug,
-        ...matterResult.data
+        ...matterResult.data,
+        image: resolveCoverImage(matterResult.data.image, matterResult.data.title, matterResult.data.category),
       }
   })
   
@@ -62,6 +74,7 @@ export async function getArticleData(slug) {
   return {
     slug,
     contentHtml,
-    ...matterResult.data
+    ...matterResult.data,
+    image: resolveCoverImage(matterResult.data.image, matterResult.data.title, matterResult.data.category),
   }
 }
