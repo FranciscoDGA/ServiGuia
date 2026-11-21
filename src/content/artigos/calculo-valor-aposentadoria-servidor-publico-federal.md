@@ -4,6 +4,7 @@ description: 'Saiba como fazer o cálculo do valor da aposentadoria do servidor 
 date: '2026-11-21'
 readTime: 10
 category: 'Previdência & RPPS'
+image: '/images/artigos/calculo-valor-aposentadoria-servidor-publico-federal.jpg'
 ---
 
 O **cálculo do valor da aposentadoria do servidor público federal** em 2026 segue a regra geral da **Emenda Constitucional nº 103/2019**: apura-se a **média aritmética simples de 100% de todos os salários de contribuição desde julho de 1994** e aplica-se o coeficiente de **60% mais 2% para cada ano de contribuição que exceder 20 anos** (para homens e mulheres). As duas grandes exceções são quem ingressou **até 31/12/2003** — que ainda pode garantir **integralidade e paridade** nas regras de transição — e quem ingressou **após a criação da Funpresp (2013)**, cujo benefício no RPPS fica limitado ao **teto do INSS**, complementado pela previdência complementar.

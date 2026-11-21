@@ -28,7 +28,8 @@ export default function Previdencia() {
       desc: "Entenda a fórmula 60% + 2%, média salarial desde 1994, integralidade e paridade (antes de 2003), Funpresp e exemplo numérico passo a passo.",
       icon: <Calculator size={24} color="#1e3a8a" />,
       link: "/artigos/calculo-valor-aposentadoria-servidor-publico-federal",
-      tag: "Cálculo RPPS Federal"
+      tag: "Cálculo RPPS Federal",
+      image: "/images/artigos/calculo-valor-aposentadoria-servidor-publico-federal.jpg"
     },
     {
       title: "Aposentadoria de Professor Municipal e Estadual",
@@ -252,6 +253,18 @@ export default function Previdencia() {
                 transition: 'all 0.25s ease'
               }}
             >
+              {item.image && (
+                <div style={{ width: 'calc(100% + 3.6rem)', height: '180px', margin: '-1.8rem -1.8rem 1.2rem -1.8rem', borderRadius: '16px 16px 0 0', overflow: 'hidden' }}>
+                  <img
+                    src={item.image}
+                    alt={item.title}
+                    width={800}
+                    height={400}
+                    loading="lazy"
+                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                  />
+                </div>
+              )}
               {/* Top Tag & Badge */}
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.2rem', gap: '0.5rem', flexWrap: 'wrap' }}>
                 <span style={{ 
