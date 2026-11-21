@@ -21,6 +21,16 @@ import {
 export default function Previdencia() {
   const articles = [
     {
+      title: "Cálculo do Valor da Aposentadoria do Servidor Público Federal (2026)",
+      badge: "Novo • Regras EC 103/2019",
+      badgeColor: "#1e3a8a",
+      badgeTextColor: "#ffffff",
+      desc: "Entenda a fórmula 60% + 2%, média salarial desde 1994, integralidade e paridade (antes de 2003), Funpresp e exemplo numérico passo a passo.",
+      icon: <Calculator size={24} color="#1e3a8a" />,
+      link: "/artigos/calculo-valor-aposentadoria-servidor-publico-federal",
+      tag: "Cálculo RPPS Federal"
+    },
+    {
       title: "Aposentadoria de Professor Municipal e Estadual",
       badge: "Mais Buscado • Atualizado 2026",
       badgeColor: "#ecc94b",
